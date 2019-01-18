@@ -14,13 +14,17 @@ git config --global user.email "$GH_USER_EMAIL"
 git config --global user.name "$GH_USER_NAME"
 
 set +x
-git remote set-url origin https://${GH_TOKEN}@github.com/vk496/IPTVspian.git
+git remote set-url origin https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG
 set -x
 
 ## UPLOAD NEW HOSTS
 git checkout $TRAVIS_BRANCH
+
+# ----------- STUFF -----------
 docker run --rm -it webgrabplus cat .wg++/guide.xml > guide.xml
 git add guide.xml
+# ----------- STUFF -----------
+
 git commit -m "$(date +%d-%m-%Y)"
 
 git push origin $TRAVIS_BRANCH
