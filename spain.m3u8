@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guid$
+#EXTINF:-1 tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
