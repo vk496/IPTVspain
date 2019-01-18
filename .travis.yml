@@ -1,0 +1,14 @@
+language: bash
+
+env:
+  global:
+    - secure: "fMcrpBqvdgU9OyN25W9fhTHS/FnVkHoy0Vtc0Di32Xc0phaCA105mKRB0wEblPER0sDJucM1Ppn6j5W/Pdjebt6jZj8yUldj5OCDmMk0Psb3aHcutxH+oVjJ6nGYUyxK+nYrktlHAt/n2ofpO3/V3OfOMKCc0GCYKCc2ED2JNwRfE9owrj47Bw2gsF7et4/Vlibq/xkCwUnzvFpaRm1LyYL3ttoUb03o0CtITsvfSug5qZKnwTQPAaYx13w1zTBGb7VnYWL9jwcHO5CzXFzWUOYLiPuk++k2O4KDLJTS9TJpkAgdlUpEcf7TbjzA+p70FMtRqhZJgvHbyMKw1s9qWKL9ZJTbcDDkqq2ivDVtW3wqlB2tTxV7PD1oyxPGnrJy1LNMriKA4A2IYLlomQwmW71HZLS3kTpzzGdKdr/8Vv9APL4lpXUULdheWgGNl6DmBTJ66Albxb/vm98Uw85vaH7T/LMwIwPGBfYjbl3brVX2hPCgDPAZI+R5p3MBG6mb3VI/3SI7q2MQCo+9KQ4133OWsOXdxsMEluN25j+TFgJqcX12LpPWhA3gth/r+SFVnCysIdeiXO8eWb9d88QqWQkhc39N+yGETGWjwmsGdbbHA8ZoVtqSpuk8NyUFv5HzHH20Xq4fokXuSTvzeU6GfJzUFD7gp2wPbPcY3fy7aZ0="
+
+services:
+  - docker
+
+script:
+ - docker build -t webgrabplus .
+
+after_success:
+ - bash .travis/deploy.sh
