@@ -14,8 +14,7 @@ git config --global user.email "$GH_USER_EMAIL"
 git config --global user.name "$GH_USER_NAME"
 
 set +x
-git remote set-url origin 
-https://vk496:$GH_TOKEN@github.com/vk496/IPTVspian
+git remote set-url origin https://vk496:$GH_TOKEN@github.com/vk496/IPTVspian
 set -x
 
 ## UPLOAD NEW HOSTS
