@@ -23,4 +23,4 @@ docker run --rm -it webgrabplus cat .wg++/guide.xml > guide.xml
 git add guide.xml
 git commit -m "$(date +%d-%m-%Y)"
 
-git push origin $TRAVIS_BRANCH 2>/dev/null
+git push origin $TRAVIS_BRANCH
