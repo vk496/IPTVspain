@@ -22,7 +22,20 @@ git checkout $TRAVIS_BRANCH
 
 # ----------- STUFF -----------
 docker run --rm -it webgrabplus cat .wg++/guide.xml > guide.xml
-git add guide.xml
+
+set +x
+pout=$(cat guide.xml | .travis/pastebin.sh)
+set -x
+
+if [ -z $pout ]; then
+  exit 1
+fi
+
+pasteid=$(echo $pout | rev | cut -d/ -f1 | rev)
+
+sed -i -E "s/url-epg=\".+\"/url-epg=\"http:\/\/pastebin.com\/raw\/$pasteid\"/g" spain.m3u8
+
+git add guide.xml spain.m3u8
 # ----------- STUFF -----------
 
 git commit -m "$(date +%d-%m-%Y)"
