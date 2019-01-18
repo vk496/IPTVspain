@@ -1,11 +1,1262 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
+  <channel id="LA 1">
+    <display-name lang="es">La 1</display-name>
+    <url>http://www.plus.es</url>
   </channel>
-  <programme start="20190118000000 +0000" stop="20190118235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <channel id="LA 2">
+    <display-name lang="es">La 2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">antena 3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Neox">
+    <display-name lang="es">neox</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="La Sexta">
+    <display-name lang="es">La Sexta</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <programme start="20190118060000 +0100" stop="20190118063000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336867V518403" />
+  </programme>
+  <programme start="20190118063000 +0100" stop="20190118083000 +0100" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Inma Gómez Lobo y Ana Ibáñez conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Ángel Pons presenta la información deportiva(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336869V518404" />
+  </programme>
+  <programme start="20190118083000 +0100" stop="20190118100000 +0100" channel="LA 1">
+    <title lang="es">Los desayunos de TVE</title>
+    <desc lang="es">Xabier Fortes dirige y presenta este programa de análisis de la actualidad, entrevistas y tertulias. El espacio da cabida a las diversas opiniones que expresa su panel de comentaristas, representativo del más amplio abanico de sensibilidades(n)</desc>
+    <credits>
+      <director>Xabier Fortes</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVET1565221" />
+  </programme>
+  <programme start="20190118100000 +0100" stop="20190118132500 +0100" channel="LA 1">
+    <title lang="es">La mañana de La 1</title>
+    <desc lang="es">Magacín matinal que reúne información de actualidad, entrevistas, reportajes y diversas secciones divulgativas. María Casado conduce este espacio diario que además da cobertura a las noticias más importantes del día(n)</desc>
+    <credits>
+      <director>Víctor Otamendi</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M872600V1565222" />
+  </programme>
+  <programme start="20190118132500 +0100" stop="20190118140000 +0100" channel="LA 1">
+    <title lang="es">Torres en la cocina</title>
+    <sub-title lang="es">Patatas rellenas de fondue. Entrecot</sub-title>
+    <desc lang="es">Sergio y Javier preparan una fondue con la que rellenan unas patatas y unas tiras de careta de cerdo crujientes. Además, por si acaso alguien echa en falta la nieve, inventan la manera de hacerla en la cocina sin usar ni siquiera hielo(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M371313V1620590" />
+  </programme>
+  <programme start="20190118140000 +0100" stop="20190118143000 +0100" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <desc lang="es">Redifusión de los mejores momentos de La1(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M919674V1599786" />
+  </programme>
+  <programme start="20190118143000 +0100" stop="20190118150000 +0100" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje(n)</desc>
+    <credits>
+      <director>Carmina Jaro Hernández</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336877V924507" />
+  </programme>
+  <programme start="20190118150000 +0100" stop="20190118160000 +0100" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Raquel González(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVET518438" />
+  </programme>
+  <programme start="20190118160000 +0100" stop="20190118161500 +0100" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <desc lang="es">Redifusión de los mejores momentos de La1(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M919674V1599786" />
+  </programme>
+  <programme start="20190118161500 +0100" stop="20190118162500 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de Televisión Española es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336881V332735" />
+  </programme>
+  <programme start="20190118162500 +0100" stop="20190118172000 +0100" channel="LA 1">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">Silvia descubre nueva información sobre el caso del estrangulador. Mientras tanto, Alicia recibe la visita de Quintero. Miralles viaja a Italia para estar con su marido y con Olga. Luis despide a Andrea y le dice a su madre que han cortado. Álvaro rechaza a Sara y le confiesa que sigue colgado de Silvia(n)</desc>
+    <credits>
+      <actor>Roberto Álvarez</actor>
+      <actor>Luisa Martín</actor>
+      <actor>Mamen Camacho</actor>
+      <actor>Andrea del Río</actor>
+      <actor>Elisa Mouliaá</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900712V1614765" />
+    <episode-num system="onscreen">S3 E30</episode-num>
+  </programme>
+  <programme start="20190118172000 +0100" stop="20190118181500 +0100" channel="LA 1">
+    <title lang="es">Acacias 38</title>
+    <desc lang="es">Telmo está destrozado tras encontrar el cadáver de su mentor. Méndez se encarga del caso y después de varios interrogatorios sospecha que Agustina sabe algo, pero la criada le evita(n)</desc>
+    <credits>
+      <actor>Sandra Marchena</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Roger Berruezo</actor>
+      <actor>Marc Parejo</actor>
+      <actor>Andrea López</actor>
+      <actor>Inés Aldea</actor>
+      <actor>Sara Miquel</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336861V1614766" />
+    <episode-num system="onscreen">S1 E931</episode-num>
+  </programme>
+  <programme start="20190118181500 +0100" stop="20190118184500 +0100" channel="LA 1">
+    <title lang="es">Centro médico</title>
+    <desc lang="es">Ficción basada en casos clínicos reales, curiosos y atractivos, que recrea el proceso de detección de un trastorno en la consulta hasta la intervención pertinente. Se presentan dolencias y enfermedades raras, poco conocidas y los tratamientos médicos más innovadores(n)</desc>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M886473V1620591" />
+    <episode-num system="onscreen">S10 E165</episode-num>
+  </programme>
+  <programme start="20190118184500 +0100" stop="20190118192500 +0100" channel="LA 1">
+    <title lang="es">Centro médico</title>
+    <desc lang="es">Ficción basada en casos clínicos reales, curiosos y atractivos, que recrea el proceso de detección de un trastorno en la consulta hasta la intervención pertinente. Se presentan dolencias y enfermedades raras, poco conocidas y los tratamientos médicos más innovadores(n)</desc>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M886473V1620592" />
+    <episode-num system="onscreen">S10 E166</episode-num>
+  </programme>
+  <programme start="20190118192500 +0100" stop="20190118203000 +0100" channel="LA 1">
+    <title lang="es">España directo</title>
+    <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros(n)</desc>
+    <credits>
+      <director>Enrique Álvarez</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M913064V1590483" />
+  </programme>
+  <programme start="20190118203000 +0100" stop="20190118210000 +0100" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336885V1152748" />
+  </programme>
+  <programme start="20190118210000 +0100" stop="20190118220000 +0100" channel="LA 1">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Sergio Sauca(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336869V518466" />
+  </programme>
+  <programme start="20190118220000 +0100" stop="20190118221000 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de Televisión Española es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336881V332735" />
+  </programme>
+  <programme start="20190118221000 +0100" stop="20190118235000 +0100" channel="LA 1">
+    <title lang="es">Gotti</title>
+    <desc lang="es">John Travolta protagoniza el biopic del famoso mafioso estadounidense John Gotti (1940-2002), jefe de la familia Gambino, una de las más importantes del crimen organizado en la Norteamérica del siglo XX(n)</desc>
+    <credits>
+      <director>Kevin Connolly</director>
+      <actor>John Travolta</actor>
+      <actor>Kelly Preston</actor>
+      <actor>Spencer Lofranco</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>Stacy Keach</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>William DeMeo</actor>
+      <actor>Lydia Hull</actor>
+      <actor>Spencer Rocco Lofranco</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937460V1535411" />
+  </programme>
+  <programme start="20190118235000 +0100" stop="20190119013000 +0100" channel="LA 1">
+    <title lang="es">Ejecutor</title>
+    <desc lang="es">Tras el asesinato de varios hijos de agentes federales por causas desconocidas, se elige a un especialista del FBI para que desarrolle una investigación. Los crímenes esconden una oscura trama con demasiados intereses económicos como para que puedan salir a la luz(n)</desc>
+    <credits>
+      <director>John Irvin</director>
+      <actor>Sam Wanamaker</actor>
+      <actor>Robert Davi</actor>
+      <actor>Darren McGavin</actor>
+      <actor>Steven Hill</actor>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Kathryn Harrold</actor>
+      <actor>Paul Shenar</actor>
+      <actor>Joe Regalbuto</actor>
+      <actor>Mordecai Lawner</actor>
+      <actor>Ed Lauter</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M919678V171318" />
+  </programme>
+  <programme start="20190118060000 +0100" stop="20190118063000 +0100" channel="LA 2">
+    <title lang="es">LA 2</title>
+    <category lang="es">Sin clasificar</category>
+  </programme>
+  <programme start="20190118063000 +0100" stop="20190118070000 +0100" channel="LA 2">
+    <title lang="es">That's English</title>
+    <desc lang="es">Programa divulgativo que ofrece un curso de inglés a distancia, creado por el Ministerio de Educación en colaboración con la BBC británica y Televisión Española. El curso permite obtener el Certificado del Ciclo Elemental de la Escuela Oficial de Idiomas(n)</desc>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322641V524042" />
+  </programme>
+  <programme start="20190118070000 +0100" stop="20190118073000 +0100" channel="LA 2">
+    <title lang="es">Vías romanas en Europa</title>
+    <desc lang="es">En la Edad Antigua, los ingenieros del Imperio romano crearon comunicaciones terrestres para agilizar los viajes por su territorrio. Este documental muetra todas las infraestructuras que marcaron una época y fueron un legado para las siguientes generaciones(n)</desc>
+    <credits>
+      <director>Juan Frutos</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M544928V1293401" />
+  </programme>
+  <programme start="20190118073000 +0100" stop="20190118080000 +0100" channel="LA 2">
+    <title lang="es">Inglés Online</title>
+    <desc lang="es">Curso de ingles de Televisión Española para hisponoparlantes(n)</desc>
+    <date>2018</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M683344V1483506" />
+  </programme>
+  <programme start="20190118080000 +0100" stop="20190118090000 +0100" channel="LA 2">
+    <title lang="es">Grecia, de las montañas a la costa</title>
+    <sub-title lang="es">Epiro</sub-title>
+    <desc lang="es">Epiro es una región conflictiva entre Albania y Grecia. Parte de su pasado es turco pero desde hace 100 años pertenece a Grecia. Desde el Parque Nacional de Vikos-Aoos, veremos aldeas de montaña con tejas de piedra, aisladas, a más de mil metros de altitud(n)</desc>
+    <credits>
+      <director>Johannes Backes</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M566216V1445185" />
+  </programme>
+  <programme start="20190118090000 +0100" stop="20190118093000 +0100" channel="LA 2">
+    <title lang="es">El señor de los bosques</title>
+    <sub-title lang="es">Campas De Arraba - Parque Natural De Gorbea</sub-title>
+    <desc lang="es">En este programa, el micólogo Vicente Sevilla visita las Campas de Arraba, unas praderas a 1000 metros de altitud en el corazón del Parque Natural de Gorbea(n)</desc>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M850218V1617335" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20190118093000 +0100" stop="20190118095500 +0100" channel="LA 2">
+    <title lang="es">Aquí hay trabajo</title>
+    <desc lang="es">Un espacio que resume la actualidad del mundo laboral, con información sobre su situación, sobre becas y cursos de formación. Todo apoyado con invitados especialistas. Además, el programa muestra ofertas de empleo a las que pueden acceder los televidentes(n)</desc>
+    <credits>
+      <director>Carmen Álvarez Lozano</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M896593V1447526" />
+  </programme>
+  <programme start="20190118095500 +0100" stop="20190118105500 +0100" channel="LA 2">
+    <title lang="es">UNED</title>
+    <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia. Ofrece la información sobre los contenidos de las asignaturas que integran las distintas carreras y del curso de acceso a la universidad para mayores de 25 años(n)</desc>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322677V524174" />
+  </programme>
+  <programme start="20190118105500 +0100" stop="20190118115000 +0100" channel="LA 2">
+    <title lang="es">Cuadernos de paso</title>
+    <sub-title lang="es">I-Cuaderno de los oscos</sub-title>
+    <desc lang="es">Serie documental que aporta una mirada diferente, desde una perspectiva intimista, sobre comarcas, pueblos y lugares poco conocidos de España. El espacio ha sido dirigido, escrito y realizado por Juan Manuel Blázquez y es una coproducción de TVE y DeAPlaneta(n)</desc>
+    <credits>
+      <director>Juan Manuel Blázquez</director>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936440V1377897" />
+  </programme>
+  <programme start="20190118115000 +0100" stop="20190118122500 +0100" channel="LA 2">
+    <title lang="es">Diario de un nómada</title>
+    <sub-title lang="es">Despedida en Tijuana</sub-title>
+    <desc lang="es">Miguel Silvestre recorre el continente sudamericano tras las huellas de los descubridores españoles. Un viaje que abarca desde el Estrecho de Magallanes hasta el Canal de Panamá(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M932394V1375302" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20190118122500 +0100" stop="20190118135000 +0100" channel="LA 2">
+    <title lang="es">Lorca</title>
+    <sub-title lang="es">La muerte</sub-title>
+    <desc lang="es">El alzamiento militar triunfa en Granada y comienzan las detenciones y fusilamientos indiscriminados. El Comandante Valdés es el nuevo Gobernador Civil de Granada y se mantiene en contacto con el General Queipo de Llano, que decide el destino de Lorca(n)</desc>
+    <credits>
+      <director>Juan Antonio Bardem</director>
+      <actor>Lola Gaos</actor>
+      <actor>Pilar Bardem</actor>
+      <actor>Nickolas Grace</actor>
+      <actor>Núria Espert</actor>
+      <actor>José Manuel Cervino</actor>
+      <actor>Margarita Lozano</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M551780V1439746" />
+  </programme>
+  <programme start="20190118135000 +0100" stop="20190118144500 +0100" channel="LA 2">
+    <title lang="es">Destino</title>
+    <sub-title lang="es">Melilla</sub-title>
+    <desc lang="es">Espacio que redescubre España a través de los extranjeros que han establecido su lugar de residencia en este país. El programa se centra en el enriquecimiento de la cultura y la diversidad españolas que aporta un punto de vista ajeno, la mirada de los recién llegados(n)</desc>
+    <credits>
+      <director>Iñaki del Moral</director>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M915075V1331463" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20190118144500 +0100" stop="20190118154500 +0100" channel="LA 2">
+    <title lang="es">Las rutas de Ambrosio</title>
+    <sub-title lang="es">Vall D'Aran</sub-title>
+    <desc lang="es">Gonzalo inicia su viaje gastronómico en el río Garona. En sus aguas, siempre ha habido esturiones, pero hoy se cría una variedad adaptada a la producción del caviar: la siberiana. Gonzalo aprende a extraer y degustar este manjar(n)</desc>
+    <credits>
+      <director>Nahúm Varas</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936419V1617330" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20190118154500 +0100" stop="20190118163000 +0100" channel="LA 2">
+    <title lang="es">Saber y ganar</title>
+    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental(n)</desc>
+    <credits>
+      <director>Sergi Schaaff</director>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322618V1482155" />
+  </programme>
+  <programme start="20190118163000 +0100" stop="20190118172000 +0100" channel="LA 2">
+    <title lang="es">La ruta de la seda en tren</title>
+    <desc lang="es">Una vía ferroviaria unirá esta ruta y con ello abrirá un nuevo capítulo en la historia(n)</desc>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938097V1534697" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190118172000 +0100" stop="20190118181000 +0100" channel="LA 2">
+    <title lang="es">Grecia, de las montañas a la costa</title>
+    <sub-title lang="es">Costa Meridional y Ática</sub-title>
+    <desc lang="es">Pescadores, monjes, escultores y más gente anónima introducen los edificios históricos, antiguas tradiciones y artes culinarias del país heleno(n)</desc>
+    <credits>
+      <director>Johannes Backes</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M566216V1447245" />
+  </programme>
+  <programme start="20190118181000 +0100" stop="20190118183500 +0100" channel="LA 2">
+    <title lang="es">Jara y sedal</title>
+    <sub-title lang="es">A un paso de Toledo</sub-title>
+    <desc lang="es">Serie dedicada al estudio de las modalidades más tradicionales de la caza y la pesca en España(n)</desc>
+    <credits>
+      <director>Álvaro Benavent</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M912466V1620852" />
+  </programme>
+  <programme start="20190118183500 +0100" stop="20190118190500 +0100" channel="LA 2">
+    <title lang="es">El escarabajo verde</title>
+    <sub-title lang="es">Pastando con lobos</sub-title>
+    <desc lang="es">El lobo sigue creando polémica, aunque ha llegado para quedarse. En un marco europeo de conservación y reintroducción de grandes carnívoros los ganaderos en extensivo peninsulares buscan fórmulas para volver a aprender a convivir con este depredador(n)</desc>
+    <credits>
+      <director>Mario de la Mano</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M897525V1604327" />
+  </programme>
+  <programme start="20190118190500 +0100" stop="20190118200000 +0100" channel="LA 2">
+    <title lang="es">Código final</title>
+    <desc lang="es">Concurso presentado por Goyo Jiménez en el que cinco participantes deben responder preguntas y juegos de lógica e irse eliminando hasta que solo quede uno, que se batirá en duelo con un guardián que ha acumulado dinero para hacerse con su sitio(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M915485V1620850" />
+    <episode-num system="onscreen">S1 E49</episode-num>
+  </programme>
+  <programme start="20190118200000 +0100" stop="20190118202500 +0100" channel="LA 2">
+    <title lang="es">Cocina real</title>
+    <sub-title lang="es">El Castillo de Chillingham</sub-title>
+    <desc lang="es">El castillo de Chillingham, en Inglaterra, es famoso por todas sus historias de misterio y por las apariciones de sus particulares almas en pena. Pero a su propietario no le impide invitar a distinguidos amigos. Incluso él colaborará en el menú con la caza y la pesca(n)</desc>
+    <credits>
+      <director>Stefan Pannen</director>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M611501V1469066" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190118202500 +0100" stop="20190118212500 +0100" channel="LA 2">
+    <title lang="es">Días de cine</title>
+    <desc lang="es">Espacio que recoge la actualidad cinematográfica española e internacional desgranando los estrenos de la cartelera. El programa se hace eco, también, de lo que acontece en los festivales y repasa la trayectoria de actores y directores clave del séptimo arte(n)</desc>
+    <credits>
+      <director>Gerardo Sánchez</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M892588V1620851" />
+  </programme>
+  <programme start="20190118212500 +0100" stop="20190118220000 +0100" channel="LA 2">
+    <title lang="es">Ese programa del que usted me habla</title>
+    <desc lang="es">María Gómez, Marta Flich y Alberto Casado conducen este espacio diario de humor y actualidad de media hora de duración. El programa repasa cada día desde la perspectiva de la comedia la actualidad política, cultural, social y deportiva(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M921916V1620849" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+  </programme>
+  <programme start="20190118220000 +0100" stop="20190118221500 +0100" channel="LA 2">
+    <title lang="es">La suerte en tus manos</title>
+    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números(n)</desc>
+    <date>2017</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M323350V518464" />
+  </programme>
+  <programme start="20190118221500 +0100" stop="20190119003500 +0100" channel="LA 2">
+    <title lang="es">En la ciudad sin límites</title>
+    <desc lang="es">Víctor se reúne con su familia en París para cuidar de su padre enfermo, Max. Un día sorprende a su padre tirando las medicinas y vistiéndose a escondidas para intentar escapar de la clínica. La familia, inmersa en la herencia de su imperio farmacéutico, quita importancia a esos actos, considerando que son sólo producto de su locura. Víctor, en cambio, conmovido por la soledad del anciano, intenta ganarse su confianza y acaba convirtiéndose en su cómplice. Así, lo ayuda a escaparse de la clínica y lo acompaña por las calles de esa ciudad donde Max pasó su juventud y que ahora ya no reconoce. Poco a poco, Víctor descubre que la locura de su padre esconde un secreto y que no es el hombre que siempre aparentó ser. Descubre también que su madre hizo algo que no le puede perdonar y que toda la familia debe su existencia a una mentira. Antonio Hernández dirige este drama familiar ganador del Goya al mejor guión y a la mejor actriz secundaria -que obtuvo Geraldine Chaplin- y que también estuvo nominado a mejor película y mejor director. El argentino Leonardo Sbaraglia da vida a Víctor, que desmonta la gran mentira familiar en torno a su padre, que interpreta genialmente Fernando Fernán-Gómez(n)</desc>
+    <credits>
+      <director>Antonio Hernández</director>
+      <actor>Leonardo Sbaraglia</actor>
+      <actor>Fernando Fernán Gómez</actor>
+      <actor>Geraldine Chaplin</actor>
+      <actor>Adriana Ozores</actor>
+      <actor>Ana Fernández</actor>
+      <actor>Leticia Brédice</actor>
+      <actor>Roberto Álvarez</actor>
+      <actor>Álex Casanovas</actor>
+      <actor>Mónica Estarreado</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937535V244306" />
+  </programme>
+  <programme start="20190118040000 +0100" stop="20190118061500 +0100" channel="Antena 3">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336105V661411" />
+  </programme>
+  <programme start="20190118061500 +0100" stop="20190118085500 +0100" channel="Antena 3">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Las periodistas Lorena García, José Sáez y Angie Rigueiro conducen este informativo matinal. Con Irenka Zufiria en los deportes y Mercedes Martín en el tiempo(n)</desc>
+    <date>2014</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336107V758281" />
+  </programme>
+  <programme start="20190118085500 +0100" stop="20190118090000 +0100" channel="Antena 3">
+    <title lang="es">Previo</title>
+    <sub-title lang="es">Espejo Público</sub-title>
+    <desc lang="es">Magacín matinal, presentado por Susanna Griso, cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos(n)</desc>
+    <credits>
+      <director>Julián Nieto</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M926891V1614796" />
+  </programme>
+  <programme start="20190118090000 +0100" stop="20190118131500 +0100" channel="Antena 3">
+    <title lang="es">Espejo Público</title>
+    <desc lang="es">Magacín matinal, presentado por Susanna Griso, cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos(n)</desc>
+    <credits>
+      <director>Julián Nieto</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M926891V1614943" />
+    <episode-num system="onscreen">S13 E2913</episode-num>
+  </programme>
+  <programme start="20190118131500 +0100" stop="20190118134000 +0100" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Novena temporada de este programa en el que Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios. El cocinero vasco elabora en este temporada ricos y sencillos platos muy apropiados para los tiempos que corren(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900709V1614944" />
+    <episode-num system="onscreen">S9 E1690</episode-num>
+  </programme>
+  <programme start="20190118134000 +0100" stop="20190118150000 +0100" channel="Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. La presentación del programa corre a cargo de Jorge Fernández con la colaboración de Laura Moure(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349814V1614945" />
+  </programme>
+  <programme start="20190118150000 +0100" stop="20190118154500 +0100" channel="Antena 3">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe(n)</desc>
+    <credits>
+      <director>Sandra Golpe</director>
+    </credits>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336107V758302" />
+  </programme>
+  <programme start="20190118154500 +0100" stop="20190118160000 +0100" channel="Antena 3">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez y Manu Sánchez. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336119V1105271" />
+  </programme>
+  <programme start="20190118160000 +0100" stop="20190118160200 +0100" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano receta especial</title>
+    <desc lang="es">Breve espacio en el que el cocinero vasco Karlos Arguiñano elabora una receta muy especial(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900709V1614946" />
+    <episode-num system="onscreen">S9 E1690</episode-num>
+  </programme>
+  <programme start="20190118160200 +0100" stop="20190118163000 +0100" channel="Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336121V997438" />
+  </programme>
+  <programme start="20190118163000 +0100" stop="20190118173000 +0100" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">La vida de una serie de vecinos gira en torno a la Plaza de los Frutos. Su día a día se ve revolucionado por nuevas modas y los vecinos viven el arranque de la Transición. Los negocios del barrio se adaptan a los nuevos tiempos. La trama se sitúa en esta séptima temporada en 1975. Una nueva revista satírica se abre en el barrio. Sus redactores y dibujantes pasan a convivir con el resto de vecinos de la Plaza de los Frutos. La gran novedad en el barrio es el gran hotel señorial en el que se convierte el hostal de Benigna. Para no quedarse atrás, el Asturiano también experimenta un lavado de cara. Pero King's Club no se queda atrás y la modernidad da paso a números cabareteros como el que hace Amalia, una joven que de día trabaja en el hotel y de noche en el club. Telenovela de época producida por Diagonal Tv que supone la continuación de la ficción ''Amar en tiempos revueltos'', emitida por TVE. Cabe destacar que el cantante cántabro David Bustamante se encarga de interpretar la sintonía de la serie, compuesta por Pablo Mora(n)</desc>
+    <credits>
+      <actor>Anabel Alonso</actor>
+      <actor>Iñaki Miramón</actor>
+      <actor>Lucía Martín Abello</actor>
+      <actor>Manuel Baqueiro</actor>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M884078V1614947" />
+    <episode-num system="onscreen">S7 E1526</episode-num>
+  </programme>
+  <programme start="20190118173000 +0100" stop="20190118184500 +0100" channel="Antena 3">
+    <title lang="es">El secreto de Puente Viejo</title>
+    <desc lang="es">Camila se siente cada vez más incómoda con la presencia del malintencionado Néstor, que cree que la tiene rendida a sus pies. Mientras tanto, su esposo Hernando se debate entre la vida y la muerte tras el derrumbamiento de una gruta. Nadie sabe si el padre de Beatriz se repondrá a tiempo de sus heridas para apartar a Camila de las garras de Néstor o si las secuelas del accidente no le dejarán interceder. Por otro lado, en esta temporada, Lucas no sabe si abandonar Puente Viejo, ya que ha recibido una propuesta de para marcharse a Madrid. Mientras Carmelo sigue con la idea de encontrar al culpable de la muerte de Mencía. Serie de época de producción nacional ambientada en los primeros años del siglo XX. Una historia de amor imposible es el centro argumental de la producción de Ida y Vuelta (''Los protegidos'') y adquiere mayor dramatismo gracias a la figura de una mujer fuerte que lucha contra la adversidad sin desfallecer en un ambiente hostil. La encargada de encarnar a esta mujer es Megan Montaner, una joven actriz española conocida por sus papeles en ''La pecera de Eva'' y ''Amar en tiempos revueltos''(n)</desc>
+    <credits>
+      <actor>Francisco Ortiz</actor>
+      <actor>María Bouzas</actor>
+      <actor>Adriana Torrebejano</actor>
+      <actor>Loreto Mauleón</actor>
+      <actor>Chico García</actor>
+      <actor>Ramón Ibarra</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336097V1614948" />
+    <episode-num system="onscreen">S24 E1996</episode-num>
+  </programme>
+  <programme start="20190118184500 +0100" stop="20190118200000 +0100" channel="Antena 3">
+    <title lang="es">¡Ahora caigo!</title>
+    <desc lang="es">Programa en el que un concursante compite contra diez para conseguir un premio de 200.000 euros. Los participantes se enfrentan cara a cara en una lucha contra el reloj. Si no dan con la respuesta correcta a una serie de preguntas de cultura general lo perderán todo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899022V985872" />
+  </programme>
+  <programme start="20190118200000 +0100" stop="20190118210000 +0100" channel="Antena 3">
+    <title lang="es">¡Boom!</title>
+    <desc lang="es">Concurso presentado por Juanra Bonet en el que dos equipos de participantes deben desactivar bombas de leds respondiendo a varias preguntas en un tiempo concreto. Cuantos menos fallos cometan más lejos llegarán en el programa y mayor será el premio(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349816V1614949" />
+    <episode-num system="onscreen">S2019 E1045</episode-num>
+  </programme>
+  <programme start="20190118210000 +0100" stop="20190118214500 +0100" channel="Antena 3">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336107V758329" />
+  </programme>
+  <programme start="20190118214500 +0100" stop="20190118215500 +0100" channel="Antena 3">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Manu Sánchez y Rocío Martínez. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336119V1105272" />
+  </programme>
+  <programme start="20190118215500 +0100" stop="20190118221000 +0100" channel="Antena 3">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336127V1105306" />
+  </programme>
+  <programme start="20190118221000 +0100" stop="20190119023000 +0100" channel="Antena 3">
+    <title lang="es">Tu cara me suena</title>
+    <desc lang="es">El concurso musical inicia la recta final de la temporada con sorprendentes actuaciones. En esta gala, Jordi Coll se transforma en Will Smith, Manu Sánchez en Carlos Baute, José Corbacho en Rafael Farina, y Soraya se pone en la piel de Karina, entre otras imitaciones(n)</desc>
+    <credits>
+      <director>Tinet Rubira</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935115V1614950" />
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20190118055500 +0100" stop="20190118061500 +0100" channel="Neox">
+    <title lang="es">Estación Neox</title>
+    <desc lang="es">No te pierdas las actuaciones de tus artistas favoritos en Estación Neox(n)</desc>
+    <date>2008</date>
+    <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M323595V1335551" />
+  </programme>
+  <programme start="20190118061500 +0100" stop="20190118070000 +0100" channel="Neox">
+    <title lang="es">Bestial</title>
+    <desc lang="es">Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito(n)</desc>
+    <credits>
+      <director>Alejandro Moreu</director>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M324629V1343583" />
+  </programme>
+  <programme start="20190118070000 +0100" stop="20190118094000 +0100" channel="Neox">
+    <title lang="es">Neox Kidz</title>
+    <desc lang="es">Programa infantil y juvenil que estrena las mejores series nacionales e internacionales. ''Angry Birds'', ''Robot &amp; Monster'' y ''Los padrinos mágicos'' son algunas de las producciones que los más jóvenes de la casa pueden disfrutar en este espacio matinal de Neox(n)</desc>
+    <date>2013</date>
+    <category lang="es">Infantil</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320658V1101413" />
+  </programme>
+  <programme start="20190118094000 +0100" stop="20190118100200 +0100" channel="Neox">
+    <title lang="es">Vergüenza ajena</title>
+    <desc lang="es">Un espacio que hace homenaje a la estupidez humana. Presentado por Rob Dyrdek, este programa muestra un recopilatorio trepidante y divertido de los vídeos 'amateurs' más hilarantes colgados en Internet(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M934645V1620888" />
+    <episode-num system="onscreen">S6 E112</episode-num>
+  </programme>
+  <programme start="20190118100200 +0100" stop="20190118102500 +0100" channel="Neox">
+    <title lang="es">Vergüenza ajena</title>
+    <desc lang="es">Un espacio que hace homenaje a la estupidez humana. Presentado por Rob Dyrdek, este programa muestra un recopilatorio trepidante y divertido de los vídeos 'amateurs' más hilarantes colgados en Internet(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M934645V1620889" />
+    <episode-num system="onscreen">S6 E113</episode-num>
+  </programme>
+  <programme start="20190118102500 +0100" stop="20190118105000 +0100" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">En el que Rachel dice...</sub-title>
+    <desc lang="es">Chandler y Mónica se van de luna de miel. No han dejado las llaves del apartamento a sus amigo pero Joey y Phoebe se las apañaran para entrar en su casa. Rachel le cuenta a Ross la verdad, que está embarazada y que él es el padre(n)</desc>
+    <credits>
+      <director>Sheldon Epps</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M670406V270992" />
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20190118105000 +0100" stop="20190118111500 +0100" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de la cinta de video</sub-title>
+    <desc lang="es">Chandler y Mónica están de regreso en Nueva York. Cuentan a sus amigos que conocieron una pareja en la luna de miel y que se intercambiaron los teléfonos para encontrarse en la ciudad. Cuando marcan el número que les dieron descubren que es falso(n)</desc>
+    <credits>
+      <director>Kevin S. Bright</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M670406V270993" />
+    <episode-num system="onscreen">S8 E4</episode-num>
+  </programme>
+  <programme start="20190118111500 +0100" stop="20190118113700 +0100" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Dance Party USA</sub-title>
+    <desc lang="es">Ambientada en los años 80, esta comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine. La trama de la ficción se desarrolla en un suburbio de Filadelfia (Pensilvania) pero se grabó en el sur de California. Además, la ficción ha sido basada en la infancia del creador de la serie, Adam F. Goldberg, que desde su juventud siempre ha llevado una cámara bajo el brazo, hecho que le ha servido para hacer más verosímil el homenaje a su pasado gracias a sus cintas grabadas. Sin embargo, la interpretación de Erica Goldberg no es verídica ya que Adam nunca tuvo una hermana. Fueron los ejecutivos de la ABC los que comentaron al creador la idea de dar vida a una chica en el clan para hacer más divertida la serie. Diversas caras conocidas como Charlie Seen como policía, Chuck Norris, Martin Starr, David Spade o Tom Cavanagh realizan cameos en diferentes episodios de "Los Goldberg"(n)</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M496143V1319920" />
+    <episode-num system="onscreen">S2 E22</episode-num>
+  </programme>
+  <programme start="20190118113700 +0100" stop="20190118120000 +0100" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Jimmy 5 está vivo</sub-title>
+    <desc lang="es">Ambientada en los años 80, esta comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine. La trama de la ficción se desarrolla en un suburbio de Filadelfia (Pensilvania) pero se grabó en el sur de California. Además, la ficción ha sido basada en la infancia del creador de la serie, Adam F. Goldberg, que desde su juventud siempre ha llevado una cámara bajo el brazo, hecho que le ha servido para hacer más verosímil el homenaje a su pasado gracias a sus cintas grabadas. Sin embargo, la interpretación de Erica Goldberg no es verídica ya que Adam nunca tuvo una hermana. Fueron los ejecutivos de la ABC los que comentaron al creador la idea de dar vida a una chica en el clan para hacer más divertida la serie. Diversas caras conocidas como Charlie Seen como policía, Chuck Norris, Martin Starr, David Spade o Tom Cavanagh realizan cameos en diferentes episodios de "Los Goldberg"(n)</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320634V1323672" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20190118120000 +0100" stop="20190118122500 +0100" channel="Neox">
+    <title lang="es">Cómo conocí a vuestra madre</title>
+    <sub-title lang="es">El misterio contra la historia</sub-title>
+    <desc lang="es">Ted acude a una cita con una chica que ha conocido por Internet de la que no sabe nada. Por otro lado, Lily y Marshall llegan a un acuerdo para conocer el sexo de su bebé(n)</desc>
+    <credits>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Lyndsy Fonseca</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M810404V1043192" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20190118122500 +0100" stop="20190118125000 +0100" channel="Neox">
+    <title lang="es">Cómo conocí a vuestra madre</title>
+    <sub-title lang="es">Noretta</sub-title>
+    <desc lang="es">El plan romántico ideado por Barney y Nora es arruinado por una consecución de hechos negativos(n)</desc>
+    <credits>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Lyndsy Fonseca</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M810404V1043193" />
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20190118125000 +0100" stop="20190118131300 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">El cambio de la guarda y custodia</sub-title>
+    <desc lang="es">Después de sobrevivir a un tornado, Marge y Homer buscan unos posibles padrinos para los niños, en caso de que ocurra lo peor. Optan por amigos y familia, incluyendo el medio hermano de Homer(n)</desc>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M884609V1189224" />
+    <episode-num system="onscreen">S24 E11</episode-num>
+  </programme>
+  <programme start="20190118131300 +0100" stop="20190118133600 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Homer va a la escuela preparacionista</sub-title>
+    <desc lang="es">Homer se une a Springfield Preppers, un grupo de superviviencia cuyo líder ha construído un refugio secreto fuera de la ciudad para prepararse para el fin del mundo. Marge se muestra escéptica ante las travesuras alarmistas del grupo(n)</desc>
+    <date>2012</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M883769V1189219" />
+    <episode-num system="onscreen">S24 E9</episode-num>
+  </programme>
+  <programme start="20190118133600 +0100" stop="20190118135900 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Apocalipsis Mu</sub-title>
+    <desc lang="es">Dirección a Shelbyville, Bart ve a Martin conduciendo una cosechadora. Atraído por el hecho de operar maquinaria pesada, Bart decide apuntarse al club 4H con Martin. El instructor del grupo les lleva al corral de los terneros para que elijan uno y lo críen durante el verano. Al final del estío el ganado será juzgado en la feria estatal. Con la ayuda de Mary, Bart empieza a cuidar de Lou, su ternero, y lo ayuda a hacerse más fuerte. Cuando llega el día de la competición, Lou se ha convertido en un toro y es premiado con el listón azul. Bart se emociona muchísimo, hasta que Lisa le informa que el siguiente paso es enviar a Lou a un matadero.Para salvar a Lou, Bart le regala el toro a Mary, la hija de Cletus. El padre del Mary interpreta el gesto como una propuesta formal de boda. Ahora, Bart debe elegir entre casarse y que su vaca siga viva o abandonarla y salvarse a sí mismo(n)</desc>
+    <date>2008</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M653852V806925" />
+    <episode-num system="onscreen">S19 E17</episode-num>
+  </programme>
+  <programme start="20190118135900 +0100" stop="20190118142200 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Eterno estupor de una mente simpson</sub-title>
+    <desc lang="es">Homer despierta en el jardín, cubierto de nieve, sin recordar nada de lo sucedido el día anterior y descubre que toda su familia ha desaparecido. Al visitar el bar de Moe, descubre que la noche anterior había bebido un Trago-Para-Olvidar, una bebida tan potente que borra los recuerdos de las últimas 24 horas. Tras investigar un poco y hablar con el jefe de policía a Wiggum, Homer empieza a temer que, en estado de embriaguez, podría haber hacho alguna cosa terrible a sus seres queridos(n)</desc>
+    <date>2008</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M663092V806917" />
+    <episode-num system="onscreen">S19 E9</episode-num>
+  </programme>
+  <programme start="20190118142200 +0100" stop="20190118144500 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Abuelo, el seductor</sub-title>
+    <desc lang="es">La obsesión de Homer con el programa de televisión "¿Quién da mucho más?" lleva a la familia a descubrir la identidad del pasado del abuelo como "Gorgeous Godfrey", el hombre más temido, villano de la historia de la lucha libre(n)</desc>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M884615V1190432" />
+    <episode-num system="onscreen">S24 E14</episode-num>
+  </programme>
+  <programme start="20190118144500 +0100" stop="20190118151000 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Licor de riesgo</sub-title>
+    <desc lang="es">Moe gana confianza y un nuevo traje cuando un capitalista quiere invertir en su whisky casero. Abe se lesiona mientras cuida a Bart y se instala en el sótano(n)</desc>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M886272V1191892" />
+    <episode-num system="onscreen">S24 E19</episode-num>
+  </programme>
+  <programme start="20190118151000 +0100" stop="20190118153600 +0100" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de cuando nadie se declara</sub-title>
+    <desc lang="es">Por un malentendido, Rachel se ve prometida a Joey en vez de a Ross, que estaba planteándose proponerle matrimonio tras el nacimiento del hijo de ambos. Primer episodio de la novena temporada de esta comedia de situación, cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y encarados a la dura tarea de hacerse adultos. La mala suerte de Mónica (Courteney Cox Arquette) con los hombres terminó finalmente gracias a su matrimonio con Chandler. Después de vivir juntos durante un tiempo, la pareja experimentó todo lo que supone la vida en matrimonio, desde el júbilo a la angustia. Como la más trabajadora del grupo de amigos, continúa desarrollando con pasión su trabajo de chef. Rachel (Jennifer Aniston), antigua compañera de piso de Mónica, es ahora la madre de una preciosa bebé, Emma, y vive con Ross (David Schwimmer) mientras trabaja en un valioso puesto como ejecutiva para la firma de moda Ralph Lauren. Su nueva relación con Ross parece que nunca se asienta y, ahora, Rachel se encuentra en una situación que le cambiará la vida. El paleontólogo Ross ha vivido momentos muy difíciles en su vida desde que su mujer Carol (Jane Sibbett), estando embarazada, le anunciara que era lesbiana y se divorciara de él. Ahora las cosas son todavía un poco más complicadas: Ross ejerce de padre por partida doble de su hija con Rachel y de su hijo con Carol. Inteligente, fuertemente emocional y romántico, Ross ha sido desafortunado en el amor. Recientemente casado, Chandler es un irónico observador de la vida, especialmente de la suya. De siempre románticamente disfuncional y profesionalmente desmotivado, sobrevive en una aburrida oficina gracias a su especial sentido del humor. Quizá la gran hazaña de Chandler haya sido embarcarse en el amor y en una relación madura con Mónica y decir que sí cuando ella le preguntó si deseaba tener hijos. Joey (Matt LeBlanc) resiste los continuos contratiempos y persiste en su sueño de llegar a ser un gran actor. Después de años de andar de audición en audición, Joey regresa finalmente a la serie "Los días de nuestra vida" como un hombre con el cerebro de una mujer. Phoebe (Lisa Kudrow) que se prestó como madre de alquiler para concebir a trillizos de su hermano, continúa viviendo en su propio apartamento y empeñada en su búsqueda de un hombre romántico y permanentemente contento. A pesar de los años y de los contratiempos, Phoebe se empeña en ver lo bueno de todas las cosas... lo cual es una agradable manera de decir que es una bondadosa sin discernimiento. Esta novena temporada sorprende por la aparición de estrellas invitadas en casi todos los capítulos de la serie, entre las que destacan Christina Applegate como hermana menor de Rachel y por cuya interpretación recibió un premio Emmy, Jeff Goldblum ("Parque Jurásico") que interpreta a un famoso actor, Paul Rudd ("Mucho más que amigos"), antiguo novio de Phoebe, Dermot Mulroney ("A propósito de Schmidt"), Freddien Prinze Jr. ("Scooby-Doo"), Hank Azaria ("Abajo el telón"), Selma Blair ("Cosas que no se olvidan") y Jon Lovitz ("Saturday Night Live")(n)</desc>
+    <credits>
+      <director>Kevin S. Bright</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M670406V393752" />
+    <episode-num system="onscreen">S9 E1</episode-num>
+  </programme>
+  <programme start="20190118153600 +0100" stop="20190118160200 +0100" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de cuando Emma llora</sub-title>
+    <desc lang="es">Los intentos de Joey para ganarse el perdón de Ross tras proponerle erróneamente a Rachel que se casara con él, únicamente desembocan en una visita a Urgencias. Por su parte, Rachel trata desesperadamente de encontrar una fórmula para que Emma deje de llorar. Segundo episodio de la novena temporada de esta comedia de situación, cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y encarados a la dura tarea de hacerse adultos. La mala suerte de Mónica (Courteney Cox Arquette) con los hombres terminó finalmente gracias a su matrimonio con Chandler. Después de vivir juntos durante un tiempo, la pareja experimentó todo lo que supone la vida en matrimonio, desde el júbilo a la angustia. Como la más trabajadora del grupo de amigos, continúa desarrollando con pasión su trabajo de chef. Rachel (Jennifer Aniston), antigua compañera de piso de Mónica, es ahora la madre de una preciosa bebé, Emma, y vive con Ross (David Schwimmer) mientras trabaja en un valioso puesto como ejecutiva para la firma de moda Ralph Lauren. Su nueva relación con Ross parece que nunca se asienta y, ahora, Rachel se encuentra en una situación que le cambiará la vida. El paleontólogo Ross ha vivido momentos muy difíciles en su vida desde que su mujer Carol (Jane Sibbett), estando embarazada, le anunciara que era lesbiana y se divorciara de él. Ahora las cosas son todavía un poco más complicadas: Ross ejerce de padre por partida doble de su hija con Rachel y de su hijo con Carol. Inteligente, fuertemente emocional y romántico, Ross ha sido desafortunado en el amor. Recientemente casado, Chandler es un irónico observador de la vida, especialmente de la suya. De siempre románticamente disfuncional y profesionalmente desmotivado, sobrevive en una aburrida oficina gracias a su especial sentido del humor. Quizá la gran hazaña de Chandler haya sido embarcarse en el amor y en una relación madura con Mónica y decir que sí cuando ella le preguntó si deseaba tener hijos. Joey (Matt LeBlanc) resiste los continuos contratiempos y persiste en su sueño de llegar a ser un gran actor. Después de años de andar de audición en audición, Joey regresa finalmente a la serie "Los días de nuestra vida" como un hombre con el cerebro de una mujer. Phoebe (Lisa Kudrow) que se prestó como madre de alquiler para concebir a trillizos de su hermano, continúa viviendo en su propio apartamento y empeñada en su búsqueda de un hombre romántico y permanentemente contento. A pesar de los años y de los contratiempos, Phoebe se empeña en ver lo bueno de todas las cosas... lo cual es una agradable manera de decir que es una bondadosa sin discernimiento. Esta novena temporada sorprende por la aparición de estrellas invitadas en casi todos los capítulos de la serie, entre las que destacan Christina Applegate como hermana menor de Rachel y por cuya interpretación recibió un premio Emmy, Jeff Goldblum ("Parque Jurásico") que interpreta a un famoso actor, Paul Rudd ("Mucho más que amigos"), antiguo novio de Phoebe, Dermot Mulroney ("A propósito de Schmidt"), Freddien Prinze Jr. ("Scooby-Doo"), Hank Azaria ("Abajo el telón"), Selma Blair ("Cosas que no se olvidan") y Jon Lovitz ("Saturday Night Live")(n)</desc>
+    <credits>
+      <director>Sheldon Epps</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M670406V393753" />
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20190118160200 +0100" stop="20190118163000 +0100" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El del pediatra</sub-title>
+    <desc lang="es">Las continuas llamadas que Rachel hace al pediatra de su pequeña Emma hacen que éste no tenga otra alternativa que rechazarla como paciente. Ross se siente molesto al enterarse de que Rachel pretende remplazar al pediatra por su médico de la niñez, que sigue siendo su médico de adulto. Tercer episodio de la novena temporada de esta comedia de situación, cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y encarados a la dura tarea de hacerse adultos. La mala suerte de Mónica (Courteney Cox Arquette) con los hombres terminó finalmente gracias a su matrimonio con Chandler. Después de vivir juntos durante un tiempo, la pareja experimentó todo lo que supone la vida en matrimonio, desde el júbilo a la angustia. Como la más trabajadora del grupo de amigos, continúa desarrollando con pasión su trabajo de chef. Rachel (Jennifer Aniston), antigua compañera de piso de Mónica, es ahora la madre de una preciosa bebé, Emma, y vive con Ross (David Schwimmer) mientras trabaja en un valioso puesto como ejecutiva para la firma de moda Ralph Lauren. Su nueva relación con Ross parece que nunca se asienta y, ahora, Rachel se encuentra en una situación que le cambiará la vida. El paleontólogo Ross ha vivido momentos muy difíciles en su vida desde que su mujer Carol (Jane Sibbett), estando embarazada, le anunciara que era lesbiana y se divorciara de él. Ahora las cosas son todavía un poco más complicadas: Ross ejerce de padre por partida doble de su hija con Rachel y de su hijo con Carol. Inteligente, fuertemente emocional y romántico, Ross ha sido desafortunado en el amor. Recientemente casado, Chandler es un irónico observador de la vida, especialmente de la suya. De siempre románticamente disfuncional y profesionalmente desmotivado, sobrevive en una aburrida oficina gracias a su especial sentido del humor. Quizá la gran hazaña de Chandler haya sido embarcarse en el amor y en una relación madura con Mónica y decir que sí cuando ella le preguntó si deseaba tener hijos. Joey (Matt LeBlanc) resiste los continuos contratiempos y persiste en su sueño de llegar a ser un gran actor. Después de años de andar de audición en audición, Joey regresa finalmente a la serie "Los días de nuestra vida" como un hombre con el cerebro de una mujer. Phoebe (Lisa Kudrow) que se prestó como madre de alquiler para concebir a trillizos de su hermano, continúa viviendo en su propio apartamento y empeñada en su búsqueda de un hombre romántico y permanentemente contento. A pesar de los años y de los contratiempos, Phoebe se empeña en ver lo bueno de todas las cosas... lo cual es una agradable manera de decir que es una bondadosa sin discernimiento. Esta novena temporada sorprende por la aparición de estrellas invitadas en casi todos los capítulos de la serie, entre las que destacan Christina Applegate como hermana menor de Rachel y por cuya interpretación recibió un premio Emmy, Jeff Goldblum ("Parque Jurásico") que interpreta a un famoso actor, Paul Rudd ("Mucho más que amigos"), antiguo novio de Phoebe, Dermot Mulroney ("A propósito de Schmidt"), Freddien Prinze Jr. ("Scooby-Doo"), Hank Azaria ("Abajo el telón"), Selma Blair ("Cosas que no se olvidan") y Jon Lovitz ("Saturday Night Live")(n)</desc>
+    <credits>
+      <director>Roger Christiansen</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M670406V393754" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20190118163000 +0100" stop="20190118165300 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La materialización de la abuelita</sub-title>
+    <desc lang="es">La abuela de Sheldon le visita y ésta parece no aceptar del todo a Amy. Sheldon defiende a su novia pero su abuela amenaza con desvelar un secreto. Novena temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. Los cambios siguen marcando la vida de este grupo de amigos tan especial en su novena temporada. La última temporada concluyó con un duro golpe para Sheldon, que se quedaba perplejo y con un anillo en el bolsillo cuando Amy rompía con él. Además, el enfriamiento entre Penny y Leonard se hará más palpable tras la confesión de este último de una infidelidad. Por su parte, Wolowitz y Bernie intentarán echar por enésima vez a Stu de la casa de la madre de Wolowitz intentando no herir sus sentimientos. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. Su éxito es tan rotundo que cinco de sus actores principales ya renegociaron su contrato, con especial mención para Jim Parsons, Johnny Galecki y Kaley Cuoco, que pasarán a cobrar cerca de 800.000 euros por episodio. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+      <actor>Laura Spencer</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320638V1251557" />
+    <episode-num system="onscreen">S9 E14</episode-num>
+  </programme>
+  <programme start="20190118165300 +0100" stop="20190118171600 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La resurgencia del protón</sub-title>
+    <desc lang="es">Cuando Sheldon y Leonard descubren que su científico de la televisión favorito está sin trabajo intentan contratarlo. Sexta temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322207V1086310" />
+    <episode-num system="onscreen">S6 E22</episode-num>
+  </programme>
+  <programme start="20190118171600 +0100" stop="20190118173900 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La verificación del engaño</sub-title>
+    <desc lang="es">Cuando Leonard vuelve del Mar del Norte, él y Sheldon pasan por un período de adaptación. Séptima temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320622V1114473" />
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20190118173900 +0100" stop="20190118180200 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">El potencial del conjuro de amor</sub-title>
+    <desc lang="es">Después de que el viaje de las chicas a Las Vegas se ha cancelado, todos juegan a Dragones y mazmorras juntos. Sexta temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322207V1091360" />
+    <episode-num system="onscreen">S6 E23</episode-num>
+  </programme>
+  <programme start="20190118180200 +0100" stop="20190118182500 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">El Conflicto de la Convención</sub-title>
+    <desc lang="es">Sheldon no consigue encontrar entradas para el Comic Con asíq ue decide montar su propia convención. Séptima temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M395777V1128341" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20190118182500 +0100" stop="20190118185200 +0100" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Llamadas locas</sub-title>
+    <desc lang="es">Tras conseguir las primeras respuestas en sus contestadores, Murray y su padre empiezan una guerra de contestaciones. Mientras tanto, Adam encuentra en la sala de ordenadores el lugar idóneo para almorzar tranquilamente junto a sus compañeros menos populares(n)</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320606V1342023" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20190118185200 +0100" stop="20190118192000 +0100" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <desc lang="es">Sexta temporada de esta serie ambientada en los años 80. La comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine. La trama de la ficción se desarrolla en un suburbio de Filadelfia (Pensilvania) pero se grabó en el sur de California. Además, la ficción ha sido basada en la infancia del creador de la serie, Adam F. Goldberg, que desde su juventud siempre ha llevado una cámara bajo el brazo, hecho que le ha servido para hacer más verosímil el homenaje a su pasado gracias a sus cintas grabadas. Sin embargo, la interpretación de Erica Goldberg no es verídica ya que Adam nunca tuvo una hermana. Fueron los ejecutivos de la ABC los que comentaron al creador la idea de dar vida a una chica en el clan para hacer más divertida la serie(n)</desc>
+    <credits>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M904799V1620890" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20190118192000 +0100" stop="20190118194200 +0100" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Capi y Piolín</sub-title>
+    <desc lang="es">Cam se enfurece cuando un padre anónimo le roba un precioso momento con Lily durante su reciente recital de baile. Mientras él y Hayley visitan a Alex en la cafetería al día siguiente, cree reconocer a la culpable y llega hasta el extremo para descubrir su identidad, y darle un poco de su propia medicina. Mientras tanto, Jay, Claire y Mitch asisten a una boda familiar y de forma inesperada se topan con Dede en la recepción. Temiendo que sus padres vuelvan a montar una escena, Mitch y Claire trazan un plan para mantenerlos separados. Por último, Phil y Gloria están en un tour por la universidad con Luke y Manny, y tienen maneras muy diferentes de conseguir que los chicos estén listos para comenzar esta nueva aventura(n)</desc>
+    <credits>
+      <actor>Ty Burrell</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320646V1359731" />
+    <episode-num system="onscreen">S8 E11</episode-num>
+  </programme>
+  <programme start="20190118194200 +0100" stop="20190118200500 +0100" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Echando raíces</sub-title>
+    <desc lang="es">El marido de Dede, Jerry, llega a la ciudad para repartir sus posesiones a la familia. Mitch y Claire reciben más de lo que esperaban de Dede, sin saber muy bien que hacer con ello, y Jay y Gloria sienten pena por Jerry y lo invitan a quedarse en su casa mientras está en la ciudad(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Sofía Vergara</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M903617V1592996" />
+    <episode-num system="onscreen">S10 E9</episode-num>
+  </programme>
+  <programme start="20190118200500 +0100" stop="20190118202700 +0100" channel="Neox">
+    <title lang="es">Dos hombres y medio</title>
+    <sub-title lang="es">Gente a la que le gustan las mirillas</sub-title>
+    <desc lang="es">A pesar de su encanto, Walden es incapaz de lidiar con aspectos básicos de la vida diaria, e intenta recuperar a su ex, Bridget, por todos los medios(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Marin Hinkle</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M337134V1000979" />
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20190118202700 +0100" stop="20190118205000 +0100" channel="Neox">
+    <title lang="es">Dos hombres y medio</title>
+    <sub-title lang="es">Las chicas mayores no arrojan comida</sub-title>
+    <desc lang="es">A la espera de iniciar la reconquista de Bridget, Walden busca el consejo de Alan. Mientras tanto, Jake se entera de un secreto de Walden(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M337134V1000980" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20190118205000 +0100" stop="20190118211300 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La simulación del picor de cerebro</sub-title>
+    <desc lang="es">Sheldon pide a Leonard que le compense por un error del pasado. Penny tendrá que enfrentarse a la nueva chica de Raj, Lucy. Séptima temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320622V1118909" />
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  <programme start="20190118211300 +0100" stop="20190118213600 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">Análisis del reflejo de golfa</sub-title>
+    <desc lang="es">Tras pasar la noche con Raj, Penny teme haberse cargado su amistad con el resto del grupo. Sheldon se convierte en jefe del equipo de paintball. Quinta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom" y "Mike &amp; Molly". Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320602V1000972" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20190118213600 +0100" stop="20190118220000 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La reorganización de la profesión</sub-title>
+    <desc lang="es">Sheldon se ve obligado a coger unos días descanso pero relajarse se convierte en un reto para él. Séptima temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320622V1128340" />
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20190118220000 +0100" stop="20190119003000 +0100" channel="Neox">
+    <title lang="es">John Wick</title>
+    <sub-title lang="es">Pacto de sangre</sub-title>
+    <desc lang="es">Pocas cosas por las que levantarse cada mañana le quedan al letal asesino a sueldo John Wick tras la muerte de su esposa. Si acaso, recuperar su coche de manos de la mafia y volver a la soledad de su casa junto a su nuevo perro... aunque puede que los fantasmas del pasado no lo dejen tranquilo. Keanu Reeves vuelve a ponerse a las órdenes del director Chad Stahelski para encarnar por segunda vez a John Wick, un temido y respetado asesino a sueldo que, en esta ocasión, se ve obligado a volver a la acción para responder a una deuda pendiente con la organización secreta que lo ha cobijado durante años. Esta película de acción es la segunda como director del estadounidense Chad Stahelski, profesional con un largo historial como especialista que ya había coincido en "Matrix" con Keanu Reeves, al que había doblado en las escenas más peligrosas. "Otro día para matar (John Wick)" (2014), primera entrega de la saga, fue el debut en la dirección de Stahelski. Junto a Reeves, completan el reparto Riccardo Scamarcio, Laurence Fishburne, Ruby Rose, Common y Lance Reddick, además de Ian McShane y John Leguizamo, que repiten su papel de la primera parte de la franquicia(n)</desc>
+    <credits>
+      <director>Chad Stahelski</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Riccardo Scamarcio</actor>
+      <actor>Ian McShane</actor>
+      <actor>Ruby Rose</actor>
+      <actor>Common</actor>
+      <actor>Claudia Gerini</actor>
+      <actor>Lance Reddick</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>John Leguizamo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937928V1367868" />
+  </programme>
+  <programme start="20190118031500 +0100" stop="20190118073000 +0100" channel="La Sexta">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336849V661411" />
+  </programme>
+  <programme start="20190118073000 +0100" stop="20190118090000 +0100" channel="La Sexta">
+    <title lang="es">Previo Arusitys</title>
+    <desc lang="es">Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor(n)</desc>
+    <credits>
+      <director>Alfonso Arús</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M877864V1615137" />
+    <episode-num system="onscreen">S1 E93</episode-num>
+  </programme>
+  <programme start="20190118090000 +0100" stop="20190118110000 +0100" channel="La Sexta">
+    <title lang="es">Arusitys</title>
+    <desc lang="es">Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor(n)</desc>
+    <credits>
+      <director>Alfonso Arús</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M874142V1615136" />
+    <episode-num system="onscreen">S1 E93</episode-num>
+  </programme>
+  <programme start="20190118110000 +0100" stop="20190118140000 +0100" channel="La Sexta">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">Antonio García Ferreras y María Llapart presentan este programa de debate sobre la actualidad, esencialmente política, y alejada de una línea editorial conservadora. Analistas, periodistas y expertos buscan las claves de las noticias diarias(n)</desc>
+    <credits>
+      <director>Antonio G. Ferreras</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M348914V1615138" />
+  </programme>
+  <programme start="20190118140000 +0100" stop="20190118145500 +0100" channel="La Sexta">
+    <title lang="es">laSexta Noticias</title>
+    <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad(n)</desc>
+    <credits>
+      <director>César G. Antón</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327840V575379" />
+  </programme>
+  <programme start="20190118145500 +0100" stop="20190118153000 +0100" channel="La Sexta">
+    <title lang="es">Jugones</title>
+    <desc lang="es">Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte(n)</desc>
+    <date>2014</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327842V1088969" />
+  </programme>
+  <programme start="20190118153000 +0100" stop="20190118154500 +0100" channel="La Sexta">
+    <title lang="es">laSexta Meteo</title>
+    <desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327844V985259" />
+  </programme>
+  <programme start="20190118154500 +0100" stop="20190118171500 +0100" channel="La Sexta">
+    <title lang="es">Zapeando</title>
+    <desc lang="es">Espacio que analiza con humor el panorama televisivo a nivel nacional e internacional con las mejores noticias, videos y momentos más disparatados. Frank Blanco y su grupo de colaboradores establecen un ameno debate sobre la actualidad televisiva(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M348916V1615139" />
+  </programme>
+  <programme start="20190118171500 +0100" stop="20190118200000 +0100" channel="La Sexta">
+    <title lang="es">Más vale tarde</title>
+    <desc lang="es">Espacio diario de actualidad dirigido por los periodistas Mamen Mendizábal e Hilario Pino, que busca ordenar el alud informativo actual. Pluralidad, honestidad y rigor son las máximas de este espacio de debate en directo(n)</desc>
+    <date>2019</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M348918V1615140" />
+  </programme>
+  <programme start="20190118200000 +0100" stop="20190118205500 +0100" channel="La Sexta">
+    <title lang="es">laSexta Noticias</title>
+    <desc lang="es">Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad(n)</desc>
+    <credits>
+      <director>César G. Antón</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327840V1105278" />
+  </programme>
+  <programme start="20190118205500 +0100" stop="20190118210500 +0100" channel="La Sexta">
+    <title lang="es">Estación Sexta</title>
+    <desc lang="es">Espacio dedicado al medio ambiente y la meteorología. Adrián Cordero, Marc Redondo y Isabel Zubiaurre ofrecen al espectador la información del tiempo, además de imágenes, noticias y reportajes relacionados con el entorno natural de la Península Ibérica(n)</desc>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M639780V1573241" />
+  </programme>
+  <programme start="20190118210500 +0100" stop="20190118213000 +0100" channel="La Sexta">
+    <title lang="es">laSexta Deportes</title>
+    <desc lang="es">Conducido por Carlota Reig, este espacio ofrece la más completa información del fútbol, el baloncesto nacional e internacional y lo más destacado del deporte en general. Para analizar los eventos y las polémicas, el programa cuenta con la opinión de especialistas(n)</desc>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937097V764081" />
+  </programme>
+  <programme start="20190118213000 +0100" stop="20190118223000 +0100" channel="La Sexta">
+    <title lang="es">laSexta Columna</title>
+    <sub-title lang="es">ruta por la España en vía muerta</sub-title>
+    <desc lang="es">Tramos anticuados, estaciones abandonadas, trenes de otro siglo. El ferrocarril en España avanza a dos velocidades: el de la vanguardia del AVE a la lentitud de las regiones olvidadas. El programa analiza si debe actualizarse la red ferroviaria(n)</desc>
+    <date>2019</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M890357V1620273" />
+    <episode-num system="onscreen">S8 E16</episode-num>
+  </programme>
+  <programme start="20190118223000 +0100" stop="20190118234500 +0100" channel="La Sexta">
+    <title lang="es">Equipo de investigación</title>
+    <sub-title lang="es">Escándalo iDental</sub-title>
+    <desc lang="es">De un día para otro, las 24 clínicas iDental en España echan el cierre y más de medio millón de pacientes que ya habían financiado o pagado sus tratamientos dentales se quedan desamparados. Los reporteros denuncian la que podría ser la mayor estafa sanitaria de España(n)</desc>
+    <date>2019</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900705V1620274" />
+    <episode-num system="onscreen">S8 E17</episode-num>
+  </programme>
+  <programme start="20190118234500 +0100" stop="20190119004500 +0100" channel="La Sexta">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900705V1572419" />
   </programme>
 </tv>
