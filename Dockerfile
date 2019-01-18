@@ -6,7 +6,7 @@ COPY WebGrabPlus_V2.1_install.tar.gz /root/
 
 #Install
 RUN set -ex; \
-    tar zxvf WebGrabPlus_V2.1_install.tar.gz; \
+    tar zxf WebGrabPlus_V2.1_install.tar.gz; \
     cd .wg++; \
     ./install.sh;
 
