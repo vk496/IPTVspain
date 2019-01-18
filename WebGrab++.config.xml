@@ -20,6 +20,9 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
   
-  <channel site="dummy" site_id="xx" update="i" xmltv_id="Example">Example</channel>
- 
+  <channel update="i" site="plus.es" site_id="TVE" xmltv_id="LA 1">La 1</channel>
+  <channel update="i" site="plus.es" site_id="LA2" xmltv_id="LA 2">La 2</channel>
+  <channel update="i" site="plus.es" site_id="A3" xmltv_id="Antena 3">antena 3</channel>
+  <channel update="i" site="plus.es" site_id="NEOX" xmltv_id="Neox">neox</channel>
+  <channel update="i" site="plus.es" site_id="SEXTA" xmltv_id="La Sexta">La Sexta</channel> 
 </settings>
