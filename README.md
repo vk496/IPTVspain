@@ -8,9 +8,9 @@ Recopilación de algunos programas públicos de la TDT (y su programación) en u
 ## ¿Cómo funciona?
 Añade la URL del archivo **spain.m3u8** en tu reproductor y listo!
 
-### [**http://bit.ly/IPTVspain**](http://bit.ly/IPTVspain)
+### [**http://bit.ly/IPTV_spain**](http://bit.ly/IPTV_spain)
 o
-###### [https://raw.githubusercontent.com/vk496/IPTVspain/master/spain.m3u8](https://raw.githubusercontent.com/vk496/IPTVspain/master/spain.m3u8)
+###### [http://iptvspain.vk496.com.es/spain.m3u8](http://iptvspain.vk496.com.es/spain.m3u8)
 
 ## ¿Qué canales hay?
 TODO
@@ -18,7 +18,7 @@ TODO
 ## ¿Y la programación?
 Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente, el XML es el siguiente:
 
-##### [https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml](https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml)
+##### [http://iptvspain.vk496.com.es/guide.xml](http://iptvspain.vk496.com.es/guide.xml)
 
 Se actualiza diariamente :)
 
