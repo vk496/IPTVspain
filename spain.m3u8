@@ -9,3 +9,5 @@ https://pull2b-i.akamaized.net/geoantena3/master.m3u8
 https://pull2b-i.akamaized.net/geoneox/master.m3u8
 #EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" url-epg="http://iptvspain.vk496.com.es/guide.xml",La Sexta
 https://pull2c-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" url-epg="http://iptvspain.vk496.com.es/guide.xml",Nova
+https://pull2c-i.akamaized.net/geonova/master.m3u8
