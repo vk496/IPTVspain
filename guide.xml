@@ -20,44 +20,46 @@
     <display-name lang="es">La Sexta</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <programme start="20190119060000 +0100" stop="20190119094500 +0100" channel="LA 1">
+  <channel id="Nova">
+    <display-name lang="es">nova</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <programme start="20190120060000 +0100" stop="20190120093500 +0100" channel="LA 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336867V518403" />
   </programme>
-  <programme start="20190119094500 +0100" stop="20190119105000 +0100" channel="LA 1">
+  <programme start="20190120093500 +0100" stop="20190120101000 +0100" channel="LA 1">
+    <title lang="es">Arranca en verde</title>
+    <sub-title lang="es">Ciudad Real</sub-title>
+    <desc lang="es">Leonor Lavado llega a Ciudad Real, una ciudad con mucha historia y protagonista de la novela más importante de nuestra literatura: Don Quijote de la Mancha(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936265V1621089" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20190120101000 +0100" stop="20190120111000 +0100" channel="LA 1">
     <title lang="es">Comando Actualidad</title>
-    <sub-title lang="es">Cada vez más gordos</sub-title>
-    <desc lang="es">Casi la mitad de la población española tiene sobrepeso, convirtiéndose en el segundo país de Europa con más obesos. Los reporteros del programa recorren España para hablar con médicos, psicólogos, dietistas y nutricionistas en busca de respuestas(n)</desc>
+    <sub-title lang="es">Nuevos barrios, nuevos vecinos</sub-title>
+    <desc lang="es">Los extrarradios se han convertido en los nuevos barrios. Hasta allí, llegan las familias que huyen del centro de las grandes ciudades y que buscan mejor calidad de vida, espacios verdes y precios de vivienda más bajos. Sin embargo, no todo son ventajas(n)</desc>
     <credits>
       <director>Silvia Sánchez García</director>
     </credits>
     <date>2017</date>
     <category lang="es">Información</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M328694V1367838" />
-    <episode-num system="onscreen">S2017 E44</episode-num>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M328694V1511293" />
+    <episode-num system="onscreen">S2017 E3</episode-num>
   </programme>
-  <programme start="20190119105000 +0100" stop="20190119133000 +0100" channel="LA 1">
-    <title lang="es">MasterChef Junior</title>
-    <sub-title lang="es">Final</sub-title>
-    <desc lang="es">Paula, Candela, Pachu y Josetxo se enfrentan en la gran final. Los aspirantes lucharán por llegar al duelo final en el que tendrán que elaborar dos platos de un menú libre. El cocinero Joan Roca ayudará al jurado a elegir al ganador(n)</desc>
+  <programme start="20190120111000 +0100" stop="20190120140000 +0100" channel="LA 1">
+    <title lang="es">Maestros de la Costura</title>
+    <desc lang="es">Un grupo de apasionados de la costura, el diseño y la moda se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones. Lorenzo Caprile, María Escoté y Palomo Spain forman el jurado(n)</desc>
     <date>2019</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M929626V1616955" />
-    <episode-num system="onscreen">S6 E6</episode-num>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937068V1617415" />
+    <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20190119133000 +0100" stop="20190119140000 +0100" channel="LA 1">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial(n)</desc>
-    <credits>
-      <director>Miguel Ángel Sacaluga</director>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Información</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336909V1065634" />
-  </programme>
-  <programme start="20190119140000 +0100" stop="20190119143000 +0100" channel="LA 1">
+  <programme start="20190120140000 +0100" stop="20190120143000 +0100" channel="LA 1">
     <title lang="es">Flash Moda</title>
     <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles(n)</desc>
     <credits>
@@ -67,7 +69,7 @@
     <category lang="es">Ocio y Aficiones</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336911V1173553" />
   </programme>
-  <programme start="20190119143000 +0100" stop="20190119150000 +0100" channel="LA 1">
+  <programme start="20190120143000 +0100" stop="20190120150000 +0100" channel="LA 1">
     <title lang="es">Corazón</title>
     <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje(n)</desc>
     <credits>
@@ -77,246 +79,228 @@
     <category lang="es">Entretenimiento</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336877V924507" />
   </programme>
-  <programme start="20190119150000 +0100" stop="20190119155000 +0100" channel="LA 1">
+  <programme start="20190120150000 +0100" stop="20190120155000 +0100" channel="LA 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Oriol Nolis se encarga de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Arsenio Cañada introduce el bloque de deportes(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336879V1114179" />
   </programme>
-  <programme start="20190119155000 +0100" stop="20190119160000 +0100" channel="LA 1">
+  <programme start="20190120155000 +0100" stop="20190120160000 +0100" channel="LA 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de Televisión Española es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336881V332735" />
   </programme>
-  <programme start="20190119160000 +0100" stop="20190119173000 +0100" channel="LA 1">
-    <title lang="es">Un verano en Mallorca</title>
-    <desc lang="es">Tras diez años separados, Nico y su exmujer Victoria deciden finalizar los trámites de divorcio. Para ello, Victoria viaja desde Berlín hasta Mallorca, donde reside Nico junto a su prometida Lucia(n)</desc>
+  <programme start="20190120160000 +0100" stop="20190120173000 +0100" channel="LA 1">
+    <title lang="es">Enemigas íntimas</title>
+    <desc lang="es">Lucia y Fabiola se odian profundamente, pero tienen algo en común: su amor por Paolo, con quien las dos estuvieron casadas. La muerte de este, las obliga ahora a encontrarse de nuevo y descubrir un importante secreto de su exmarido. Comedia italiana del director Luca Lucini (''The Comedians''). El dúo protagonista lo forman Claudia Gerini (''La pasión de Cristo'') y Margherita Buy (''El hada ignorante'') que dan vida a dos mujeres que se odian y que se ven obligadas a acercarse cuando el hombre al que las dos aman muere repentinamente. Ambas tendrán que aprender a dejar de lado sus diferencias personales cuando descubran el secreto que guardaba su exmarido. Paolo Calabresi (''El talento de Mr. Ripley'') y Giampaolo Morelli (''Ammore e malavita'') completan el reparto. La película fue producida por la colaboración entre Bianca Film y Rai Cinema. Las escenas fueron filmadas en Roma(n)</desc>
     <credits>
-      <director>Florian Gärtner</director>
-      <actor>Christoph M. Ohrt</actor>
-      <actor>Katharina Müller-Elmau</actor>
-      <actor>Giulia Goldammer</actor>
-      <actor>Gregory B Waldis</actor>
-      <actor>Lucia Peraza Rios</actor>
+      <director>Luca Lucini</director>
+      <actor>Claudia Gerini</actor>
+      <actor>Margherita Buy</actor>
+      <actor>Gigio Morra</actor>
+      <actor>Giampaolo Morelli</actor>
+      <actor>Paolo Calabresi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938309V1498515" />
+  </programme>
+  <programme start="20190120173000 +0100" stop="20190120190000 +0100" channel="LA 1">
+    <title lang="es">Nadando hacia la libertad</title>
+    <desc lang="es">Hugo regresa a Alemania tras cinco años en China, mientras su amigo Teddy se ha hecho cargo de su familia. Lisa tiene problemas de crédito y la llegada de Hugo la desconcierta. Ante la situación precaria de ambos, Hugo propone trabajar en un proyecto común para solventar la situación(n)</desc>
+    <credits>
+      <director>Peter Stauch</director>
+      <actor>Gaby Dohm</actor>
+      <actor>Janek Rieke</actor>
+      <actor>Suzan Anbeh</actor>
+      <actor>Stephan Luca</actor>
+      <actor>Romy Butz</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938302V1258607" />
+  </programme>
+  <programme start="20190120190000 +0100" stop="20190120203000 +0100" channel="LA 1">
+    <title lang="es">Un misterio para Aurora Teagarden</title>
+    <sub-title lang="es">Un diseño mortal</sub-title>
+    <desc lang="es">Aurora está emocionada porque su amiga de la infancia Poppy se ha mudado a la ciudad. Cuando la joven es hallada muerta en su apartamento, Aurora decide investigar lo sucedido(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Marilu Henner</actor>
+      <actor>Lexa Doig</actor>
+      <actor>Jordana Largy</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Peter Benson</actor>
     </credits>
     <date>2018</date>
     <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938011V1620311" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938304V1620931" />
   </programme>
-  <programme start="20190119173000 +0100" stop="20190119190000 +0100" channel="LA 1">
-    <title lang="es">Boda en Hardingsholm</title>
-    <desc lang="es">La joven piloto Hellen Reslow recibe el encargo de llevar un paquete, que contiene un vestido de novia, a la isla de Hardingsholm. Allí se enamora de Erik, el cual está a punto de casarse con Lynn(n)</desc>
-    <credits>
-      <director>Karola Meeder</director>
-      <actor>Petra Zieser</actor>
-      <actor>Janin Reinhardt</actor>
-      <actor>Florian Weber</actor>
-      <actor>Alissa Jung</actor>
-      <actor>Tom Beck</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Telefilme</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938017V1201806" />
+  <programme start="20190120203000 +0100" stop="20190120210000 +0100" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M402651V1383367" />
   </programme>
-  <programme start="20190119190000 +0100" stop="20190119210000 +0100" channel="LA 1">
-    <title lang="es">La decente</title>
-    <desc lang="es">Nuria y Roberto se conocen en un viaje que ella hace para ir a contraer matrimonio. Roberto, hombre dedicado a la ornitología, se enamora de la joven avasalladoramente. Con el paso del tiempo vuelven a encontrarse y Nuria está ya casada con un escritor e historiador que, para estar tranquilo, se ha refugiado con Nuria en un chalet vecino al de Roberto. En la visita de Nuria a Roberto ella le dice que le ama, pero que como es muy decente y está casada, este amor es imposible a no ser que el marido muera. El verdadero motivo de la visita es que Nuria quiere que el ornitólogo mate a su marido. Roberto, horrorizado, se niega. Ama a Nuria, pero no hasta el punto de cometer un crimen. Roberto pasa la noche entre su amigo Pepe y Paloma, una muchacha de vida alegre. Roberto ya tiene su coartada. Y a la mañana siguiente el marido de Nuria aparece muerto. El inspector sospecha de Roberto, de Nuria -que, por supuesto, tiene sólida coartada- y de Pepe, antiguo enamorado de Nuria. José Luis Sáenz de Heredia lleva a la pantalla la comedia homónima de Miguel Mihura realizada con el habitual oficio del que siempre hizo gala este director, que sigue fielmente el texto teatral. A destacar el eficaz reparto donde, junto a Concha Velasco (por entonces compañera del director), Alfredo Landa o José Luis López Vázquez, destaca la sobriedad de Julia Caba Alba(n)</desc>
-    <credits>
-      <director>José Luis Sáenz de Heredia</director>
-      <actor>Concha Velasco</actor>
-      <actor>Alfredo Landa</actor>
-      <actor>José Luis López Vázquez</actor>
-      <actor>Fernando Guillén</actor>
-      <actor>María José Román</actor>
-      <actor>Julia Caba Alba</actor>
-      <actor>Fernando Guillén Cuervo</actor>
-      <actor>Josele Román</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938014V347430" />
-  </programme>
-  <programme start="20190119210000 +0100" stop="20190119212500 +0100" channel="LA 1">
+  <programme start="20190120210000 +0100" stop="20190120215500 +0100" channel="LA 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Oriol Nolis se encarga de presentar las últimas noticias de ámbito nacional e internacional. Arsenio Cañada, mientras, desgrana la actualidad deportiva(n)</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336869V1114180" />
   </programme>
-  <programme start="20190119212500 +0100" stop="20190119213000 +0100" channel="LA 1">
+  <programme start="20190120215500 +0100" stop="20190120220500 +0100" channel="LA 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de Televisión Española es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336881V332735" />
   </programme>
-  <programme start="20190119213000 +0100" stop="20190119220500 +0100" channel="LA 1">
-    <title lang="es">Informe Semanal</title>
-    <desc lang="es">El programa aborda el cambio político en Andalucía tras 37 años de socialismo. También se ocupa de la incertidumbre en la política británica tras el rechazo del parlamento al plan de Theresa May para salir de la UE, y analiza la estafa de las clínicas iDental(n)</desc>
-    <credits>
-      <director>Óscar González</director>
-    </credits>
+  <programme start="20190120220500 +0100" stop="20190121001500 +0100" channel="LA 1">
+    <title lang="es">Operación Triunfo</title>
+    <sub-title lang="es">Especial Eurovisión</sub-title>
+    <desc lang="es">Roberto Leal presenta este programa especial en el que los espectadores elegirán la canción e intérprete que representará a España en el Festival de Eurovisión. Diez son los temas propuestos que defenderán los concursantes de ''Operación Triunfo 2018''(n)</desc>
     <date>2019</date>
-    <category lang="es">Información</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M897980V1569050" />
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M886475V1620930" />
   </programme>
-  <programme start="20190119220500 +0100" stop="20190119232000 +0100" channel="LA 1">
-    <title lang="es">14 de abril</title>
-    <sub-title lang="es">Grandes esperanzas</sub-title>
-    <desc lang="es">Desde el exilio, Alejandra recibe una carta de Fernando Alcázar en la cual tantea su intención de volver a España tras la victoria de la izquierda. Sin embargo, Alejandra y Encarna piensan que todavía es demasiado peligroso que vuelva dado que Hugo sigue al acecho. Alejandra alberga serias dudas que van más allá de la seguridad de su marido y más cuando Fernando le cuenta que Mercedes se ha marchado a Alemania para siempre. Las circunstancias y su amor por Fernando la obligarán a tomar una decisión irreversible. Tras la suspensión del partido a causa de un atentado, la Falange se ve obligada a mantener un perfil bajo. Hugo, con la ayuda de Agustín, decide crear una tapadera para el partido: una asociación cultural que se reunirá en El Alemán y que permita mantener el partido vivo y funcionando. Mientras, el amante de Leocadia se presenta en Madrid, pero ésta pide discreción absoluta(n)</desc>
-    <credits>
-      <actor>Biel Durán</actor>
-      <actor>Lucía Jiménez</actor>
-      <actor>Raúl Peña</actor>
-      <actor>Félix Gómez</actor>
-      <actor>Sergio Mur</actor>
-      <actor>Mariona Ribas</actor>
-      <actor>Elio González</actor>
-      <actor>María Cotiello</actor>
-      <actor>Alejo Sauras</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M915277V1590482" />
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20190119232000 +0100" stop="20190120003000 +0100" channel="LA 1">
-    <title lang="es">14 de abril</title>
-    <sub-title lang="es">Hacia una vida nueva</sub-title>
-    <desc lang="es">Amparo, encerrada y menospreciada por Hugo, está cada vez más convencida de que solo logrará escapar de su situación golpeando primero y decide correr el riesgo. Éste, por su parte, confirma la veracidad de una pista sobre el paradero de Fernando Alcázar y manda a Alfonso a que cumpla la importante misión: acabar, de una vez por todas, con Alcázar. Nieves está desahuciada y no queda esperanza para la recuperación. Fernando y Alejandra proponen varias alternativas para que la antigua monja acabe sus días del modo más digno posible, pero para Jesús solo existe una opción: encargarse él personalmente de ella. Leocadia desea zanjar del mejor modo posible todos sus asuntos antes de abandonar la casa y marcharse con Charles. Es una tarea difícil y tanto como Agustín como Beatriz harán cuanto esté en su mano para que la matriarca reconsidere su decisión. Además, Agustín no tiene reparos en despedir a Ludi de forma inmediata tan pronto como se entera de la relación que la criada tiene con un anarquista(n)</desc>
-    <credits>
-      <actor>Biel Durán</actor>
-      <actor>Lucía Jiménez</actor>
-      <actor>Raúl Peña</actor>
-      <actor>Félix Gómez</actor>
-      <actor>Sergio Mur</actor>
-      <actor>Mariona Ribas</actor>
-      <actor>Elio González</actor>
-      <actor>María Cotiello</actor>
-      <actor>Alejo Sauras</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M915277V1590482" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20190119060000 +0100" stop="20190119073000 +0100" channel="LA 2">
-    <title lang="es">Inglés Online</title>
-    <desc lang="es">Curso de ingles de Televisión Española para hisponoparlantes(n)</desc>
-    <date>2018</date>
+  <programme start="20190120060000 +0100" stop="20190120073000 +0100" channel="LA 2">
+    <title lang="es">That's English</title>
+    <desc lang="es">Programa divulgativo que ofrece un curso de inglés a distancia, creado por el Ministerio de Educación en colaboración con la BBC británica y Televisión Española. El curso permite obtener el Certificado del Ciclo Elemental de la Escuela Oficial de Idiomas(n)</desc>
+    <date>2017</date>
     <category lang="es">Cultural/Educativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M683344V1483506" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322641V524042" />
   </programme>
-  <programme start="20190119073000 +0100" stop="20190119080000 +0100" channel="LA 2">
+  <programme start="20190120073000 +0100" stop="20190120080000 +0100" channel="LA 2">
     <title lang="es">UNED</title>
     <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia. Ofrece la información sobre los contenidos de las asignaturas que integran las distintas carreras y del curso de acceso a la universidad para mayores de 25 años(n)</desc>
     <date>2017</date>
     <category lang="es">Cultural/Educativo</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322677V524174" />
   </programme>
-  <programme start="20190119080000 +0100" stop="20190119093000 +0100" channel="LA 2">
+  <programme start="20190120080000 +0100" stop="20190120084500 +0100" channel="LA 2">
     <title lang="es">Los conciertos de La 2</title>
-    <sub-title lang="es">Ortve A-7</sub-title>
-    <desc lang="es">Retransmisión de un concierto de la Orquesta Sinfónica y el Coro de RTVE. Nacida en 1965, pronto se convirtió en una orquesta de primerísima fila. Su repertorio es el clásico-romántico, la música española y el servicio a la creación musical de nuestro tiempo(n)</desc>
+    <sub-title lang="es">Ortve Concierto Hispano-Luso</sub-title>
+    <desc lang="es">Primera parte del concierto Intercambio Hispano-Luso celebrado en el Auditorio Nacional de Madrid el 7 de diciembre de 2018(n)</desc>
     <credits>
       <director>Arturo Morales</director>
     </credits>
     <date>2019</date>
     <category lang="es">Música</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898477V1572737" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898477V1621120" />
   </programme>
-  <programme start="20190119093000 +0100" stop="20190119102500 +0100" channel="LA 2">
-    <title lang="es">Agrosfera</title>
-    <desc lang="es">Espacio informativo sobre el campo, la pesca y la ganadería de España. Esta producción refleja todas las noticias institucionales que surgen tanto en el ámbito nacional como en el internacional, especialmente de las que llegan de Bruselas(n)</desc>
+  <programme start="20190120084500 +0100" stop="20190120091500 +0100" channel="LA 2">
+    <title lang="es">En lengua de signos</title>
+    <desc lang="es">Programa informativo que nace con el reto de acercar la actualidad al colectivo de personas con discapacidad auditiva, que en España llega casi al millón. Paloma Soroa, acompañada por Juan Pedro Toribio y Andrea Verbeke, es la encargada de conducir el espacio(n)</desc>
     <credits>
-      <director>Sandra Sutherland</director>
+      <director>Lola Hernández</director>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322714V688386" />
+  </programme>
+  <programme start="20190120091500 +0100" stop="20190120093000 +0100" channel="LA 2">
+    <title lang="es">Buenas noticias. TV</title>
+    <desc lang="es">Programa de las Iglesias Evangélicas que depende de la FEREDE (Federación de Entidades Religiosas Evangélicas de España). El espacio informa, a través de reportajes y entrevistas en estudio, de las actividades de los seguidores de esta fe en España(n)</desc>
+    <credits>
+      <director>José Pablo Sánchez</director>
     </credits>
     <date>2017</date>
-    <category lang="es">Información</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322599V518482" />
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322718V518504" />
   </programme>
-  <programme start="20190119102500 +0100" stop="20190119105000 +0100" channel="LA 2">
-    <title lang="es">España en comunidad</title>
-    <desc lang="es">Programa que ofrece reportajes en profundidad e información de actualidad sobre las distintas comunidades autónomas españolas. Está realizado por los centros territoriales y de producción de TVE, aunque cuenta con una pequeña redacción en Madrid(n)</desc>
+  <programme start="20190120093000 +0100" stop="20190120094500 +0100" channel="LA 2">
+    <title lang="es">Shalom</title>
+    <desc lang="es">Programa semanal dirigido a la comunidad judía que, a través de reportajes y entrevistas, analiza temas de actualidad como ciencia, educación, festividades, cocina, medicina, mística, pensamiento y personalidades de la vida judía en España y en el resto del mundo(n)</desc>
     <credits>
-      <director>Marta Ventura</director>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Información</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M930329V1617329" />
-  </programme>
-  <programme start="20190119105000 +0100" stop="20190119115000 +0100" channel="LA 2">
-    <title lang="es">Cuadernos de paso</title>
-    <sub-title lang="es">II-Cuaderno de la mancha</sub-title>
-    <desc lang="es">Programa dedicado a la Mancha, la tierra que inspiró a Cervantes a escribir ''el Quijote''. Entre otros se visitan los lugares del libro y se da a conocer el trabajo de sus artesanos y sus productos(n)</desc>
-    <credits>
-      <director>Juan Manuel Blázquez</director>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936440V550310" />
-  </programme>
-  <programme start="20190119115000 +0100" stop="20190119122000 +0100" channel="LA 2">
-    <title lang="es">Para todos La 2</title>
-    <desc lang="es">Magacín centrado en temas sociales que incluye entrevistas, encuestas y debates. El objetivo es reflexionar sobre los temas y aspectos de la vida que más afectan a los ciudadanos, contando con la participación de los mejores expertos en cada materia que se analiza(n)</desc>
-    <credits>
-      <director>Quim Cuixart</director>
+      <director>Coty Aserín</director>
     </credits>
     <date>2017</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898489V1451369" />
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322720V518556" />
   </programme>
-  <programme start="20190119122000 +0100" stop="20190119124500 +0100" channel="LA 2">
-    <title lang="es">Cocina real</title>
-    <sub-title lang="es">El castillo de le Lude</sub-title>
-    <desc lang="es">En el Castillo de Le Lude, el comienzo de la temporada de caza se celebra con una recepción y una gran cena para una prestigiosa lista de invitados. Entre los manjares del menú se servirá pot-au-feu y una mousse de chocolate servida en unas tazas de porcelana(n)</desc>
+  <programme start="20190120094500 +0100" stop="20190120100000 +0100" channel="LA 2">
+    <title lang="es">Medina en tve</title>
+    <desc lang="es">Programa de culto islámico(n)</desc>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322716V1265112" />
+  </programme>
+  <programme start="20190120100000 +0100" stop="20190120102500 +0100" channel="LA 2">
+    <title lang="es">Últimas preguntas</title>
+    <desc lang="es">Programa religioso sobre temas de interés cultural, histórico, católico, moral y familiar. ''Últimas preguntas'' analiza la presencia de la Iglesia en la cultura y la sociedad actual. Cada programa incluye un reportaje y una entrevista a personas relevantes de la sociedad sobre un tema de actualidad, como la posición de la Iglesia frente al terrorismo, la ley de política familiar o la entrada en vigor del euro. El espacio religioso intenta abordar cuestiones relacionadas con la fe católica desde distintos aspectos y analizar el contenido de los documentos que publique la santa sede o la conferencia episcopal española; así como acercar la situación de los católicos en algunos lugares del mundo o el diálogo entre distintas religiones.''Últimas preguntas'', programa elaborado por los Servicios Religiosos de Televisión Española, empezó su andadura el 30 de octubre de 1983, por lo que supera los veinte años en antena. Entre los hitos del programa, cabe destacar su audiencia en el Vaticano en diciembre de 1986, en la que el equipo recibió un mensaje personal de Juan Pablo II(n)</desc>
     <credits>
-      <director>Stefan Pannen</director>
+      <director>María de los Ángeles Fernández</director>
     </credits>
-    <date>2015</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M611501V1464484" />
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322722V518570" />
   </programme>
-  <programme start="20190119124500 +0100" stop="20190119131500 +0100" channel="LA 2">
-    <title lang="es">Activa-2</title>
-    <desc lang="es">Programa que anima al espectador a llevar una vida sana basada en el movimiento, el deporte, la nutrición y la diversión. Habla de las últimas tendencias deportivas, yoga, mindfullness o turismo deportivo y ofrece consejos para entrenar o para alimentarse bien(n)</desc>
-    <date>2019</date>
-    <category lang="es">Música</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898467V1466418" />
-    <episode-num system="onscreen">S1 E51</episode-num>
-  </programme>
-  <programme start="20190119131500 +0100" stop="20190119135000 +0100" channel="LA 2">
-    <title lang="es">Brain Games</title>
-    <sub-title lang="es">Perspectiva</sub-title>
-    <desc lang="es">En este episodio comprobarás que los ángulos extraños engañan a tu cerebro, que la luz y las sombras afectan de forma crucial a tu percepción del mundo(n)</desc>
-    <date>2014</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M915491V1195266" />
-    <episode-num system="onscreen">S4 E14</episode-num>
-  </programme>
-  <programme start="20190119135000 +0100" stop="20190119150500 +0100" channel="LA 2">
-    <title lang="es">Tendido cero</title>
-    <desc lang="es">''Tendido cero'' es uno de los más veteranos programas informativos sobre el mundo de la tauromaquia. El espacio repasa la actualidad de las ferias y los eventos que se estén desarrollando en los ruedos de todo el mundo. También incluye reportajes y entrevistas(n)</desc>
+  <programme start="20190120102500 +0100" stop="20190120103000 +0100" channel="LA 2">
+    <title lang="es">Testimonio</title>
+    <desc lang="es">Miniespacio de cinco minutos que ofrece reportajes narrados en primera persona, intercalando personajes anónimos y rostros conocidos, con el objetivo de dar a conocer las distintas realidades de la Iglesia. Su meta es acercar la dimensión religiosa y trascendente al hombre a través de la vida de sacerdotes, religiosos, laicos, adultos, jóvenes y de su forma de entender la religión. El espacio abarca temas tan diversos como la vocación, la acción sociocaritativa de la iglesia, la enfermedad, la marginación o la exclusión social. El programa también tiene en cuenta el calendario litúrgico, atendiendo a las distintas efemérides como la navidad, la pascua, el pentecostés, el mes de María, la jornada del enfermo, la época de las primeras comuniones... però también atiende a acontecimientos de carácter social como la entrega de la declaración de la renta.''Testimonio'' es un programa elaborado por los Servicios Religiosos de Televisión Española. El espacio, que tuvo inicialmente el título de ''Palabras de vida'', lleva más de 20 años en antena y supera ya las 700 emisiones(n)</desc>
     <credits>
-      <director>Federico Arnás Lozano</director>
+      <director>Isidro Catela</director>
     </credits>
-    <date>2015</date>
-    <category lang="es">Toros</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322702V525552" />
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322724V518571" />
   </programme>
-  <programme start="20190119150500 +0100" stop="20190119153500 +0100" channel="LA 2">
-    <title lang="es">Edificios</title>
-    <sub-title lang="es">Educación en contexto</sub-title>
-    <desc lang="es">Un viaje por la arquitectura española contemporánea en compañía de más de treinta arquitectos de prestigio, que contarán las claves de su obra más reciente. El programa se asomará a escuelas, hospitales, centros culturales, casas y auditorios, entre otros edificios(n)</desc>
+  <programme start="20190120103000 +0100" stop="20190120113000 +0100" channel="LA 2">
+    <title lang="es">El día del Señor</title>
+    <desc lang="es">Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia. ''El día del señor'' no se olvida de las celebraciones más importantes oficiadas por el Papa, que, con carácter especial, se efectúan desde Roma. Así como las misas de Navidad, Pascua de Resurrección, ceremonias de beatificación y canonización de santos españoles. A éstas se suman otras celebraciones religiosas transmitidas por ''Eurovisión'', el ''Triduo Pascual'', y la transmisión, en la Semana Santa, de los cultos del Jueves, Viernes y Sábado Santo, juntamente con algunas de las procesiones más significativas(n)</desc>
     <credits>
-      <director>Marina Collazo</director>
+      <director>Juan Carlos Ramos</director>
     </credits>
-    <date>2014</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M932359V1182772" />
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M930341V750643" />
   </programme>
-  <programme start="20190119153500 +0100" stop="20190119162000 +0100" channel="LA 2">
+  <programme start="20190120113000 +0100" stop="20190120120000 +0100" channel="LA 2">
+    <title lang="es">Pueblo de Dios</title>
+    <desc lang="es">Programa religioso que ofrece reportajes sobre el trabajo que realizan las ONG o comunidades religiosas en España y en el mundo. Retrata los proyectos que se desarrollan en el campo de la educación y la salud para ayudar a las capas sociales más necesitadas(n)</desc>
+    <credits>
+      <director>Julián Del Olmo</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M906517V1584654" />
+  </programme>
+  <programme start="20190120120000 +0100" stop="20190120125500 +0100" channel="LA 2">
+    <title lang="es">Climas extremos</title>
+    <sub-title lang="es">Terranova, el lugar con más niebla</sub-title>
+    <desc lang="es">Mario Picazo recorre el mundo en busca de las situaciones más extremas que el cuerpo humano pueda aguantar. Llegando a los confines del planeta, el presentador se enfrentará a diversos retos climatológicos a la vez convive con gentes de diferentes pueblos y culturas(n)</desc>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M934489V1266493" />
+  </programme>
+  <programme start="20190120125500 +0100" stop="20190120133000 +0100" channel="LA 2">
+    <title lang="es">Zoom tendencias</title>
+    <desc lang="es">Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa(n)</desc>
+    <credits>
+      <director>Mercedes Cámara</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322740V799936" />
+  </programme>
+  <programme start="20190120133000 +0100" stop="20190120143500 +0100" channel="LA 2">
+    <title lang="es">Sicilia al descubierto</title>
+    <desc lang="es">En la etapa final del viaje, Andrew y Giorgio nos muestran las luces y las sombras de la isla; descubrirán como los sicilianos intentan labrarse un futuro más esperanzador dejando el triste legado de la Mafia(n)</desc>
+    <date>2011</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M740836V1507466" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190120143500 +0100" stop="20190120153500 +0100" channel="LA 2">
+    <title lang="es">Cómo se hizo Planeta Tierra II</title>
+    <sub-title lang="es">Desiertos</sub-title>
+    <desc lang="es">Descubre los retos y secretos del rodaje del episodio "Desiertos Planeta Tierra II". La serie documental que nos sumerge en increíbles paisajes del mundo a través de la perspectiva de los animales(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M934509V1346455" />
+  </programme>
+  <programme start="20190120153500 +0100" stop="20190120162000 +0100" channel="LA 2">
     <title lang="es">Saber y ganar fin de semana</title>
     <desc lang="es">Edición de fin de semana del concurso más longevo de Televisión Española. En su edición de sábados y domingos, el espacio adopta una mecánica diferente de la edición diaria: un mayor número de concursantes, diferentes retos y pruebas por equipos marcan la diferencia(n)</desc>
     <credits>
@@ -326,339 +310,387 @@
     <category lang="es">Entretenimiento</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322618V1483464" />
   </programme>
-  <programme start="20190119162000 +0100" stop="20190119170400 +0100" channel="LA 2">
-    <title lang="es">Los felinos de la tormenta</title>
-    <desc lang="es">En un paraje donde la lluvia es muy poco frecuente, violenta y breve, los grandes felinos viven una vida predecible, como amos de un terreno seco al que están bien adaptados. Pero de pronto, durante ocho intensas semanas, las fuertes tormentas transforman su mundo y cambian por completo su rutina. Aunque el peligro de morir es igual de grande que siempre, también son muchas las oportunidades para quienes saben aprovecharlas. Este documental es un retrato íntimo de leopardos, leones y guepardos a los que las fuerzas de la naturaleza ponen al límite. Solo sobrevivirán los que sean capaces de adaptarse(n)</desc>
-    <date>2016</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M919014V1376981" />
-  </programme>
-  <programme start="20190119170400 +0100" stop="20190119175000 +0100" channel="LA 2">
-    <title lang="es">Manglares del mundo maya</title>
-    <desc lang="es">Documental que explora la riqueza biológica y la importancia ecológica de la península de Yucatán, con especial enfoque en los manglares. Los manglares son un mundo de transición entre los ecosistemas marinos y terrestres(n)</desc>
+  <programme start="20190120162000 +0100" stop="20190120170700 +0100" channel="LA 2">
+    <title lang="es">Supervivencia extrema</title>
+    <sub-title lang="es">Atraccion Animal</sub-title>
+    <desc lang="es">Transmitir los genes es un impulso primario y vital donde solo triunfan los más fuertes y los que perseveran. Para eliminar a la competencia y alcanzar el objetivo supremo de la reproducción cada especie a instaurado sus normas de atracción únicas y exclusivas(n)</desc>
     <credits>
-      <director>Fernando González Sitges</director>
+      <director>Andrew Zikking</director>
     </credits>
-    <date>2016</date>
+    <date>2017</date>
     <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M879128V1569035" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M703630V1493431" />
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20190119175000 +0100" stop="20190119182000 +0100" channel="LA 2">
-    <title lang="es">Planeta selva</title>
-    <sub-title lang="es">Selvas en la cumbre. Pinsapares de Andalucia</sub-title>
-    <desc lang="es">Los bosques, selvas y junglas de los cinco continentes son los protagonistas de esta serie documental rodada en 12 países. Además de mostrar su biodiversidad en toda su plenitud, el espacio pretende sensibilizar al público sobre la necesidad de protegerlos y cuidarlos(n)</desc>
-    <credits>
-      <director>Juan Antonio Rodríguez Llano</director>
-    </credits>
-    <date>2015</date>
+  <programme start="20190120170700 +0100" stop="20190120175400 +0100" channel="LA 2">
+    <title lang="es">Supervivencia extrema</title>
+    <sub-title lang="es">Apetitos animales</sub-title>
+    <desc lang="es">En África, en el Valle del Luangua, cada animal desarrolla su propia estrategia para sobrevivir en la época más dura del año: la estación seca. El infortunio de unos se convertirá en la ventaja para poder sobrevivir de otros(n)</desc>
+    <date>2017</date>
     <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M350932V1371951" />
-    <episode-num system="onscreen">S2015 E14</episode-num>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1618812" />
+    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20190119182000 +0100" stop="20190119191500 +0100" channel="LA 2">
-    <title lang="es">Las rutas de Ambrosio</title>
-    <sub-title lang="es">Marina Alta</sub-title>
-    <desc lang="es">El chef argentino Gonzalo D'Ambrosio viaja por España para acercarse a sus gentes y mostrar los productos emblemáticos y los recetarios típicos de cada una de las zonas(n)</desc>
-    <credits>
-      <director>Nahúm Varas</director>
-    </credits>
-    <date>2019</date>
+  <programme start="20190120175400 +0100" stop="20190120184000 +0100" channel="LA 2">
+    <title lang="es">Supervivencia extrema</title>
+    <sub-title lang="es">Arquitectura animal</sub-title>
+    <desc lang="es">El Valle del Luangua (África) cambia constantemente. El impacto en el hábitat de los grandes depredadores manteniendo a raya a los números herbívoros es necesaria. De una manera u otra todos los animales influyen en su entorno, desde el elefante hasta la termita(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1620092" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20190120184000 +0100" stop="20190120191000 +0100" channel="LA 2">
+    <title lang="es">El señor de los bosques</title>
+    <sub-title lang="es">Sabinar de Calatañazor</sub-title>
+    <desc lang="es">El buz Carlos Simón acompaña a Vicente Sevilla a uno de los bosques de sabinas más densos y mejor conservados del planetaEl buzo Karlos Simón acompaña a Vicente Sevilla a uno de los bosques de sabinas más densos y mejor conservados del planeta(n)</desc>
+    <date>2018</date>
     <category lang="es">Ocio y Aficiones</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936419V1617326" />
-    <episode-num system="onscreen">S3 E3</episode-num>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M850218V1621121" />
+    <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20190119191500 +0100" stop="20190119194500 +0100" channel="LA 2">
-    <title lang="es">Vías romanas en Europa</title>
-    <desc lang="es">En la Edad Antigua, los ingenieros del Imperio romano crearon comunicaciones terrestres para agilizar los viajes por su territorrio. Este documental muetra todas las infraestructuras que marcaron una época y fueron un legado para las siguientes generaciones(n)</desc>
+  <programme start="20190120191000 +0100" stop="20190120194000 +0100" channel="LA 2">
+    <title lang="es">Diario de un nómada</title>
+    <sub-title lang="es">Cruzando las columnas de Hércules</sub-title>
+    <desc lang="es">En esta octava temporada, el aventurero Miquel Silvestre recorre en su moto algunas de las rutas más legendarias y arriesgadas del planeta, como la carretera de los trolls en Noruega, la infame R307 de Marruecos o la célebre Pamir Highway en Asia Central(n)</desc>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M934860V1621118" />
+    <episode-num system="onscreen">S8 E2</episode-num>
+  </programme>
+  <programme start="20190120194000 +0100" stop="20190120203500 +0100" channel="LA 2">
+    <title lang="es">Senderos del mundo</title>
+    <desc lang="es">Recorrido por las rutas a pie más importantes del planeta(n)</desc>
     <credits>
       <director>Juan Frutos</director>
     </credits>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M544928V1294931" />
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1621119" />
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20190119194500 +0100" stop="20190119203000 +0100" channel="LA 2">
-    <title lang="es">8 días que marcaron la historia de Roma</title>
-    <sub-title lang="es">La rebelión de Espartaco</sub-title>
-    <desc lang="es">La historiadora Bettany Hughes selecciona ocho días cruciales que definieron al Imperio Romano y su establecimiento como la primera superpotencia del mundo(n)</desc>
-    <date>2017</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936421V1617327" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20190119203000 +0100" stop="20190119220000 +0100" channel="LA 2">
-    <title lang="es">No olvidados</title>
-    <desc lang="es">Un asesinato cometido hace más de treinta años, regresa a la luz para desvelar secretos que afectan a personas todavía vivas. Aunque es difícil encontrar pistas y los testimonios no son muy fiables, habrá consecuencias para aquellos implicados directa o indirectamente. El escritor británico Chris Lang es el artífice de este drama policial centrado en un grupo de policías que investigan la muerte de un joven cuyo cuerpo aparece muchos años después. El hallazgo altera las vidas de cuatro personas aparentemente sin ninguna conexión. La actriz Nicola Walker, nominada a mejor actriz secundaria en los BAFTA de 2014 por ''Last Tango in Halifax'', encabeza el reparto junto a Sanjeev Bhaskar (''Goodness Gracious Me''). Juntos dan vida a Cassie Stuart y Sunny Khan, dos perspicaces detectives. Bernard Hill (''Titanic'', ''El señor de los anillos''), Trevor Eve (''Caso cerrado''), Ruth Sheen (''Another year'') y Tom Courtenay (''45 años'') completan el reparto(n)</desc>
+  <programme start="20190120203500 +0100" stop="20190120213000 +0100" channel="LA 2">
+    <title lang="es">La gran odisea de la Humanidad</title>
+    <sub-title lang="es">La última etapa</sub-title>
+    <desc lang="es">Un viaje alrededor del mundo para descubrir el milagro de la especie humana. Esta serie invita al espectador a descubrir cómo los humanos sobrevivieron a la extinción en África y cómo se convirtieron en los últimos homínidos de la Tierra(n)</desc>
     <credits>
-      <director>Andy Wilson</director>
-      <actor>Trevor Eve</actor>
-      <actor>Bernard Hill</actor>
-      <actor>Nicola Walker</actor>
-      <actor>Ruth Sheen</actor>
-      <actor>Sanjeev Bhaskar</actor>
+      <director>Niobe Thompson</director>
     </credits>
-    <date>2015</date>
+    <date>2014</date>
     <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M936423V1613612" />
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M761654V1353040" />
   </programme>
-  <programme start="20190119220000 +0100" stop="20190119235500 +0100" channel="LA 2">
-    <title lang="es">Locas de alegría</title>
-    <desc lang="es">Beatrice (Valeria Bruni Tedeschi) es una condesa charlatana y millonaria que está convencida de encontrarse entre los círculos íntimos de los líderes políticos mundiales. Por su parte Donatella (Micaella Ramazzotti) es una joven tatuada, vulnerable e introvertida, envuelta en su propio halo de misterio. Ambas son pacientes de Villabiondi, una delirante institución psiquiátrica. Ganadora de 5 premios David Di Donatello (del cine italiano), incluyendo mejor película, mejor director y mejor actriz. Espiga de oro, premio a mejor actriz y premio del público en la Seminci de Valladolid. Nominada a mejor actriz en los Premios del Cine Europeo (Bruni Tedeschi)(n)</desc>
+  <programme start="20190120213000 +0100" stop="20190120223000 +0100" channel="LA 2">
+    <title lang="es">La soledad del escultor</title>
+    <desc lang="es">Un homenaje al artista zamorano Baltasar Lobo. El documental recorre su vida y su obra del Premio Nacional de Artes Plásticas a través de casi una veintena de testimonios expertos en su obra(n)</desc>
     <credits>
-      <director>Paolo Virzì</director>
-      <actor>Valeria Bruni Tedeschi</actor>
-      <actor>Micaela Ramazzotti</actor>
-      <actor>Anna Galiena</actor>
-      <actor>Marco Messeri</actor>
-      <actor>Tommaso Ragno</actor>
-      <actor>Luisanna Messeri</actor>
-      <actor>Valentina Carnelutti</actor>
-      <actor>Sergio Albelli</actor>
+      <director>Agustín Remesal</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938457V1621116" />
+  </programme>
+  <programme start="20190120223000 +0100" stop="20190121005000 +0100" channel="LA 2">
+    <title lang="es">Neruda</title>
+    <desc lang="es">Año 1949: El presidente chileno Gabriel González Videla promulga, bajo presión de Estados Unidos, la 'ley maldita', que proscribe el comunismo y rompe relaciones con la URSS. Es entonces cuando el senador (y poeta) Pablo Neruda acusa a su gobierno de traicionar a todos los que son simpatizantes de esta ideología política; lo que provoca que González Videla ordene su captura. "Neruda" es un falso 'biopic', tal y como lo describe su director, Pablo Larraín: "Desde luego nada tiene que ver con los 'biopics' que llegan de Hollywood a los que estamos sobreexpuestos. Más que una película sobre Neruda, es una película sobre lo nerudiano, un concepto que abarca la enorme figura y obra del poeta más grande en cualquier idioma del siglo XX". Neruda, viéndose obligado a escapar, emprende la huida del país junto a su esposa Delia. El poeta, que será reconocido con el Premio Nobel de Literatura en 1971, aprovecha su exilio político para escribir "Canto General", un símbolo de libertad y leyenda literaria para toda la población chilena. Luis Gnecco y Gael García Bernal dan vida a Pablo Neruda y a Óscar Peluchoneau, este último el inspector encargado de perseguir al escritor en su huida. "Neruda" es el segundo título dirigido por Larraín en el que ambos actores coinciden; cuatro años antes compartieron cartel en "No". Mercedes Morán, Diego Muñoz y Emilio Gutiérrez Caba completan el reparto. "Neruda", un filme dramático con una buena dosis de comedia divertida e irreverente, fue nominada como mejor película de habla no inglesa en los Globos de Oro de 2017(n)</desc>
+    <credits>
+      <director>Pablo Larraín</director>
+      <actor>Gael García Bernal</actor>
+      <actor>Luis Gnecco</actor>
+      <actor>Mercedes Morán</actor>
+      <actor>Emilio Gutiérrez Caba</actor>
+      <actor>Diego Muñoz</actor>
+      <actor>Pablo Derqui</actor>
+      <actor>Alfredo Castro</actor>
+      <actor>Marcelo Alonso</actor>
+      <actor>Alejandro Goic</actor>
     </credits>
     <date>2016</date>
     <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937827V1391292" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938105V1292950" />
   </programme>
-  <programme start="20190119235500 +0100" stop="20190120012500 +0100" channel="LA 2">
-    <title lang="es">Marfil, la historia de un crimen</title>
-    <desc lang="es">Luchar contra la caza furtiva de elefantes es arriesgado. Esta crónica documenta cómo durante milenios, se han cazado elefantes por sus colmillos. Para muestra, la reserva de caza Selous, dónde numerosos guardas forestales han sido asesinados por los cazadores furtivos(n)</desc>
-    <date>2019</date>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938101V1620262" />
-  </programme>
-  <programme start="20190119031500 +0100" stop="20190119070000 +0100" channel="Antena 3">
+  <programme start="20190120031500 +0100" stop="20190120070000 +0100" channel="Antena 3">
     <title lang="es">Minutos musicales</title>
     <desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
     <date>2018</date>
     <category lang="es">Música</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336105V661411" />
   </programme>
-  <programme start="20190119070000 +0100" stop="20190119072300 +0100" channel="Antena 3">
+  <programme start="20190120070000 +0100" stop="20190120072600 +0100" channel="Antena 3">
     <title lang="es">Pelopicopata</title>
     <desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas(n)</desc>
     <date>2004</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349824V1314967" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349824V1315489" />
   </programme>
-  <programme start="20190119072300 +0100" stop="20190119074600 +0100" channel="Antena 3">
+  <programme start="20190120072600 +0100" stop="20190120075200 +0100" channel="Antena 3">
     <title lang="es">Pelopicopata</title>
     <desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas(n)</desc>
     <date>2004</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349824V1314968" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349824V1315490" />
   </programme>
-  <programme start="20190119074600 +0100" stop="20190119081000 +0100" channel="Antena 3">
+  <programme start="20190120075200 +0100" stop="20190120081000 +0100" channel="Antena 3">
     <title lang="es">Pelopicopata</title>
     <desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas(n)</desc>
     <date>2004</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349824V1314969" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M349824V1316819" />
   </programme>
-  <programme start="20190119081000 +0100" stop="20190119090000 +0100" channel="Antena 3">
+  <programme start="20190120081000 +0100" stop="20190120100000 +0100" channel="Antena 3">
     <title lang="es">Los más</title>
     <desc lang="es">Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público(n)</desc>
     <date>2017</date>
     <category lang="es">Entretenimiento</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336157V971818" />
   </programme>
-  <programme start="20190119090000 +0100" stop="20190119122000 +0100" channel="Antena 3">
-    <title lang="es">La Voz</title>
-    <desc lang="es">Concurso que elige, entre un grupo de concursantes, a aquellos que destaquen por sus cualidades vocales sin que su imagen influya. Este está integrado por Pablo López, Antonio Orozco, Luis Fonsi y Paulina Rubio, que competirán entre ellos por formar sus equipos(n)</desc>
+  <programme start="20190120100000 +0100" stop="20190120122500 +0100" channel="Antena 3">
+    <title lang="es">Tu cara me suena</title>
+    <desc lang="es">Programa de talentos presentado por Manel Fuentes en el que diferentes personajes conocidos muestran su habilidad como cantantes. Cada semana preparan sus temas en una academia, pero no solo se trata de cantar sino también de imitar al intérprete original de la canción(n)</desc>
+    <credits>
+      <director>Tinet Rubira</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935115V1575867" />
+  </programme>
+  <programme start="20190120122500 +0100" stop="20190120133700 +0100" channel="Antena 3">
+    <title lang="es">¡Ahora caigo!</title>
+    <desc lang="es">Programa en el que un concursante compite contra diez para conseguir un premio de 200.000 euros. Los participantes se enfrentan cara a cara en una lucha contra el reloj. Si no dan con la respuesta correcta a una serie de preguntas de cultura general lo perderán todo(n)</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M929931V1614788" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899022V1616537" />
   </programme>
-  <programme start="20190119122000 +0100" stop="20190119134000 +0100" channel="Antena 3">
+  <programme start="20190120133700 +0100" stop="20190120150000 +0100" channel="Antena 3">
     <title lang="es">¡Ahora caigo!</title>
     <desc lang="es">Programa en el que un concursante compite contra diez para conseguir un premio de 200.000 euros. Los participantes se enfrentan cara a cara en una lucha contra el reloj. Si no dan con la respuesta correcta a una serie de preguntas de cultura general lo perderán todo(n)</desc>
-    <date>2018</date>
+    <date>2019</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899022V1608485" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899022V1616538" />
   </programme>
-  <programme start="20190119134000 +0100" stop="20190119150000 +0100" channel="Antena 3">
-    <title lang="es">¡Ahora caigo!</title>
-    <desc lang="es">Programa en el que un concursante compite contra diez para conseguir un premio de 200.000 euros. Los participantes se enfrentan cara a cara en una lucha contra el reloj. Si no dan con la respuesta correcta a una serie de preguntas de cultura general lo perderán todo(n)</desc>
-    <date>2018</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899022V1611858" />
-  </programme>
-  <programme start="20190119150000 +0100" stop="20190119154500 +0100" channel="Antena 3">
+  <programme start="20190120150000 +0100" stop="20190120154500 +0100" channel="Antena 3">
     <title lang="es">Antena 3 Noticias</title>
     <desc lang="es">Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336107V758477" />
   </programme>
-  <programme start="20190119154500 +0100" stop="20190119155500 +0100" channel="Antena 3">
+  <programme start="20190120154500 +0100" stop="20190120155500 +0100" channel="Antena 3">
     <title lang="es">Deportes fin de semana</title>
     <desc lang="es">Edición de fin de semana de la información deportiva de la mano de Óscar Castellanos. Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales(n)</desc>
     <date>2013</date>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336159V1105273" />
   </programme>
-  <programme start="20190119155500 +0100" stop="20190119160000 +0100" channel="Antena 3">
+  <programme start="20190120155500 +0100" stop="20190120160000 +0100" channel="Antena 3">
     <title lang="es">Tu tiempo fin de semana</title>
     <desc lang="es">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336127V1105325" />
   </programme>
-  <programme start="20190119160000 +0100" stop="20190119174500 +0100" channel="Antena 3">
-    <title lang="es">La cazadora de amantes</title>
-    <desc lang="es">Jackie contrata a una detective para investigar la relación de su marido con la otra mujer. Cuando la amante y su esposo mueren, la detective parece que nunca existió y Jackie es la única sospechosa(n)</desc>
+  <programme start="20190120160000 +0100" stop="20190120174500 +0100" channel="Antena 3">
+    <title lang="es">Los secretos de mi marido</title>
+    <desc lang="es">Lisa es una joven universitaria que mantiene una relación secreta con su profesor de ética. Cuando son descubiertos él debe abandonar el trabajo y ella también lo deja todo para casarse con él(n)</desc>
     <credits>
-      <director>Penelope Buitenhuis</director>
-      <actor>Lydia Look</actor>
-      <actor>Lauren Plaxco</actor>
-      <actor>Martin Copping</actor>
-      <actor>Lauralee Bell</actor>
+      <director>David DeCoteau</director>
+      <actor>Françoise Yip</actor>
+      <actor>Christina Cox</actor>
+      <actor>Sammi Barber</actor>
+      <actor>Christie Burson</actor>
+      <actor>Ryan Scott Greene</actor>
     </credits>
-    <date>2018</date>
+    <date>2017</date>
     <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937995V1620481" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938271V1621038" />
   </programme>
-  <programme start="20190119174500 +0100" stop="20190119192000 +0100" channel="Antena 3">
-    <title lang="es">Amber Frey</title>
-    <sub-title lang="es">testimonio decisivo</sub-title>
-    <desc lang="es">Película basada en un terrible hecho real, el juicio contra Scott Peterson, que miles de personas siguieron conmocionadas por televisión. La trama del largometraje se obtuvo del libro "Witness for the prosecution of Scott Peterson" que escribió Amber Frey, en donde cuenta todos los detalles del macabro suceso. Amber Frey (Janel Moloney) piensa que por fin ha conocido al hombre perfecto, a su príncipe azul, un hombre llamado Scott Peterson (Nathan Anderson) al que conoce durante una conferencia y con el que termina pasando la noche en su hotel. Sin embargo su felicidad inicial se torna en pesadilla cuando le ve hablando en las noticias sobre la desaparición de su esposa, Laci Peterson, embarazada de ocho meses. Amber Frey tendrá que colaborar con la policía para aclarar lo que realmente sucedió y posteriormente tendrá que testificar en el juicio. Peter Werner fue conocido gracias a su trabajo como director en diversos telefilmes y series televisivas de éxito ("Luz de luna", "Un mundo diferente"). Nathan Anderson tiene un currículo bastante completo. Ha participado en diversas series televisivas, en anuncios, y en largometrajes destacables como "Bowfinger, el pícaro" o "Godzilla". Del papel de Amber Frey se encarga Janel Moloney, nominada a dos Emmys por la serie "El ala oeste de la Casa Blanca"(n)</desc>
+  <programme start="20190120174500 +0100" stop="20190120191500 +0100" channel="Antena 3">
+    <title lang="es">La nueva vida de Kimberly</title>
+    <desc lang="es">Kimberly descubre que ha dilapidado toda su fortuna y debe dejar su lujosa vida. Kimberly consigue un empleo en una tienda de deportes y pronto empieza una relación con el dueño y conocerá a su hijo(n)</desc>
     <credits>
-      <director>Peter Werner</director>
-      <actor>Nora Dunn</actor>
-      <actor>Janel Moloney</actor>
-      <actor>Nathan Anderson</actor>
-      <actor>Michael Daingerfield</actor>
-      <actor>Dalias Blake</actor>
-      <actor>Pauline Crawford</actor>
-      <actor>Glenn Abel</actor>
+      <director>Bradford May</director>
+      <actor>Costas Mandylor</actor>
+      <actor>Gail O'Grady</actor>
+      <actor>Jonathan Patrick Moore</actor>
+      <actor>Anna Hutchison</actor>
+      <actor>Constance Marie</actor>
     </credits>
-    <date>2005</date>
-    <category lang="es">Telefilme</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937997V512071" />
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M833997V1541026" />
   </programme>
-  <programme start="20190119192000 +0100" stop="20190119210000 +0100" channel="Antena 3">
-    <title lang="es">Huyendo de lo imposible</title>
-    <desc lang="es">Una joven decide aceptar un trabajo en un hotel de los alpes suizos para huir de sus visiones homicidas. Sin embargo, cuando llega al lugar, debe enfretarse a la hostilidad de los habitantes(n)</desc>
+  <programme start="20190120191500 +0100" stop="20190120210000 +0100" channel="Antena 3">
+    <title lang="es">La boda de mi hermana</title>
+    <desc lang="es">Lissy y Bernadette son las hijas de un músico que se pasa la vida viajando. Cuando Bernadette empieza una relación con un apuesto joven, Lissy insiste en informar a su padre del feliz acontecimiento(n)</desc>
     <credits>
-      <director>Markus Welter</director>
-      <actor>Maximilian Simonischek</actor>
-      <actor>Ina Weisse</actor>
-      <actor>Herbert Leiser</actor>
-      <actor>Aaron Hitz</actor>
-      <actor>Regula Grauwiller</actor>
+      <director>Marco Serafini</director>
     </credits>
-    <date>2013</date>
-    <category lang="es">Telefilme</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938003V1309527" />
+    <date>2016</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938278V1430622" />
   </programme>
-  <programme start="20190119210000 +0100" stop="20190119214500 +0100" channel="Antena 3">
+  <programme start="20190120210000 +0100" stop="20190120214500 +0100" channel="Antena 3">
     <title lang="es">Antena 3 Noticias</title>
     <desc lang="es">Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336107V758482" />
   </programme>
-  <programme start="20190119214500 +0100" stop="20190119215500 +0100" channel="Antena 3">
+  <programme start="20190120214500 +0100" stop="20190120215500 +0100" channel="Antena 3">
     <title lang="es">Deportes fin de semana</title>
     <desc lang="es">Edición de fin de semana de la información deportiva de la mano de Óscar Castellanos. Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales(n)</desc>
     <date>2013</date>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336159V1105273" />
   </programme>
-  <programme start="20190119215500 +0100" stop="20190119221000 +0100" channel="Antena 3">
+  <programme start="20190120215500 +0100" stop="20190120221000 +0100" channel="Antena 3">
     <title lang="es">Tu tiempo fin de semana</title>
     <desc lang="es">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336127V1105325" />
   </programme>
-  <programme start="20190119221000 +0100" stop="20190120010000 +0100" channel="Antena 3">
-    <title lang="es">2012</title>
-    <desc lang="es">Según el calendario maya, el fin del mundo sobreviene en el año 2012, tras erupciones volcánicas, tifones y el deshielo de glaciares que inundan el planeta. Cuando comienzan los desastres, unos pocos privilegiados saben dónde acudir para escapar de una muerte segura. Los demás, huyen sin rumbo en busca de una improbable salvación. Roland Emmerich vuelve a intentar acabar con el futuro del Planeta tras dejarlo prácticamente inservible en "El día de mañana" e "Independence Day". Protagoniza este espectáculo visual, lleno de catástrofes a lo grande, John Cusack ("Jacuzzi al pasado", "La cosecha de hielo", "Alta fidelidad"), al que acompañan Chiwetel Ejiofor ("Salt"), Amanda Peet ("Los viajes de Gulliver"), Oliver Platt (la serie "Con C mayúscula (The Big C)"), Thandie Newton (la serie "Urgencias"), Danny Glover (la saga "Arma letal") y Woody Harrelson ("Bienvenidos a Zombieland")(n)</desc>
+  <programme start="20190120221000 +0100" stop="20190121003500 +0100" channel="Antena 3">
+    <title lang="es">El contable</title>
+    <desc lang="es">Christian Wolff, un hombre con problemas de autismo, trabaja como contable en el pequeño pueblo de Plainfield, Illinois. En Washington, el agente del Tesoro Ray King encarga en secreto a la analista Marybeth Medina que investigue a un personaje que aparece junto a conocidos miembros del hampa internacional en fotos tomadas durante los últimos cinco años. Todos lo conocen como 'El contable'. Ben Affleck interpreta en "El contable" a Christian Wolff, un genio de las matemáticas con síndrome de Asperger que, bajo la tapadera de una pequeña gestoría de pueblo, trabaja como contable para algunas de las organizaciones delictivas más peligrosas del mundo. Con el Departamento Jurídico del Ministerio de Hacienda pisándole los talones, Wolff se hace cargo de un cliente legal: una empresa de robótica en la que una contable 'junior' ha descubierto una discrepancia de millones de dólares. A medida que Wolff examina los libros de contabilidad de la firma, el número de muertos aumenta. Anna Kendrick, J.K. Simmons, Jon Bernthal, Jean Smart, Jeffrey Tambor y John Lithgow completan el reparto de este 'thriller' de acción dirigido por Gavin O'Connor(n)</desc>
     <credits>
-      <director>Roland Emmerich</director>
-      <actor>John Cusack</actor>
-      <actor>Chiwetel Ejiofor</actor>
-      <actor>Amanda Peet</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Thandie Newton</actor>
-      <actor>Danny Glover</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Tom McCarthy</actor>
-      <actor>Morgan Lily</actor>
-      <actor>Liam James</actor>
-      <actor>Beatrice Rosen</actor>
-      <actor>Johann Urb</actor>
-      <actor>Alexandre Haussmann</actor>
-      <actor>Philippe Haussmann</actor>
-      <actor>Zlatko Buric</actor>
+      <director>Gavin O'Connor</director>
+      <actor>Ben Affleck</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Jean Smart</actor>
+      <actor>Jeffrey Tambor</actor>
+      <actor>John Lithgow</actor>
+      <actor>Cynthia Addai-Robinson</actor>
     </credits>
-    <date>2009</date>
+    <date>2016</date>
     <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937999V800618" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938273V1321566" />
   </programme>
-  <programme start="20190119053000 +0100" stop="20190119070000 +0100" channel="Neox">
+  <programme start="20190120043000 +0100" stop="20190120061500 +0100" channel="Neox">
+    <title lang="es">Neox Discover</title>
+    <desc lang="es">Programa en el que los videoclips más votados por el público se exhibirán en este espacio televisivo. Los tres ganadores de esta primera edición son: Ivangel con ''No pueden'', Juan Palma y ''Vuelvo a caer'', y Onintze con ''A la luz de la luna''(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M875645V1566054" />
+  </programme>
+  <programme start="20190120061500 +0100" stop="20190120063500 +0100" channel="Neox">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320720V661411" />
+  </programme>
+  <programme start="20190120063500 +0100" stop="20190120070000 +0100" channel="Neox">
     <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-    <desc lang="es">Cerdo, Cabra, Banana y Grillo comparten una casa en un árbol rodeada de bosque y mar, en el centro de Boopelite, una ciudad fantástica donde muchos edificios parecen relojes, las calles están llenas de personajes muy peculiares, criaturas, humanos, robots, frutas, e incluso objetos inanimados que hablan.(n)</desc>
+    <sub-title lang="es">Gastarás bromas a tu vecino</sub-title>
+    <desc lang="es">La pandilla tiene vecinos nuevos, los Patajamón. Banana quiere echarlos mediante bromas. Cabra se contagia y se va volviendo una Patajamón. Cerdo se enamora de la Patajamón más joven. Grillo busca la cura para Cabra(n)</desc>
     <date>2016</date>
     <category lang="es">Infantil</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M932519V1323502" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M932519V1329292" />
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20190119070000 +0100" stop="20190119122500 +0100" channel="Neox">
+  <programme start="20190120070000 +0100" stop="20190120122500 +0100" channel="Neox">
     <title lang="es">Neox Kidz</title>
     <desc lang="es">Programa infantil y juvenil que estrena las mejores series nacionales e internacionales. ''Angry Birds'', ''Robot &amp; Monster'' y ''Los padrinos mágicos'' son algunas de las producciones que los más jóvenes de la casa pueden disfrutar en este espacio matinal de Neox(n)</desc>
     <date>2013</date>
     <category lang="es">Infantil</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320658V1101413" />
   </programme>
-  <programme start="20190119122500 +0100" stop="20190119132500 +0100" channel="Neox">
-    <title lang="es">WWE Raw</title>
-    <desc lang="es">Los mejores luchadores del mundo compiten por el título mundial. Héctor del Mar y Fernando Campillo retransmiten en Neox las peleas de los mejores atletas a nivel internacional en esta disciplina(n)</desc>
-    <date>2013</date>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320784V1123369" />
+  <programme start="20190120122500 +0100" stop="20190120123500 +0100" channel="Neox">
+    <title lang="es">Neox games</title>
+    <desc lang="es">Espacio que incluye toda la actualidad sobre videojuegos, trucos, imágenes, gamers, fechas de lanzamiento y las últimas novedades en el sector. El programa cuenta con colaboraciones como las de Sergio ''Catacroquer'' y Kiko Béjar (''Europlay'')(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M892891V1621282" />
   </programme>
-  <programme start="20190119132500 +0100" stop="20190119153000 +0100" channel="Neox">
+  <programme start="20190120123500 +0100" stop="20190120133000 +0100" channel="Neox">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">Los mejores luchadores del mundo compiten por el título mundial. Héctor del Mar, Fernando Campillo y Alfredo Duro retransmiten en Neox las peleas de los mejores atletas a nivel internacional en esta disciplina(n)</desc>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320784V1621281" />
+  </programme>
+  <programme start="20190120133000 +0100" stop="20190120135500 +0100" channel="Neox">
     <title lang="es">Los Simpson</title>
-    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos(n)</desc>
+    <sub-title lang="es">Hija ahumada</sub-title>
+    <desc lang="es">Lisa convence a Marge para que se presente al cástin de la academia de ballet Chazz Busby, el sueño de su infancia. Sin embargo, la directora de la academia descubre el talento natural de Lisa y acaba siendo la hija, y no la madre, la que ingresa en la escuela. Durante un descanso, Lisa inhala el humo de los cigarrillos de sus compañeras y llega a la conclusión de que es el tabaco lo que provoca su mejora en el baile. La pequeña se convierte en una fumadora pasiva compulsiva, sin intención de abandonar la adicción.Por su parte, Homer habilita una habitación secreta en la que fabrica su propia cecina, hasta que una familia de mapaches se la roba(n)</desc>
     <date>2008</date>
     <category lang="es">Series</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M901127V806624" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M652605V806923" />
+    <episode-num system="onscreen">S19 E15</episode-num>
   </programme>
-  <programme start="20190119153000 +0100" stop="20190119175000 +0100" channel="Neox">
-    <title lang="es">La isla de las cabezas cortadas</title>
-    <desc lang="es">La pirata Morgan Adams, junto a su tripulación y su esclavo William, emprende la cruzada de recuperar las tres porciones del mapa que indica el lugar donde se oculta un tesoro. El director Renny Harlin (''Deep Blue Sea'', ''Máximo riesgo'') quiso recuperar, con este filme, las clásicas películas de piratas de la década de 1930, pero adaptándolas al gusto del espectador de los 90. El filme, con un ostentoso diseño de producción y un astronómico presupuesto, se convirtió en uno de los fracasos económicos más espectaculares del cine de la época y, a pesar de que en España no terminó de funcionar mal, hundió a la productora de la cinta, Carolco Pictures. Al final, todo pareció un caro y caprichoso regalo de Harlin (quien ganó un Razzie al peor director gracias a este largometraje) a la que entonces era su esposa, Geena Davis, erigida en estrella de la función y acompañada por un Matthew Modine que aceptó el papel después de que este fuera rechazado por Michael Douglas y Keanu Reeves. Sin embargo, el género de aventuras piratas, en plena crisis, se recuperaría ocho años después, gracias a otra superproducción mucho más rentable: ''Piratas del Caribe: La maldición de la perla negra''(n)</desc>
+  <programme start="20190120135500 +0100" stop="20190120142000 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">La saga de Carl</sub-title>
+    <desc lang="es">Homer, Moe, Lenny y Carl ganan $200,000 en la Lotería de Springfield. Pero cuando Carl se fuga a Islandia, los chicos le siguen recuperar el dinero(n)</desc>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M886276V1129279" />
+    <episode-num system="onscreen">S24 E21</episode-num>
+  </programme>
+  <programme start="20190120142000 +0100" stop="20190120144500 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Eterno estupor de una mente simpson</sub-title>
+    <desc lang="es">Homer despierta en el jardín, cubierto de nieve, sin recordar nada de lo sucedido el día anterior y descubre que toda su familia ha desaparecido. Al visitar el bar de Moe, descubre que la noche anterior había bebido un Trago-Para-Olvidar, una bebida tan potente que borra los recuerdos de las últimas 24 horas. Tras investigar un poco y hablar con el jefe de policía a Wiggum, Homer empieza a temer que, en estado de embriaguez, podría haber hacho alguna cosa terrible a sus seres queridos(n)</desc>
+    <date>2008</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M663092V806917" />
+    <episode-num system="onscreen">S19 E9</episode-num>
+  </programme>
+  <programme start="20190120144500 +0100" stop="20190120151000 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Un Sundance cualquiera</sub-title>
+    <desc lang="es">Lisa realiza una película sobre su familia para un proyecto escolar. El superintendente Chalmers se entera del trabajo de la pequeña y convence a Skinner para presentar la cinta en el Festival de Cine de Sundance. Tras ver ''Capturando a los Simpson'', los organizadores del evento aceptan el filme.Cuando la familia lo descubre va a Park City, Utah, a ver el estreno; todos están muy ansiosos por enterarse de qué trata la película. Cuando empieza el largometraje, Lisa muestra a su familia en todo su esplendor, basándose principalmente en sus defectos. La película termina y recibe una gran ovación, pero Homer, Marge, Bart y Maggie se sienten molestos por cómo se ven en la película y no pueden creer lo que ha hecho Lisa. Ella trata de explicarles que los editores han debido cambiarla(n)</desc>
+    <date>2008</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M694864V806926" />
+    <episode-num system="onscreen">S19 E18</episode-num>
+  </programme>
+  <programme start="20190120151000 +0100" stop="20190120153500 +0100" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Apocalipsis Mu</sub-title>
+    <desc lang="es">Dirección a Shelbyville, Bart ve a Martin conduciendo una cosechadora. Atraído por el hecho de operar maquinaria pesada, Bart decide apuntarse al club 4H con Martin. El instructor del grupo les lleva al corral de los terneros para que elijan uno y lo críen durante el verano. Al final del estío el ganado será juzgado en la feria estatal. Con la ayuda de Mary, Bart empieza a cuidar de Lou, su ternero, y lo ayuda a hacerse más fuerte. Cuando llega el día de la competición, Lou se ha convertido en un toro y es premiado con el listón azul. Bart se emociona muchísimo, hasta que Lisa le informa que el siguiente paso es enviar a Lou a un matadero.Para salvar a Lou, Bart le regala el toro a Mary, la hija de Cletus. El padre del Mary interpreta el gesto como una propuesta formal de boda. Ahora, Bart debe elegir entre casarse y que su vaca siga viva o abandonarla y salvarse a sí mismo(n)</desc>
+    <date>2008</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M653852V806925" />
+    <episode-num system="onscreen">S19 E17</episode-num>
+  </programme>
+  <programme start="20190120153500 +0100" stop="20190120173000 +0100" channel="Neox">
+    <title lang="es">Marea negra</title>
+    <desc lang="es">Mike Williams y sus compañeros vuelven a su trabajo en la Deepwater Horizon, una plataforma petrolífera de prospección, situada a 66 kilómetros de la costa, cuya misión es encontrar petróleo submarino para que los equipos de producción lo extraigan. Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan O'Brien y Kate Hudson protagonizan "Marea negra", película que narra los hechos ocurridos en abril de 2010, cuando la plataforma petrolífera Deepwater Horizon explotó y se hundió, muriendo 11 trabajadores y vertiendo casi 5 millones de barriles de petróleo en las aguas del Golfo de México. Es, hasta la fecha, el mayor vertido accidental de petróleo, sólo superado por el llevado a cabo voluntariamente por el gobierno de Saddam Hussein durante la primera guerra del Golfo. Basada en el artículo del New York Times "Deepwater Horizon's Final Hours", de David Barstow, David Rohde y Stephanie Saul, la película es la segunda colaboración entre el actor Mark Wahlberg y el director Peter Berg tras "El único superviviente" (2013), filme que también estaba basado en hechos reales. Drama de acción y 'disaster movie' basada en hechos reales, "Marea negra" estuvo nominada a dos Oscar: mejor montaje de sonido y mejores efectos especiales(n)</desc>
     <credits>
-      <director>Renny Harlin</director>
-      <actor>Matthew Modine</actor>
-      <actor>Geena Davis</actor>
-      <actor>Stan Shaw</actor>
-      <actor>Patrick Malahide</actor>
-      <actor>Maury Chaykin</actor>
-      <actor>Frank Langella</actor>
+      <director>Peter Berg</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Kurt Russell</actor>
+      <actor>John Malkovich</actor>
+      <actor>Gina Rodriguez</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Kate Hudson</actor>
+      <actor>Ethan Suplee</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938195V1299521" />
+  </programme>
+  <programme start="20190120173000 +0100" stop="20190120194000 +0100" channel="Neox">
+    <title lang="es">Estallido</title>
+    <desc lang="es">El coronel médico Sam Daniels (Dustin Hoffman) es enviado por el general Billy Ford (Morgan Freeman), su jefe en el Instituto de Investigación Médica para Enfermedades Infecciosas del Ejército de los Estados Unidos, para investigar el brote de un virus en la selva africana. Allí Sam descubre una aldea que ha sido asolada por un espantoso virus con una tasa de mortalidad de prácticamente un cien por cien. Todos sus habitantes agonizaban, habían fallecido y eran apilados como troncos de leña. Sam llega a la conclusión de que el brote vírico corre el peligro de extenderse a los Estados Unidos, si no lo ha hecho ya, y avisa a sus superiores para alertar al país. Por todo ello, el ejército de los Estados Unidos, para mantener el virus en secreto y para que no se propagase, arrasa la aldea de Zaire, en la que un virus mortal semejante al ébola estaba acabando con la población. Sam Daniels también informa a su ex mujer, la doctora Robby (Rene Russo), que trabaja para el Centro de Control y Prevención de Enfermedades, sobre los resultados de su investigación. Pero sin ninguna explicación, Sam es retirado misteriosamente de la investigación y los superiores de Robby hacen caso omiso de las advertencias. Debido a estas circunstancias, Robby y Sam se esperan lo peor. Pero a medida que pasa el tiempo y como no se reciben informes de contagios, creen que el peligro ha pasado. Sin embargo, las noticias que llegan apuntan a que los habitantes de Cedar Creek, una pequeña ciudad de California, tienen síntomas similares a los de la gripe, y mueren a las pocas horas de haber contraído la "enfermedad", del mismo modo que las víctimas de África. El temor de Daniels se ha hecho realidad: el virus ha conseguido de algún modo llegar hasta Estados Unidos. A pesar de sus diferencias personales, Robby y Sam trabajarán juntos en una carrera contrarreloj por encontrar un suero antiviral, pero tropezarán con un fuerte obstáculo, el general McClintock (Donald Sutherland). El doctor Daniels debe encontrar un antídoto, tanto para salvar a sus pacientes de una muerte segura como para impedir la drástica intervención que tiene prevista el Gobierno antes de que se extienda a otras poblaciones de los Estados Unidos. Wolfgang Petersen ("La historia interminable", "Air Force One, el avión del presidente", "La tormenta perfecta", "Troya"), uno de los realizadores más taquilleros de Hollywood, consiguió un reparto de lujo, para "Estallido", encabezado por Dustin Hoffman (dos veces ganador del Oscar al mejor actor por "Kramer contra Kramer" en 1979 y por "Rain Man" en 1988), que interpreta a Sam Daniels, un virólogo del ejército de los Estados Unidos que intenta desesperadamente evitar una catástrofe biológica a nivel mundial. Junto a Hoffman están Morgan Freeman (Oscar mejor actor de reparto por "Million Dollar Baby", y nominado en 3 ocasiones), Kevin Spacey (Oscar mejor actor por "American Beauty" y Oscar mejor actor de reparto por "Sospechosos habituales"), Cuba Gooding Jr. (Oscar mejor actor de reparto por "Jerry Maguire"), Renée Russo y Donald Sutherland, entre otros talentos cinematográficos(n)</desc>
+    <credits>
+      <director>Wolfgang Petersen</director>
+      <actor>Dustin Hoffman</actor>
+      <actor>Rene Russo</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Zakes Mokae</actor>
+      <actor>Patrick Dempsey</actor>
     </credits>
     <date>1995</date>
     <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938191V1606" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938197V1235" />
   </programme>
-  <programme start="20190119175000 +0100" stop="20190119194500 +0100" channel="Neox">
-    <title lang="es">Misión Imposible</title>
-    <desc lang="es">Ethan Hunt, un superespía de la CIA capaz de resolver cualquier arriesgada situación, forma parte de un equipo de élite dirigido por el agente Jim Phelps. Éste ha reunido a los miembros del equipo para llevar a cabo una nueva y difícil misión: atrapar a un agente doble que está sacando a la luz información secreta. Las cosas no salen como esperaban y todos los miembros del equipo, salvo Ethan, son eliminados, lo que lo convierte en un traidor a los ojos de la CIA. Dirigida por Brian de Palma, "Misión Imposible" adapta a la gran pantalla la mítica serie de televisión homónima de la década de 1960. Nueve años antes, De Palma ya había dirigido una película basada en otra serie televisiva: "Los intocables de Eliot Ness". La cinta se convertiría con el tiempo en la primera de la saga "Misión Imposible", una de las franquicias más longevas del cine, siempre con Tom Cruise al frente del reparto. También intervienen en esta cinta llena de intriga, suspense, tensión, acción y aventuras Jon Voight, Emmanuelle Béart, Henry Czerny, Jean Reno, Ving Rhames y Kristin Scott Thomas. "Misión Imposible" fue el primer proyecto de la productora de Cruise(n)</desc>
-    <credits>
-      <director>Brian de Palma</director>
-      <actor>Tom Cruise</actor>
-      <actor>Jon Voight</actor>
-      <actor>Emmanuelle Béart</actor>
-      <actor>Henry Czerny</actor>
-      <actor>Jean Reno</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Kristin Scott Thomas</actor>
-      <actor>Marcel Iures</actor>
-      <actor>Vanessa Redgrave</actor>
-      <actor>Dale Dye</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938193V28798" />
-  </programme>
-  <programme start="20190119194500 +0100" stop="20190119234500 +0100" channel="Neox">
+  <programme start="20190120194000 +0100" stop="20190120200400 +0100" channel="Neox">
     <title lang="es">Big Bang</title>
-    <desc lang="es">Undécima temporada de la serie sobre Leonard y Sheldon, dos físicos muy peculiares(n)</desc>
+    <sub-title lang="es">La disociación del inquilino</sub-title>
+    <desc lang="es">Leonard se enfrenta a Sheldon para ser presidente de la asociación de inquilinos. Wolowitz y Koothrappali se encuentran un dron en el patio trasero(n)</desc>
     <credits>
       <actor>Jim Parsons</actor>
       <actor>Johnny Galecki</actor>
@@ -671,32 +703,206 @@
     </credits>
     <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M587045V1446814" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M587045V1446863" />
+    <episode-num system="onscreen">S11 E19</episode-num>
   </programme>
-  <programme start="20190119234500 +0100" stop="20190120023000 +0100" channel="Neox">
-    <title lang="es">Mom</title>
-    <desc lang="es">Christy decide restablecer su vida en California tras dejar el alcohol y las drogas. Trabaja de camarera y asiste a reuniones de Alcohólicos Anónimos mientras trata de enmendar sus errores como madre soltera, cosa que no le será tan fácil. De la mano del conocido productor y cineasta Chuck Lorre, creador de comedias como "The Big Bang Theory", "Mike &amp; Molly" o "Dos hombres y medio", llega esta sitcom de la CBS que cuenta la historia de una madre soltera, exalcohólica e inestable que intenta poner orden a su caótica vida. Lorre retoma la trama con la que inició su carrera con las series "Grace Under Fire" y "Cybill". "Mom" cuenta con Anna Faris ("Scary Movie") como protagonista y la acompañan en el reparto actores como Nate Corddry ("La cruda realidad"), Blake Garrett Rosenthal ("La boda de mi mejor amiga") o Matt Jones ("Breaking Bad")(n)</desc>
+  <programme start="20190120200400 +0100" stop="20190120202800 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La reacción de la disculpa</sub-title>
+    <desc lang="es">Leonard carga contra la universidad y toda la comunidad científica tras tener una entrevista embarazosa en la radio. Mientras tanto, Penny tiene que lidiar con el enfado de su marido y dar uno de sus míticos discursos motivacionales a la pandilla(n)</desc>
     <credits>
-      <actor>Anna Faris</actor>
-      <actor>Allison Janney</actor>
-      <actor>Nate Corddry</actor>
-      <actor>Spencer Daniels</actor>
-      <actor>Matt Jones</actor>
-      <actor>Blake Garrett Rosenthal</actor>
-      <actor>Courtney Henggeler</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M587045V1446846" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+  </programme>
+  <programme start="20190120202800 +0100" stop="20190120205200 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La nomenclatura neonatal</sub-title>
+    <desc lang="es">Bernadette está de parto, y cada uno de los amigos intenta ayudar a su manera(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M587045V1446860" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+  </programme>
+  <programme start="20190120205200 +0100" stop="20190120211600 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La realineación fraternal</sub-title>
+    <desc lang="es">Sheldon y Leonard hacen un viaje por carretera en busca de un invitado de boda un tanto reacio(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M587045V1446867" />
+    <episode-num system="onscreen">S11 E23</episode-num>
+  </programme>
+  <programme start="20190120211600 +0100" stop="20190120214000 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La turbulencia de la permanencia</sub-title>
+    <desc lang="es">Los chicos empezarán a competir entre ellos cuando salga una vacante para profesor indefinido. Sexta temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322207V1086308" />
+    <episode-num system="onscreen">S6 E20</episode-num>
+  </programme>
+  <programme start="20190120214000 +0100" stop="20190120220400 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La resurgencia del protón</sub-title>
+    <desc lang="es">Cuando Sheldon y Leonard descubren que su científico de la televisión favorito está sin trabajo intentan contratarlo. Sexta temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322207V1086310" />
+    <episode-num system="onscreen">S6 E22</episode-num>
+  </programme>
+  <programme start="20190120220400 +0100" stop="20190120223000 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La disipación de los recuerdos</sub-title>
+    <desc lang="es">Sheldon colabora con Howard, Leonard y Amy en tres proyectos, lo que termina afectando a su salud. La baja maternal de Bernadette llega a su fin(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M634792V1376241" />
+    <episode-num system="onscreen">S10 E20</episode-num>
+  </programme>
+  <programme start="20190120223000 +0100" stop="20190120225500 +0100" channel="Neox">
+    <title lang="es">Los Conner</title>
+    <desc lang="es">Cuando Becky ayuda a Harris a mantener un secreto de Darlene, se abre el melón sobre el choque entre las dos hermanas. Mientras tanto, Jackie echa un cable a Peter con su proyecto de historia nórdica y Dan se reúne con una vieja amiga(n)</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Alicia Goranson</actor>
+      <actor>Michael Fishman</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M910888V1611355" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20190120225500 +0100" stop="20190120232000 +0100" channel="Neox">
+    <title lang="es">Los Conner</title>
+    <sub-title lang="es">Episode 9</sub-title>
+    <desc lang="es">Cuando Dan se lesiona en el trabajo de D.J., la opción de demandar a la compañía podría llevar a D.J. a ser despedido. Mientras tanto, Jackie se horroriza cuando Becky busca consejos vitales pidiendo ayuda a su némesis y rival número uno(n)</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Alicia Goranson</actor>
+      <actor>Michael Fishman</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M910888V1621280" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20190120232000 +0100" stop="20190120234200 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">Observando a mamá</sub-title>
+    <desc lang="es">Sheldon y Howard realizan un viaje a Texas para visitar a la madre de Sheldon. Séptima temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
     </credits>
     <date>2013</date>
     <category lang="es">Series</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320600V1123154" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320622V1138353" />
+    <episode-num system="onscreen">S7 E18</episode-num>
   </programme>
-  <programme start="20190119024500 +0100" stop="20190119070500 +0100" channel="La Sexta">
+  <programme start="20190120234200 +0100" stop="20190121000400 +0100" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">El potencial del conjuro de amor</sub-title>
+    <desc lang="es">Después de que el viaje de las chicas a Las Vegas se ha cancelado, todos juegan a Dragones y mazmorras juntos. Sexta temporada de "Big Bang", la comedia que sigue los avatares de Leonard, Sheldon, Raj y Howard, cuatro científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Suerte que Penny, Bernadette y Amy están ahí para sacarles de su zona de confort. "Big Bang" acumula once temporadas y ha sido galardonada con diez premios Emmy (incluyendo cinco para Jim Parsons como mejor actor de comedia) y un Globo de Oro a mejor actor de comedia para Jim Parsons (entre siete nominaciones, incluyendo mejor comedia). Una media de 14 millones de espectadores, toda una legión de fans y un inagotable merchandising avalan su éxito indiscutible. La crítica hace tiempo que la sitúa como la nueva 'Friends'. "Big Bang" está creada por Chuck Lorre, uno de los guionistas de 'sitcoms' más destacados del panorama actual, con títulos como "Dos hombres y medio", "Mom", "Mike &amp; Molly"). Suyo es también el spin-off de la serie, "El joven Sheldon"(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322207V1091360" />
+    <episode-num system="onscreen">S6 E23</episode-num>
+  </programme>
+  <programme start="20190120023000 +0100" stop="20190120075000 +0100" channel="La Sexta">
     <title lang="es">Minutos musicales</title>
     <desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
     <date>2018</date>
     <category lang="es">Música</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M336849V661411" />
   </programme>
-  <programme start="20190119070500 +0100" stop="20190119081500 +0100" channel="La Sexta">
+  <programme start="20190120075000 +0100" stop="20190120081500 +0100" channel="La Sexta">
+    <title lang="es">Historias con denominación de origen</title>
+    <desc lang="es">Programa de reportajes que retrata la cotidianidad de los ciudadanos españoles y su día a día. Gracias a un equipo de reporteros, se busca la mejor cara de España a través de su gente(n)</desc>
+    <credits>
+      <director>Liborio García</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M350873V1356165" />
+  </programme>
+  <programme start="20190120081500 +0100" stop="20190120090000 +0100" channel="La Sexta">
     <title lang="es">Bestial</title>
     <desc lang="es">Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito(n)</desc>
     <credits>
@@ -704,33 +910,37 @@
     </credits>
     <date>2011</date>
     <category lang="es">Ocio y Aficiones</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M350875V1331094" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M350875V1333512" />
   </programme>
-  <programme start="20190119081500 +0100" stop="20190119084000 +0100" channel="La Sexta">
-    <title lang="es">Bestial</title>
-    <desc lang="es">Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito(n)</desc>
-    <credits>
-      <director>Alejandro Moreu</director>
-    </credits>
-    <date>2011</date>
+  <programme start="20190120090000 +0100" stop="20190120100500 +0100" channel="La Sexta">
+    <title lang="es">¿Qué me pasa, doctor?</title>
+    <desc lang="es">El reconocido médico Bartolomé Beltrán presenta este espacio de información y educación sanitaria. Con un lenguaje riguroso y siempre con la ayuda de expertos especialistas, el espectador puede seguir toda la actualidad sobre diagnósticos, tratamientos y consejos(n)</desc>
+    <date>2018</date>
     <category lang="es">Ocio y Aficiones</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M350875V1333513" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M932667V959362" />
   </programme>
-  <programme start="20190119084000 +0100" stop="20190119102500 +0100" channel="La Sexta">
+  <programme start="20190120100500 +0100" stop="20190120114500 +0100" channel="La Sexta">
     <title lang="es">Zapeando</title>
     <desc lang="es">Espacio que analiza con humor el panorama televisivo a nivel nacional e internacional con las mejores noticias, videos y momentos más disparatados. Frank Blanco y su grupo de colaboradores establecen un ameno debate sobre la actualidad televisiva(n)</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M348916V1614655" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M348916V1615121" />
   </programme>
-  <programme start="20190119102500 +0100" stop="20190119140000 +0100" channel="La Sexta">
+  <programme start="20190120114500 +0100" stop="20190120130000 +0100" channel="La Sexta">
     <title lang="es">Equipo de investigación</title>
     <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
     <date>2018</date>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900705V1572419" />
   </programme>
-  <programme start="20190119140000 +0100" stop="20190119150000 +0100" channel="La Sexta">
+  <programme start="20190120130000 +0100" stop="20190120140000 +0100" channel="La Sexta">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M900705V1572419" />
+  </programme>
+  <programme start="20190120140000 +0100" stop="20190120150000 +0100" channel="La Sexta">
     <title lang="es">laSexta Noticias Fin de Semana</title>
     <desc lang="es">Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Cristina Villanueva que pretende ser social y cercano a la gente de la calle(n)</desc>
     <credits>
@@ -740,71 +950,46 @@
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327840V1105279" />
   </programme>
-  <programme start="20190119150000 +0100" stop="20190119151500 +0100" channel="La Sexta">
+  <programme start="20190120150000 +0100" stop="20190120151500 +0100" channel="La Sexta">
     <title lang="es">laSexta Deportes Fin de Semana</title>
     <desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327852V1105293" />
   </programme>
-  <programme start="20190119151500 +0100" stop="20190119154000 +0100" channel="La Sexta">
+  <programme start="20190120151500 +0100" stop="20190120152500 +0100" channel="La Sexta">
     <title lang="es">laSexta Meteo</title>
     <desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327844V985259" />
   </programme>
-  <programme start="20190119154000 +0100" stop="20190119173000 +0100" channel="La Sexta">
-    <title lang="es">Poseidón</title>
-    <desc lang="es">En el Poseidón, el mejor buque crucero de su clase, se celebra la fiesta de fin de año en medio del Atlántico. Esa noche, muchos de los pasajeros se han reunido en el salón de baile principal para brindar por la llegada del nuevo año. Pero mientras todos están dispuestos a empezar la fiesta, el primer oficial presiente que algo no va bien. En el horizonte, vislumbra una enorme ola de más de treinta metros de altura que se dirige hacia ellos a gran velocidad. A toda prisa, el oficial intenta desviar el barco sin éxito. La ola los ha alcanzado y ha golpeado el transatlántico con una fuerza colosal, lanzándolo por los aires antes de darle la vuelta por completo. Varios centenares de personas, entre los que se encuentra el jugador profesional Dylan Johns, han quedado atrapadas bajo el mar dentro de la sala de baile. Dylan, ignorando las órdenes del capitán de permanecer allí hasta que sean rescatados, inicia su propio camino hacia la salvación junto a otro grupo de supervivientes que está dispuesto a seguirlo. Nueva versión de "La aventura del Poseidón", película clave en el género de cine de catástrofes de la década de 1970, de la mano del director alemán Wolfgang Petersen, que ya ha demostrado su capacidad para rodar aventuras acuáticas con gran eficacia en "La tormenta perfecta" y "El submarino". Esta cinta catastrófica, que recuerda lo ocurrido en 1912 con el Titanic, está protagonizada por Josh Lucas y cuenta con un elenco de caras conocidas como el veterano Richard Dreyfuss o Kurt Russell. La película estuvo nominada a los Oscar a los mejores efectos especiales en la edición de 2007(n)</desc>
+  <programme start="20190120152500 +0100" stop="20190120181500 +0100" channel="La Sexta">
+    <title lang="es">El último samurái</title>
+    <desc lang="es">El capitán Nathan Algren es un hombre a la deriva. Una vez arriesgó su vida por la patria, pero en los años transcurridos desde la Guerra de Secesión, el mundo ha cambiado: ya no hay valor ni sacrificio, el honor ha pasado a segundo plano. En un mundo completamente distinto, otro soldado, Katsumoto, último gran líder de los venerados samuráis, ve cómo su modo de vida se desintegra. Del mismo modo que el estilo de vida moderno invadió el Oeste americano, también intenta acabar con el Japón tradicional, amenazando los valores por los que los samuráis han vivido y han muerto durante siglos. Los caminos de ambos guerreros convergen cuando el emperador de Japón contrata a Algren para crear su primer ejército moderno. Tom Cruise encabeza el reparto de esta historia épica ambientada en el Japón del siglo XIX, una ambiciosa superproducción de época que establece un original paralelismo entre la decadencia de Oriente y Occidente, equiparando el exterminio de los indios estadounidenses con los samuráis japoneses. Candidata a cuatro Oscar (mejor actor de reparto (Ken Watanabe), dirección artística, vestuario y montaje de sonido), la película cuenta también con las interpretaciones del actor japonés Ken Watanabe, Timothy Spall, Billy Connolly, Tony Goldwyn, Hiroyuki Sanada y Koyuki. Edward Zwick fue el encargado de dar vida al proyecto, bajo la influencia del cine del maestro Kurosawa. Escribió el guión en colaboración con John Logan y Marshall Herskovitz(n)</desc>
     <credits>
-      <director>Wolfgang Petersen</director>
-      <actor>Josh Lucas</actor>
-      <actor>Kurt Russell</actor>
-      <actor>Richard Dreyfuss</actor>
-      <actor>Jacinda Barrett</actor>
-      <actor>Emmy Rossum</actor>
-      <actor>Mía Maestro</actor>
-      <actor>Mike Vogel</actor>
-      <actor>Kevin Dillon</actor>
-      <actor>Freddy Rodríguez</actor>
+      <director>Edward Zwick</director>
+      <actor>Tom Cruise</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Hiroyuki Sanada</actor>
+      <actor>Masato Harada</actor>
+      <actor>Koyuki</actor>
+      <actor>Togo Igawa</actor>
     </credits>
-    <date>2006</date>
+    <date>2003</date>
     <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M911375V568247" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938269V424000" />
   </programme>
-  <programme start="20190119173000 +0100" stop="20190119190000 +0100" channel="La Sexta">
-    <title lang="es">Fin del mundo</title>
-    <desc lang="es">Cuando el sol se convierte temporalmente en una magnetoestrella, Mercurio se ve arrojado fuera de la órbita junto a una nave espacial que lo estaba explorando. A causa de esto, el planeta va camino de colisionar con la Tierra y un científico en horas bajas deberá usar su propio sistema de armas para salvar al planeta(n)</desc>
-    <credits>
-      <director>Paul Ziller</director>
-      <actor>Jessica Parker Kennedy</actor>
-      <actor>Chad Krowchuk</actor>
-      <actor>Diane Farr</actor>
-      <actor>Kirk Acevedo</actor>
-      <actor>Adam Greydon Reid</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M891833V1041279" />
+  <programme start="20190120181500 +0100" stop="20190120200000 +0100" channel="La Sexta">
+    <title lang="es">Liarla Pardo</title>
+    <desc lang="es">Cristina Pardo entrevista a Francisco Garzón, el maquinista del Alvia accidentado en Santiago de Compostela el 24 de julio de 2013, que explica cómo vivió el descarrilamiento y cómo se sintió en los meses posteriores(n)</desc>
+    <date>2019</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M885629V1620767" />
+    <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20190119190000 +0100" stop="20190119200000 +0100" channel="La Sexta">
-    <title lang="es">Aterrizaje forzoso</title>
-    <desc lang="es">Un avión lleno de jóvenes que celebra una fiesta de cumpleaños es secuestrado. Un mayor del ejército del aire hace frente a la banda de secuestradores y en el tiroteo un tanque de combustible es agujereado. Esto obligará a un aterrizaje forzoso en un atolón(n)</desc>
-    <credits>
-      <director>Jay Andrews</director>
-      <actor>Michael Paré</actor>
-      <actor>Antonio Sabato Jr</actor>
-      <actor>John Beck</actor>
-      <actor>John J Dalesandro</actor>
-      <actor>Gina La Piana</actor>
-      <actor>Sandra McCoy</actor>
-      <actor>Brandon Barash</actor>
-      <actor>Brianne Davis</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Cine</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M772579V560707" />
-  </programme>
-  <programme start="20190119200000 +0100" stop="20190119204500 +0100" channel="La Sexta">
+  <programme start="20190120200000 +0100" stop="20190120204500 +0100" channel="La Sexta">
     <title lang="es">laSexta Noticias Fin de Semana</title>
     <desc lang="es">Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Cristina Villanueva que pretende ser social y cercano a la gente de la calle(n)</desc>
     <credits>
@@ -814,26 +999,338 @@
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327840V1105279" />
   </programme>
-  <programme start="20190119204500 +0100" stop="20190119210000 +0100" channel="La Sexta">
+  <programme start="20190120204500 +0100" stop="20190120210000 +0100" channel="La Sexta">
     <title lang="es">laSexta Meteo</title>
     <desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327844V985259" />
   </programme>
-  <programme start="20190119210000 +0100" stop="20190119213000 +0100" channel="La Sexta">
+  <programme start="20190120210000 +0100" stop="20190120213000 +0100" channel="La Sexta">
     <title lang="es">laSexta Deportes Fin de Semana</title>
     <desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1(n)</desc>
     <category lang="es">Información</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M327852V1105293" />
   </programme>
-  <programme start="20190119213000 +0100" stop="20190120023000 +0100" channel="La Sexta">
-    <title lang="es">laSexta Noche</title>
-    <desc lang="es">El exministro José Bono y el diputado de Podemos Íñigo Errejón visitan este sábado el plató de ''laSexta Noche'' para contestar a las preguntas que han mandado los teleespectadores a los presentadores, Iñaki López y Andrea Ropero(n)</desc>
+  <programme start="20190120213000 +0100" stop="20190120223500 +0100" channel="La Sexta">
+    <title lang="es">El Objetivo de Ana Pastor</title>
+    <desc lang="es">El Gobierno de Pedro Sánchez ya ha presentado los Presupuestos Generales del Estado y todavía tiene dudas sobre quién apoyará las cuentas. La ministra de Hacienda visita el plató para responder a las preguntas de Ana Pastor(n)</desc>
     <credits>
-      <director>Sandra Fernández</director>
+      <director>Ana Pastor</director>
     </credits>
     <date>2019</date>
     <category lang="es">Información</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M891921V1617844" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899024V1621039" />
+    <episode-num system="onscreen">S7 E16</episode-num>
+  </programme>
+  <programme start="20190120223500 +0100" stop="20190121005500 +0100" channel="La Sexta">
+    <title lang="es">¿Dónde estabas entonces?</title>
+    <sub-title lang="es">Década de los 90</sub-title>
+    <desc lang="es">El espacio estrena temporada con una gala en directo. Pastor rememora la década de 1990 con invitados como los Javis, Jose Luis Rodríguez Zapatero, el exseleccionador Vicente del Bosque, la jugadora de baloncesto Amaya Valdemoro y la cantante Rozalén, entre otros(n)</desc>
+    <credits>
+      <director>Ana Pastor</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935365V1615097" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20190120060000 +0100" stop="20190120062000 +0100" channel="Nova">
+    <title lang="es">Crímenes imperfectos</title>
+    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos(n)</desc>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898926V932152" />
+  </programme>
+  <programme start="20190120062000 +0100" stop="20190120064000 +0100" channel="Nova">
+    <title lang="es">Crímenes imperfectos</title>
+    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos(n)</desc>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898926V932201" />
+  </programme>
+  <programme start="20190120064000 +0100" stop="20190120070000 +0100" channel="Nova">
+    <title lang="es">Crímenes imperfectos</title>
+    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos(n)</desc>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898926V932151" />
+  </programme>
+  <programme start="20190120070000 +0100" stop="20190120072000 +0100" channel="Nova">
+    <title lang="es">Crímenes imperfectos</title>
+    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos(n)</desc>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898926V932176" />
+  </programme>
+  <programme start="20190120072000 +0100" stop="20190120074500 +0100" channel="Nova">
+    <title lang="es">Crímenes imperfectos</title>
+    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos(n)</desc>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898926V932202" />
+  </programme>
+  <programme start="20190120074500 +0100" stop="20190120083000 +0100" channel="Nova">
+    <title lang="es">¿Qué me pasa doctor?</title>
+    <desc lang="es">Espacio diario de salud en el que el Doctor Beltrán da respuesta a las cuestiones que los espectadores le plantean a través del teléfono y la página web. Además, el programa utiliza un lenguaje simple y cercano pero riguroso que sirve de guía para el espectador(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898916V1621232" />
+    <episode-num system="onscreen">S2019 E1098</episode-num>
+  </programme>
+  <programme start="20190120083000 +0100" stop="20190120093500 +0100" channel="Nova">
+    <title lang="es">Joyas TV</title>
+    <desc lang="es">Programa que muestra la mejor selección en joyas. Miles de artículos que se pueden adquirir al mejor precio a través de televisión(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M676344V1439908" />
+  </programme>
+  <programme start="20190120093500 +0100" stop="20190120102500 +0100" channel="Nova">
+    <title lang="es">Galería del coleccionista</title>
+    <desc lang="es">Espacio comercial(n)</desc>
+    <date>2016</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329345V1254041" />
+  </programme>
+  <programme start="20190120102500 +0100" stop="20190120111200 +0100" channel="Nova">
+    <title lang="es">Minicasas de ensueño</title>
+    <desc lang="es">La pareja de expertos en minicasas, John Weisbarth y Zack Giffin, recorren Estados Unidos para mostrar las viviendas diminutas más sorprendentes del país(n)</desc>
+    <date>2016</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M933675V1291796" />
+  </programme>
+  <programme start="20190120111200 +0100" stop="20190120120000 +0100" channel="Nova">
+    <title lang="es">Minicasas de ensueño</title>
+    <desc lang="es">La pareja de expertos en minicasas, John Weisbarth y Zack Giffin, recorren Estados Unidos para mostrar las viviendas diminutas más sorprendentes del país(n)</desc>
+    <date>2016</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M933675V1291796" />
+  </programme>
+  <programme start="20190120120000 +0100" stop="20190120123500 +0100" channel="Nova">
+    <title lang="es">Bricomanía</title>
+    <desc lang="es">Espacio que ofrece a los espectadores los conocimientos básicos para hacer bricolaje, enseñando de forma sencilla y práctica cómo arreglar, reciclar, construir y crear determinados muebles y utensilios consiguiendo el acabado deseado(n)</desc>
+    <date>2017</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898928V1539643" />
+  </programme>
+  <programme start="20190120123500 +0100" stop="20190120131000 +0100" channel="Nova">
+    <title lang="es">Bricomanía</title>
+    <desc lang="es">Espacio que ofrece a los espectadores los conocimientos básicos para hacer bricolaje, enseñando de forma sencilla y práctica cómo arreglar, reciclar, construir y crear determinados muebles y utensilios consiguiendo el acabado deseado(n)</desc>
+    <date>2017</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898928V1611349" />
+  </programme>
+  <programme start="20190120131000 +0100" stop="20190120134500 +0100" channel="Nova">
+    <title lang="es">Bricomanía</title>
+    <desc lang="es">Espacio que ofrece a los espectadores los conocimientos básicos para hacer bricolaje, enseñando de forma sencilla y práctica cómo arreglar, reciclar, construir y crear determinados muebles y utensilios consiguiendo el acabado deseado(n)</desc>
+    <date>2017</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898928V1614783" />
+  </programme>
+  <programme start="20190120134500 +0100" stop="20190120142000 +0100" channel="Nova">
+    <title lang="es">Bricomanía</title>
+    <desc lang="es">Espacio que ofrece a los espectadores los conocimientos básicos para hacer bricolaje, enseñando de forma sencilla y práctica cómo arreglar, reciclar, construir y crear determinados muebles y utensilios consiguiendo el acabado deseado(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M898928V1621234" />
+  </programme>
+  <programme start="20190120142000 +0100" stop="20190120151000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Pero soy una buena chica</sub-title>
+    <desc lang="es">Jane está a punto de saltarse las normas con el fin de proteger a Tommy cuando Stuart, el novio de Lydia, amenaza con reclamar la custodia de TJ(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M834986V1115794" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20190120151000 +0100" stop="20190120160000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">El asesino con tacones</sub-title>
+    <desc lang="es">Cuando Maura se convierte en la principal sospechosa de un homicidio, Jane se ve obligada a debatirse entre cumplir con su deber y proteger a su amiga(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M835078V1112061" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20190120160000 +0100" stop="20190120165000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Bailar con el diablo</sub-title>
+    <desc lang="es">Maura ha de tomar partido cuando Jane y ella descubre un sorprendente secreto relacionado con Paddy y Hope, pero que les afecta a todos(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M835080V1112064" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20190120165000 +0100" stop="20190120174000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Alguien me vigila</sub-title>
+    <desc lang="es">Un video viral en el que aparece Jane echándole encima café hirviendo a un desconocido pone en peligro su reputación y su carrera(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M840174V1117901" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20190120174000 +0100" stop="20190120183000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Todas para una</sub-title>
+    <desc lang="es">Los agentes trabajan en el caso de un popular profesor de instituto fallecido en un atropello que no ha sido un accidente(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M840176V1117909" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20190120183000 +0100" stop="20190120192000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Frío como el hielo</sub-title>
+    <desc lang="es">Mientras Maura se acostumbra a vivir con una adolescente, los agentes investigan el asesinato de un joven jugador de hockey(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M834986V1117824" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20190120192000 +0100" stop="20190120201000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Nadie llora a los malvados</sub-title>
+    <desc lang="es">Jane se ve obligada a enfrentarse a su pasado cuando les piden a Maura y a ella que presenten el caso del asesino en serie Charles Hoyt en un simposio sobre el trabajo de la policía(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M840180V1121867" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  <programme start="20190120201000 +0100" stop="20190120210000 +0100" channel="Nova">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <sub-title lang="es">Construido para correr</sub-title>
+    <desc lang="es">Los agentes investigan un asesinato cometido durante una carrera de aficionados. Jane sospecha que el motivo del crimen puede ser un intento de encubrir una trama relacionada con el tráfico de drogas(n)</desc>
+    <credits>
+      <actor>Lorraine Bracco</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Angie Harmon</actor>
+      <actor>Lee Thompson Young</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M840182V1121868" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20190120210000 +0100" stop="20190120214600 +0100" channel="Nova">
+    <title lang="es">Forever</title>
+    <sub-title lang="es">Los lobos del Brooklyn profundo</sub-title>
+    <desc lang="es">Henry descubre quién realiza la llamadas anónimas(n)</desc>
+    <credits>
+      <director>Varios</director>
+      <actor>Judd Hirsch</actor>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Donnie Keshawarz</actor>
+      <actor>Joel David Moore</actor>
+      <actor>Alana De La Garza</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M683618V1188446" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20190120214600 +0100" stop="20190120223200 +0100" channel="Nova">
+    <title lang="es">Forever</title>
+    <sub-title lang="es">Hitler en la concha</sub-title>
+    <desc lang="es">Obras de arte robadas por los nazis en la Segunda Guerra Mundial son el punto central de la investigación de asesinato que están realizando Henry y Jo(n)</desc>
+    <credits>
+      <director>Varios</director>
+      <actor>Judd Hirsch</actor>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Donnie Keshawarz</actor>
+      <actor>Joel David Moore</actor>
+      <actor>Alana De La Garza</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M683618V1190005" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20190120223200 +0100" stop="20190120231800 +0100" channel="Nova">
+    <title lang="es">Forever</title>
+    <sub-title lang="es">Los cadáveres cuentan grandes historias</sub-title>
+    <desc lang="es">Jo encuentra el amor con un emprendedor(n)</desc>
+    <credits>
+      <director>Varios</director>
+      <actor>Judd Hirsch</actor>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Donnie Keshawarz</actor>
+      <actor>Joel David Moore</actor>
+      <actor>Alana De La Garza</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M683618V1195203" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20190120231800 +0100" stop="20190121000400 +0100" channel="Nova">
+    <title lang="es">Forever</title>
+    <sub-title lang="es">El rey de Columbus Circle</sub-title>
+    <desc lang="es">El cadáver de un hombre mayor al final resulta ser de un hombre de linaje real y con una extraña conexión con Henry(n)</desc>
+    <credits>
+      <director>Varios</director>
+      <actor>Judd Hirsch</actor>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Donnie Keshawarz</actor>
+      <actor>Joel David Moore</actor>
+      <actor>Alana De La Garza</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M683618V1190006" />
+    <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
 </tv>
