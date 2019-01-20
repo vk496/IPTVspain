@@ -8,8 +8,8 @@
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>0</timespan>
+  <retry time-out="5">10</retry>
+  <timespan>7</timespan>
   <update>f</update>
  
   <!--
