@@ -24,6 +24,10 @@
     <display-name lang="es">nova</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="Mega">
+    <display-name lang="es">mega</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
   <programme start="20190122060000 +0100" stop="20190122063000 +0100" channel="LA 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España(n)</desc>
@@ -9341,5 +9345,1631 @@
     <date>2018</date>
     <category lang="es">Cine</category>
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M337228V710030" />
+  </programme>
+  <programme start="20190122052100 +0100" stop="20190122064000 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190122064000 +0100" stop="20190122093000 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190122093000 +0100" stop="20190122101700 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190122101700 +0100" stop="20190122110500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190122110500 +0100" stop="20190122112700 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190122112700 +0100" stop="20190122115000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190122115000 +0100" stop="20190122121300 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190122121300 +0100" stop="20190122123600 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190122123600 +0100" stop="20190122130000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190122130000 +0100" stop="20190122135700 +0100" channel="Mega">
+    <title lang="es">Desafío bajo cero</title>
+    <desc lang="es">En los territorios del Ártico, donde la temperatura llega hasta los 50 grados bajo cero en invierno, existen minas de oro y diamantes activas que necesitan abastecimiento durante todo el año(n)</desc>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEGAT679529" />
+  </programme>
+  <programme start="20190122135700 +0100" stop="20190122145500 +0100" channel="Mega">
+    <title lang="es">Desafío bajo cero</title>
+    <desc lang="es">En los territorios del Ártico, donde la temperatura llega hasta los 50 grados bajo cero en invierno, existen minas de oro y diamantes activas que necesitan abastecimiento durante todo el año(n)</desc>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEGAT679529" />
+  </programme>
+  <programme start="20190122145500 +0100" stop="20190122154700 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M882034V1570662" />
+  </programme>
+  <programme start="20190122154700 +0100" stop="20190122164000 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M882034V1570662" />
+  </programme>
+  <programme start="20190122164000 +0100" stop="20190122172700 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190122172700 +0100" stop="20190122181500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190122181500 +0100" stop="20190122184200 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190122184200 +0100" stop="20190122191000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190122191000 +0100" stop="20190122193500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190122193500 +0100" stop="20190122200000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190122200000 +0100" stop="20190122202500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190122202500 +0100" stop="20190122211200 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190122211200 +0100" stop="20190122220000 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190122220000 +0100" stop="20190122230000 +0100" channel="Mega">
+    <title lang="es">Crímenes que cambiaron la Historia</title>
+    <desc lang="es">Esta serie documental rememora sucesos españoles que causaron un gran impacto en la sociedad del momento. A través de las líneas de investigación y su evolución, el espacio cuenta cómo afectaron esos delitos o crímenes al avance de la sociedad(n)</desc>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937373V1616484" />
+  </programme>
+  <programme start="20190122230000 +0100" stop="20190123000000 +0100" channel="Mega">
+    <title lang="es">Crímenes que cambiaron la Historia</title>
+    <desc lang="es">Esta serie documental rememora sucesos españoles que causaron un gran impacto en la sociedad del momento. A través de las líneas de investigación y su evolución, el espacio cuenta cómo afectaron esos delitos o crímenes al avance de la sociedad(n)</desc>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M937373V1616484" />
+  </programme>
+  <programme start="20190123000000 +0100" stop="20190123024500 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190123024500 +0100" stop="20190123033500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190123033500 +0100" stop="20190123042500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190123042500 +0100" stop="20190123051500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190123051500 +0100" stop="20190123060500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190123060500 +0100" stop="20190123065500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190123065500 +0100" stop="20190123095000 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190123095000 +0100" stop="20190123103500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190123103500 +0100" stop="20190123112000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190123112000 +0100" stop="20190123114000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190123114000 +0100" stop="20190123120000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190123120000 +0100" stop="20190123122500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190123122500 +0100" stop="20190123125000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190123125000 +0100" stop="20190123131500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190123131500 +0100" stop="20190123141500 +0100" channel="Mega">
+    <title lang="es">Desafío bajo cero</title>
+    <desc lang="es">En los territorios del Ártico, donde la temperatura llega hasta los 50 grados bajo cero en invierno, existen minas de oro y diamantes activas que necesitan abastecimiento durante todo el año(n)</desc>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEGAT679529" />
+  </programme>
+  <programme start="20190123141500 +0100" stop="20190123151500 +0100" channel="Mega">
+    <title lang="es">Desafío bajo cero</title>
+    <desc lang="es">En los territorios del Ártico, donde la temperatura llega hasta los 50 grados bajo cero en invierno, existen minas de oro y diamantes activas que necesitan abastecimiento durante todo el año(n)</desc>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEGAT679529" />
+  </programme>
+  <programme start="20190123151500 +0100" stop="20190123160200 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M882034V1570662" />
+  </programme>
+  <programme start="20190123160200 +0100" stop="20190123165000 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M882034V1570662" />
+  </programme>
+  <programme start="20190123165000 +0100" stop="20190123174500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190123174500 +0100" stop="20190123184000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190123184000 +0100" stop="20190123190500 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190123190500 +0100" stop="20190123193000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190123193000 +0100" stop="20190123195300 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190123195300 +0100" stop="20190123201600 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190123201600 +0100" stop="20190123204000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190123204000 +0100" stop="20190123213200 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190123213200 +0100" stop="20190123222500 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190123222500 +0100" stop="20190124000000 +0100" channel="Mega">
+    <title lang="es">Black Dog</title>
+    <desc lang="es">Kevin Hooks ("Pasajero 57") dirigió este intenso thriller criminal sobre un hombre que se ve obligado a hacer algo ilegal muy a su pesar. Jack Crews (Patrick Swayze, nominado al Globo de Oro al Mejor Actor por "Dirty Dancing", "Ghost" y "A Wong Foo, ¡gracias por todo, Julie Newmar!") fue condenado a dos años de cárcel por matar a alguien en un accidente de coche. Ahora, para poder hacer frente a las deudas, Jack aceptará trasladar un camión al otro lado del país. En el reparto también figuran el cantante Meat Loaf y Randy Travis. Hay que destacar las impactantes escenas de la persecución a Jack a lo largo del viaje por carretera, en el que no hay posibilidad de volverse atrás(n)</desc>
+    <credits>
+      <director>Kevin Hooks</director>
+      <actor>Patrick Swayze</actor>
+      <actor>Randy Travis</actor>
+      <actor>Brenda Strong</actor>
+      <actor>Meat Loaf</actor>
+      <actor>Brian Vincent</actor>
+      <actor>Graham Beckel</actor>
+      <actor>Gabriel Casseus</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M938638V345778" />
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124024500 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190124024500 +0100" stop="20190124033500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190124033500 +0100" stop="20190124042500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190124042500 +0100" stop="20190124051500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190124051500 +0100" stop="20190124065500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190124065500 +0100" stop="20190124094500 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190124094500 +0100" stop="20190124111500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190124111500 +0100" stop="20190124120000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190124120000 +0100" stop="20190124132000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190124132000 +0100" stop="20190124150500 +0100" channel="Mega">
+    <title lang="es">Desafío bajo cero</title>
+    <desc lang="es">En los territorios del Ártico, donde la temperatura llega hasta los 50 grados bajo cero en invierno, existen minas de oro y diamantes activas que necesitan abastecimiento durante todo el año(n)</desc>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEGAT679529" />
+  </programme>
+  <programme start="20190124150500 +0100" stop="20190124165000 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M882034V1570662" />
+  </programme>
+  <programme start="20190124165000 +0100" stop="20190124183000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190124183000 +0100" stop="20190124192000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190124192000 +0100" stop="20190124203500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie muestra a un variado elenco de personajes que participa en estas subastas(n)</desc>
+    <date>2011</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329289V1042438" />
+  </programme>
+  <programme start="20190124203500 +0100" stop="20190125000000 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190125000000 +0100" stop="20190125024500 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190125024500 +0100" stop="20190125065800 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1174498" />
+  </programme>
+  <programme start="20190125065800 +0100" stop="20190125094500 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190125094500 +0100" stop="20190125104000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190125104000 +0100" stop="20190125112500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190125112500 +0100" stop="20190125114500 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190125114500 +0100" stop="20190125120400 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190125120400 +0100" stop="20190125123000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190125123000 +0100" stop="20190125125700 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190125125700 +0100" stop="20190125131700 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190125131700 +0100" stop="20190125141500 +0100" channel="Mega">
+    <title lang="es">Cazadores del pantano</title>
+    <desc lang="es">Serie documental sobre un pequeño núcleo de valientes que viven en un recóndito rincón del sur de Louisiana y que, durante un mes al año, se juegan la vida cada día. Su pasión es su oficio: cazar cocodrilos. Durante apenas treinta días y fieles a los preceptos de sus antepasados, estos hombres del pantano deben afrontar la llamada temporada del cocodrilo. En ese mes tendrán que obtener la mayor parte de sus ingresos con una arriesgada misión: la captura del monstruo de los pantanos, un enorme caimán que lleva años sembrando el pánico a los nadadores de esas aguas y que debe ser detenido a toda costa(n)</desc>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M814780V1021130" />
+  </programme>
+  <programme start="20190125141500 +0100" stop="20190125150700 +0100" channel="Mega">
+    <title lang="es">Cazadores del pantano</title>
+    <desc lang="es">Serie documental sobre un pequeño núcleo de valientes que viven en un recóndito rincón del sur de Louisiana y que, durante un mes al año, se juegan la vida cada día. Su pasión es su oficio: cazar cocodrilos. Durante apenas treinta días y fieles a los preceptos de sus antepasados, estos hombres del pantano deben afrontar la llamada temporada del cocodrilo. En ese mes tendrán que obtener la mayor parte de sus ingresos con una arriesgada misión: la captura del monstruo de los pantanos, un enorme caimán que lleva años sembrando el pánico a los nadadores de esas aguas y que debe ser detenido a toda costa(n)</desc>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M814780V1021130" />
+  </programme>
+  <programme start="20190125150700 +0100" stop="20190125160100 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M876643V1531002" />
+  </programme>
+  <programme start="20190125160100 +0100" stop="20190125164600 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M876643V1531002" />
+  </programme>
+  <programme start="20190125164600 +0100" stop="20190125174000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190125174000 +0100" stop="20190125182800 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190125182800 +0100" stop="20190125184800 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190125184800 +0100" stop="20190125191300 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190125191300 +0100" stop="20190125194000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190125194000 +0100" stop="20190125200600 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190125200600 +0100" stop="20190125202600 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190125202600 +0100" stop="20190125205000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190125205000 +0100" stop="20190125213800 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190125213800 +0100" stop="20190125222300 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190125222300 +0100" stop="20190126011000 +0100" channel="Mega">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película(n)</desc>
+    <date>2018</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M832120V710030" />
+  </programme>
+  <programme start="20190126011000 +0100" stop="20190126025900 +0100" channel="Mega">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película(n)</desc>
+    <date>2018</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M832120V710030" />
+  </programme>
+  <programme start="20190126025900 +0100" stop="20190126050900 +0100" channel="Mega">
+    <title lang="es">Crímenes imperfectos</title>
+    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos(n)</desc>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329283V761339" />
+  </programme>
+  <programme start="20190126050900 +0100" stop="20190126055800 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190126055800 +0100" stop="20190126064500 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190126064500 +0100" stop="20190126073200 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190126073200 +0100" stop="20190126075800 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190126075800 +0100" stop="20190126084900 +0100" channel="Mega">
+    <title lang="es">Grandes descubrimientos</title>
+    <desc lang="es">Sorprendentes hallazgos arqueológicos y antiguos manuscritos han permitido a los historiadores llegar a nuevas conclusiones sobre la tecnología que usaron los pueblos antiguos para trasladarse de un lugar a otro. Es un hecho bien conocido que los barcos se habían convertido en sofisticadas naves durante el mundo clásico, pero ¿cómo viajaban los pueblos de la antigüedad por tierra o cómo transportaban los materiales de construcción y las mercancías? Parece ser que los antiguos desarrollaron complejos sistemas para resolver estos problemas que incluían medios de transporte como coches impulsados por combustible o, incluso, el transporte aéreo(n)</desc>
+    <credits>
+      <director>Ana Montserrat Rosell</director>
+    </credits>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M821513V713522" />
+  </programme>
+  <programme start="20190126084900 +0100" stop="20190126091700 +0100" channel="Mega">
+    <title lang="es">Atresmúsica</title>
+    <desc lang="es">Rocío Santos es la cara de este programa que se mueve al ritmo de la información musical. Además, este espacio repasa la agenda de los mejores espectáculos en directo, de las giras más destacadas y de los últimos lanzamientos(n)</desc>
+    <date>2017</date>
+    <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M334201V1253722" />
+  </programme>
+  <programme start="20190126091700 +0100" stop="20190126093800 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190126093800 +0100" stop="20190126095800 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190126095800 +0100" stop="20190126102400 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190126102400 +0100" stop="20190126104200 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190126104200 +0100" stop="20190126111100 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190126111100 +0100" stop="20190126113900 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190126113900 +0100" stop="20190126120700 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190126120700 +0100" stop="20190126123300 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190126123300 +0100" stop="20190126130100 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190126130100 +0100" stop="20190126132700 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190126132700 +0100" stop="20190126135500 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190126135500 +0100" stop="20190126142200 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190126142200 +0100" stop="20190126144400 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190126144400 +0100" stop="20190126151100 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190126151100 +0100" stop="20190126155400 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190126155400 +0100" stop="20190126161400 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190126161400 +0100" stop="20190126170200 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190126170200 +0100" stop="20190126175600 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190126175600 +0100" stop="20190126185100 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190126185100 +0100" stop="20190126201100 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190126201100 +0100" stop="20190126211900 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190126211900 +0100" stop="20190126224000 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190126224000 +0100" stop="20190127000000 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190127000000 +0100" stop="20190127010600 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190127010600 +0100" stop="20190127020300 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190127020300 +0100" stop="20190127030200 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190127030200 +0100" stop="20190127045100 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190127045100 +0100" stop="20190127045200 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190127045200 +0100" stop="20190127054500 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190127054500 +0100" stop="20190127063300 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190127063300 +0100" stop="20190127074200 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190127074200 +0100" stop="20190127082900 +0100" channel="Mega">
+    <title lang="es">Grandes descubrimientos</title>
+    <desc lang="es">Sorprendentes hallazgos arqueológicos y antiguos manuscritos han permitido a los historiadores llegar a nuevas conclusiones sobre la tecnología que usaron los pueblos antiguos para trasladarse de un lugar a otro. Es un hecho bien conocido que los barcos se habían convertido en sofisticadas naves durante el mundo clásico, pero ¿cómo viajaban los pueblos de la antigüedad por tierra o cómo transportaban los materiales de construcción y las mercancías? Parece ser que los antiguos desarrollaron complejos sistemas para resolver estos problemas que incluían medios de transporte como coches impulsados por combustible o, incluso, el transporte aéreo(n)</desc>
+    <credits>
+      <director>Ana Montserrat Rosell</director>
+    </credits>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M821513V713522" />
+  </programme>
+  <programme start="20190127082900 +0100" stop="20190127084300 +0100" channel="Mega">
+    <title lang="es">Crea lectura</title>
+    <desc lang="es">Espacio quincenal dedicado a la literatura y los libros. Atresmedia inicia un proyecto para defender y reconocer el valor de la Propiedad Intelectual y apoyar a los creadores y sus obras. Diferentes autores y periodistas pasan por el programa en cada entrega(n)</desc>
+    <date>2018</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M930702V1572681" />
+  </programme>
+  <programme start="20190127084300 +0100" stop="20190127091400 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190127091400 +0100" stop="20190127093300 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190127093300 +0100" stop="20190127095100 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190127095100 +0100" stop="20190127105900 +0100" channel="Mega">
+    <title lang="es">Frontón</title>
+    <desc lang="es">Espacio deportivo que emite distintos partidos de pelota vasca, juego que consistente en impulsar una pelota contra una pared frontal por medio de la mano, desnuda o con la ayuda de un instrumento(palo o cesta)(n)</desc>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329333V268955" />
+  </programme>
+  <programme start="20190127105900 +0100" stop="20190127112500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190127112500 +0100" stop="20190127115100 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190127115100 +0100" stop="20190127121800 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190127121800 +0100" stop="20190127124300 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190127124300 +0100" stop="20190127130200 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190127130200 +0100" stop="20190127132700 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190127132700 +0100" stop="20190127135100 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190127135100 +0100" stop="20190127141700 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190127141700 +0100" stop="20190127144300 +0100" channel="Mega">
+    <title lang="es">Locos por los coches</title>
+    <desc lang="es">Danny "El Conde" Koker es un fanático de los automóviles clásicos. No solo posee un negocio de restauración de coches y motocicletas antiguos en Las Vegas, sino que además aprovecha cualquier oportunidad para recoger grandes vehículos americanos allá donde los descubra. No importa el lugar en el que se encuentre: si a Danny le gusta tu coche, ¡te va a hacer una oferta! Su pasión es localizar, arreglar y hacerles un lavado de cara a coches de época americanos, todos con una historia propia. Estos automóviles lo son todo para él, y no espera otra cosa que lo mejor de su variopinto equipo de mecánicos, quienes están continuamente trabajando en la restauración de sus hallazgos. Para mantener el negocio a flote, Danny debe escoger los vehículos adecuados y venderlos al precio. adecuado(n)</desc>
+    <credits>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M801362V1085276" />
+  </programme>
+  <programme start="20190127144300 +0100" stop="20190127150400 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190127150400 +0100" stop="20190127153800 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190127153800 +0100" stop="20190127161300 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190127161300 +0100" stop="20190127163400 +0100" channel="Mega">
+    <title lang="es">Ciencia para aficionados</title>
+    <desc lang="es">Los vídeos de los accidentes más famosos de la red desde una perspectiva científica(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M750276V1455699" />
+  </programme>
+  <programme start="20190127163400 +0100" stop="20190127172200 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190127172200 +0100" stop="20190127180900 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190127180900 +0100" stop="20190127190300 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190127190300 +0100" stop="20190127201400 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190127201400 +0100" stop="20190127213100 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190127213100 +0100" stop="20190127224400 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190127224400 +0100" stop="20190128000200 +0100" channel="Mega">
+    <title lang="es">Pesadilla en la cocina</title>
+    <desc lang="es">Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en tan sólo un par de semanas y sacarlo adelante económicamente(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M797769V1523497" />
+  </programme>
+  <programme start="20190128000200 +0100" stop="20190128024700 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190128024700 +0100" stop="20190128033500 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190128033500 +0100" stop="20190128043500 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190128043500 +0100" stop="20190128052500 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M347085V1442252" />
+  </programme>
+  <programme start="20190128052500 +0100" stop="20190128065000 +0100" channel="Mega">
+    <title lang="es">Vidas anónimas</title>
+    <desc lang="es">Serie documental en la que los protagonistas son personas anónimas que permiten compartir desde dentro su día a día. Se trata de un formato lleno de historias de carne y hueso, de vidas reales, con gente que emociona, que hace reír y que hace llorar(n)</desc>
+    <credits>
+      <director>Ana Muñoz</director>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M767531V761389" />
+  </programme>
+  <programme start="20190128065000 +0100" stop="20190128094500 +0100" channel="Mega">
+    <title lang="es">El chiringuito de jugones</title>
+    <desc lang="es">Josep Pedrerol y sus colaboradores analizan la actualidad deportiva, especialmente la futbolística. Las polémicas más sonadas y las imágenes más importantes de cada jornada son llevadas a examen en este ameno programa deportivo que incluye secciones como ''El Tridente''(n)</desc>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M865025V1562125" />
+  </programme>
+  <programme start="20190128094500 +0100" stop="20190128103000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190128103000 +0100" stop="20190128111000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190128111000 +0100" stop="20190128113800 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190128113800 +0100" stop="20190128120000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190128120000 +0100" stop="20190128122800 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190128122800 +0100" stop="20190128125100 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190128125100 +0100" stop="20190128131000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190128131000 +0100" stop="20190128140000 +0100" channel="Mega">
+    <title lang="es">Cazadores del pantano</title>
+    <desc lang="es">Serie documental sobre un pequeño núcleo de valientes que viven en un recóndito rincón del sur de Louisiana y que, durante un mes al año, se juegan la vida cada día. Su pasión es su oficio: cazar cocodrilos. Durante apenas treinta días y fieles a los preceptos de sus antepasados, estos hombres del pantano deben afrontar la llamada temporada del cocodrilo. En ese mes tendrán que obtener la mayor parte de sus ingresos con una arriesgada misión: la captura del monstruo de los pantanos, un enorme caimán que lleva años sembrando el pánico a los nadadores de esas aguas y que debe ser detenido a toda costa(n)</desc>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M814780V1021130" />
+  </programme>
+  <programme start="20190128140000 +0100" stop="20190128145500 +0100" channel="Mega">
+    <title lang="es">Cazadores del pantano</title>
+    <desc lang="es">Serie documental sobre un pequeño núcleo de valientes que viven en un recóndito rincón del sur de Louisiana y que, durante un mes al año, se juegan la vida cada día. Su pasión es su oficio: cazar cocodrilos. Durante apenas treinta días y fieles a los preceptos de sus antepasados, estos hombres del pantano deben afrontar la llamada temporada del cocodrilo. En ese mes tendrán que obtener la mayor parte de sus ingresos con una arriesgada misión: la captura del monstruo de los pantanos, un enorme caimán que lleva años sembrando el pánico a los nadadores de esas aguas y que debe ser detenido a toda costa(n)</desc>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M814780V1021130" />
+  </programme>
+  <programme start="20190128145500 +0100" stop="20190128154800 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M876643V1531002" />
+  </programme>
+  <programme start="20190128154800 +0100" stop="20190128163500 +0100" channel="Mega">
+    <title lang="es">Mountain Men</title>
+    <desc lang="es">En la soledad de algunos de los estados más salvajes de Norteamérica, todavía existen algunos hombres que desafían continuamente a la naturaleza(n)</desc>
+    <credits>
+      <director>David Arabia</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M876643V1531002" />
+  </programme>
+  <programme start="20190128163500 +0100" stop="20190128173500 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190128173500 +0100" stop="20190128183000 +0100" channel="Mega">
+    <title lang="es">Cazatesoros</title>
+    <desc lang="es">En las pequeñas ciudades y carreteras secundarias de EE UU hay tesoros que aún esperan a que alguien los descubra. Se trata de valiosas reliquias que quedaron escondidas bajo montones de desechos, enterradas en graneros o apiladas en garajes. Hace falta un grupo de expertos especializados para encontrar estos objetos perdidos y, con suerte, convertirlos en oro. En este programa seguimos los pasos de dos de los más experimentados cazatesoros: Mike Wolfe, propietario de la tienda Antique Archaeology, y su socio, Frank Fritz. Los acompañamos en su búsqueda de objetos con valor histórico, de colección o de iconos de la cultura pop, y de los que sus dueños se olvidaron hace tiempo. A lo largo del camino, conoceremos a gente cuyas experiencias nos abrirán una ventana a la historia y vida americanas(n)</desc>
+    <credits>
+      <director>Frank Fritz</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M329327V964265" />
+  </programme>
+  <programme start="20190128183000 +0100" stop="20190128184500 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190128184500 +0100" stop="20190128191000 +0100" channel="Mega">
+    <title lang="es">La casa de empeños</title>
+    <desc lang="es">Esta nueva y singular serie cuenta la historia y todo lo que rodea el negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(n)</desc>
+    <credits>
+      <director>Liz Niles</director>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M451382V886786" />
+  </programme>
+  <programme start="20190128191000 +0100" stop="20190128193500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190128193500 +0100" stop="20190128200000 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190128200000 +0100" stop="20190128202500 +0100" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M808850V1500193" />
+  </programme>
+  <programme start="20190128202500 +0100" stop="20190128212000 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190128212000 +0100" stop="20190128221500 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190128221500 +0100" stop="20190128230800 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
+  </programme>
+  <programme start="20190128230800 +0100" stop="20190129000000 +0100" channel="Mega">
+    <title lang="es">Forjado a fuego</title>
+    <desc lang="es">Los mejores espaderos de EE. UU. se dan cita en Forjado a Fuego, un desafío que no deja margen para el error. No buscamos crear armas mortales, buscamos al mejor herrero de armas de la historia. En cada programa proponemos un reto, forjar un arma histórica. Espada escocesa, chakram indio, gladio romano o kris moro son algunas de las armas que forjarán los herreros para conseguir ganar la competición(n)</desc>
+    <credits>
+      <director>Jodi Flynn</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700491V1411016" />
   </programme>
 </tv>

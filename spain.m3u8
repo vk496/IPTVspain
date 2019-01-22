@@ -11,3 +11,5 @@ https://pull2b-i.akamaized.net/geoneox/master.m3u8
 https://pull2c-i.akamaized.net/lasexta/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Nova
 https://pull2c-i.akamaized.net/geonova/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Mega
+https://pull2a-i.akamaized.net/geomega/master.m3u8
