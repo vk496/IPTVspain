@@ -22,7 +22,8 @@ git checkout $TRAVIS_BRANCH
 
 # ----------- STUFF -----------
 docker run --rm -it webgrabplus cat .wg++/guide.xml > guide.xml
-git add guide.xml
+./parse_channels.sh
+git add guide.xml spain.m3u8
 # ----------- STUFF -----------
 
 git commit -m "$(date +%d-%m-%Y)"
