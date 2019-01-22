@@ -7,8 +7,12 @@ env:
 services:
   - docker
 
-script:
- - docker build -t webgrabplus .
+stages:
+  - name: deploy
+    if: type = cron
 
-after_success:
- - bash .travis/deploy.sh
+jobs:
+  include:
+    - stage: compile
+      script: docker build -t webgrabplus .
+      after_success: bash .travis/deploy.sh
