@@ -28,5 +28,6 @@ o
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox|Neox|[m3u8](https://pull2b-i.akamaized.net/geoneox/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta|La Sexta|[m3u8](https://pull2c-i.akamaized.net/lasexta/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="128"/> |Nova|Nova|[m3u8](https://pull2c-i.akamaized.net/geonova/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega|MEGA|[m3u8](https://pull2a-i.akamaized.net/geomega/master.m3u8)|Nacional|
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
