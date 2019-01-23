@@ -28,4 +28,6 @@
   <channel update="i" site="plus.es" site_id="NOVA" xmltv_id="Nova">nova</channel>
   <channel update="i" site="plus.es" site_id="MEGA" xmltv_id="Mega">mega</channel>
   <channel update="i" site="plus.es" site_id="FDFIC" xmltv_id="Factoría de Ficción">FDF</channel>
+  <channel update="i" site="plus.es" site_id="PARCH" xmltv_id="Paramount Channel">PARAMOUNT CHANNEL</channel>
+  <channel update="i" site="plus.es" site_id="BOING" xmltv_id="Boing">Boing</channel>
 </settings>
