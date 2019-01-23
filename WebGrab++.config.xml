@@ -27,4 +27,5 @@
   <channel update="i" site="plus.es" site_id="SEXTA" xmltv_id="La Sexta">La Sexta</channel> 
   <channel update="i" site="plus.es" site_id="NOVA" xmltv_id="Nova">nova</channel>
   <channel update="i" site="plus.es" site_id="MEGA" xmltv_id="Mega">mega</channel>
+  <channel update="i" site="plus.es" site_id="FDFIC" xmltv_id="Factoría de Ficción">FDF</channel>
 </settings>
