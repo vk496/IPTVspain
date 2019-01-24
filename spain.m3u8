@@ -15,3 +15,9 @@ https://pull2c-i.akamaized.net/geonova/master.m3u8
 https://pull2a-i.akamaized.net/geomega/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/247px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",FDF
 https://pastebin.com/raw/WDb2J2pN
+#EXTINF:-1 group-title="Nacional" tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Paramount Channel
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Boing
+https://pastebin.com/raw/afgk7wAC
+#EXTINF:-1 group-title="Nacional" tvg-id="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Cuatro
+https://pastebin.com/raw/nUFDnkws
