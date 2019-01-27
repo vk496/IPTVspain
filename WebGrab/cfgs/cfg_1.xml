@@ -24,4 +24,6 @@
   <channel update="i" site="plus.es" site_id="ATRESS" xmltv_id="Atreseries">atreseries</channel>
   <channel update="i" site="plus.es" site_id="T5" xmltv_id="Telecinco">Telecinco</channel>
   <channel update="i" site="plus.es" site_id="DIVINI" xmltv_id="Divinity">Divinity</channel>
+  <channel update="i" site="plus.es" site_id="ENERGY" xmltv_id="Energy">Energy</channel>
+  <channel update="i" site="plus.es" site_id="BEMAD" xmltv_id="BE MAD">BeMad tv</channel>
 </settings>

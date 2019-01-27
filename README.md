@@ -36,6 +36,7 @@ o
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/247px-AtreseriesLogo.svg.png" width="128"/> |Atreseries|Atreseries|[m3u8](https://pull2a-i.akamaized.net/geoa3series/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" width="128"/> |Telecinco|Telecinco|[m3u8](https://pastebin.com/raw/455ygZ6Y)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/167px-Divinity.svg.png" width="128"/> |Divinity|Divinity|[m3u8](https://pastebin.com/raw/DdABja2w)|Nacional|
-
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" width="128"/> |Energy|Energy|[m3u8](https://pastebin.com/raw/AXvzQiid)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" width="128"/> |Be Mad|BE MAD|[m3u8](https://pastebin.com/raw/jf3NxqPs)|Nacional|
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
