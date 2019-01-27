@@ -7,14 +7,25 @@ env:
 services:
   - docker
 
+cache:
+  directories:
+    - $HOME/.xml/
+
+
 stages:
+  - name: init
+    if: type = cron
+  - name: collect
+    if: type = cron
   - name: deploy
     if: type = cron
 
 jobs:
   include:
+    - stage: init
+      script: mkdir -p $HOME/.xml/ && rm -rf $HOME/.xml/{*,.*}
+    - stage: collect
+      script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 0
+    - script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 1
     - stage: deploy
-      script: docker build -t webgrabplus WebGrab/
-    - script: docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus 0
-    - script: docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus 1
-    - script: bash .travis/deploy.sh
+      script: bash -x .travis/deploy.sh
