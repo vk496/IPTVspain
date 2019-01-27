@@ -26,4 +26,7 @@
   <channel update="i" site="plus.es" site_id="DIVINI" xmltv_id="Divinity">Divinity</channel>
   <channel update="i" site="plus.es" site_id="ENERGY" xmltv_id="Energy">Energy</channel>
   <channel update="i" site="plus.es" site_id="BEMAD" xmltv_id="BE MAD">BeMad tv</channel>
+  <channel update="i" site="plus.es" site_id="13TV" xmltv_id="13 TV">TRECE</channel>
+  <channel update="i" site="plus.es" site_id="REALM" xmltv_id="Real Madrid TV">Realmadrid TV</channel>
+  <channel update="i" site="plus.es" site_id="ANTV" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
 </settings>

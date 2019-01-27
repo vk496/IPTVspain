@@ -38,5 +38,8 @@ o
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/167px-Divinity.svg.png" width="128"/> |Divinity|Divinity|[m3u8](https://pastebin.com/raw/DdABja2w)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" width="128"/> |Energy|Energy|[m3u8](https://pastebin.com/raw/AXvzQiid)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" width="128"/> |Be Mad|BE MAD|[m3u8](https://pastebin.com/raw/jf3NxqPs)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" width="128"/> |Trece|13 TV|[m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" width="128"/> |Real Madrid TV|Real Madrid TV|[m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" width="128"/> |Canal Sur Andalucía|Canal Sur Andalucía|[m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8)|Andalucía|
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
