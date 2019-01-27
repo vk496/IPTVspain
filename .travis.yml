@@ -15,7 +15,9 @@ cache:
 stages:
   - name: init
     if: type = cron
-  - name: collect
+  - name: collect_0
+    if: type = cron
+  - name: collect_1
     if: type = cron
   - name: deploy
     if: type = cron
@@ -24,8 +26,9 @@ jobs:
   include:
     - stage: init
       script: mkdir -p $HOME/.xml/ && rm -rf $HOME/.xml/*
-    - stage: collect
+    - stage: collect_0
       script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 0
-    - script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 1
+    - stage: collect_1
+      script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 1
     - stage: deploy
       script: bash -x .travis/deploy.sh
