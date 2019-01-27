@@ -8,20 +8,13 @@ services:
   - docker
 
 stages:
-  - name: build
-    if: type = cron
-  - name: collect
-    if: type = cron
   - name: deploy
     if: type = cron
 
 jobs:
   include:
-    - stage: build
-      script: docker build -t webgrabplus WebGrab/
-    - stage: collect
-      script:
-       - docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus 0
-       - docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus 1
     - stage: deploy
-      script: bash .travis/deploy.sh
+      script: docker build -t webgrabplus WebGrab/
+    - script: docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus 0
+    - script: docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus 1
+    - script: bash .travis/deploy.sh
