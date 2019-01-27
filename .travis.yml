@@ -23,7 +23,7 @@ stages:
 jobs:
   include:
     - stage: init
-      script: mkdir -p $HOME/.xml/ && rm -rf $HOME/.xml/{*,.*}
+      script: mkdir -p $HOME/.xml/ && rm -rf $HOME/.xml/*
     - stage: collect
       script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 0
     - script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 1
