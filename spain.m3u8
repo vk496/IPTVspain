@@ -31,3 +31,9 @@ https://pastebin.com/raw/DdABja2w
 https://pastebin.com/raw/AXvzQiid
 #EXTINF:-1 group-title="Nacional" tvg-id="BE MAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Be Mad
 https://pastebin.com/raw/jf3NxqPs
+#EXTINF:-1 group-title="Nacional" tvg-id="13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Trece
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 group-title="Andalucía" tvg-id="Canal Sur Andalucía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Sur Andalucía
+http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
