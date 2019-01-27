@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">10</retry>
+  <timespan>7</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+  <channel update="i" site="plus.es" site_id="C4" xmltv_id="Cuatro">Cuatro</channel>
+  <channel update="i" site="plus.es" site_id="ATRESS" xmltv_id="Atreseries">atreseries</channel>
+  <channel update="i" site="plus.es" site_id="T5" xmltv_id="Telecinco">Telecinco</channel>
+  <channel update="i" site="plus.es" site_id="DIVINI" xmltv_id="Divinity">Divinity</channel>
+</settings>

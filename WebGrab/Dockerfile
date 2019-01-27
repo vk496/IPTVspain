@@ -1,6 +1,6 @@
 FROM frolvlad/alpine-mono:5.0-glibc
 WORKDIR /root
-RUN apk add --no-cache bash
+RUN apk add --no-cache bash xmlstarlet
 
 COPY WebGrabPlus_V2.1_install.tar.gz /root/
 
@@ -10,6 +10,6 @@ RUN set -ex; \
     cd .wg++; \
     ./install.sh;
 
-COPY WebGrab++.config.xml /root/.wg++/WebGrab++.config.xml
+COPY merge_xml.sh entry.sh /root/
 
-RUN .wg++/run.sh
+ENTRYPOINT ["./entry.sh"]

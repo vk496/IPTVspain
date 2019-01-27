@@ -21,8 +21,9 @@ set -x
 git checkout $TRAVIS_BRANCH
 
 # ----------- STUFF -----------
-docker run --rm -it webgrabplus cat .wg++/guide.xml > guide.xml
-./parse_channels.sh
+docker run -v guide_data:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm webgrabplus
+docker run -v guide_data:/xml --rm -it  webgrabplus cat /xml/guide.xml > guide.xml
+./WebGrab/parse_channels.sh
 git add guide.xml spain.m3u8
 # ----------- STUFF -----------
 

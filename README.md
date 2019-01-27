@@ -33,5 +33,9 @@ o
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" width="128"/> |Paramount Channel|Paramount Channel|[m3u8](http://paramount.live.flumotion.com/live/playlist.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" width="128"/> |Boing|Boing|[m3u8](https://pastebin.com/raw/afgk7wAC)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" width="128"/> |Cuatro|Cuatro|[m3u8](https://pastebin.com/raw/nUFDnkws)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/247px-AtreseriesLogo.svg.png" width="128"/> |Atreseries|Atreseries|[m3u8](https://pull2a-i.akamaized.net/geoa3series/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" width="128"/> |Telecinco|Telecinco|[m3u8](https://pastebin.com/raw/455ygZ6Y)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/167px-Divinity.svg.png" width="128"/> |Divinity|Divinity|[m3u8](https://pastebin.com/raw/DdABja2w)|Nacional|
+
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
