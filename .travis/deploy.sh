@@ -22,6 +22,7 @@ git checkout $TRAVIS_BRANCH
 
 # ----------- STUFF -----------
 docker run -v $HOME/.xml/:/xml --rm vk496/webgrabplus
+ls -l $HOME/.xml/
 docker run -v $HOME/.xml/:/xml --rm -it  vk496/webgrabplus cat /xml/guide.xml > guide.xml
 ./WebGrab/parse_channels.sh
 git add guide.xml spain.m3u8

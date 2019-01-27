@@ -5,7 +5,6 @@ num=$1
 
 if [ -z $num ]; then
   cd /xml
-  set +x
   /root/merge_xml.sh
 
 else
