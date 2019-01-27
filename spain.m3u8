@@ -21,3 +21,13 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 https://pastebin.com/raw/afgk7wAC
 #EXTINF:-1 group-title="Nacional" tvg-id="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Cuatro
 https://pastebin.com/raw/nUFDnkws
+#EXTINF:-1 group-title="Nacional" tvg-id="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/247px-AtreseriesLogo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Atreseries
+https://pull2a-i.akamaized.net/geoa3series/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Telecinco
+https://pastebin.com/raw/455ygZ6Y
+#EXTINF:-1 group-title="Nacional" tvg-id="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/167px-Divinity.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Divinity
+https://pastebin.com/raw/DdABja2w
+#EXTINF:-1 group-title="Nacional" tvg-id="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Energy
+https://pastebin.com/raw/AXvzQiid
+#EXTINF:-1 group-title="Nacional" tvg-id="BE MAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Be Mad
+https://pastebin.com/raw/jf3NxqPs
