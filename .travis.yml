@@ -19,6 +19,8 @@ stages:
     if: type = cron
   - name: collect_1
     if: type = cron
+  - name: collect_2
+    if: type = cron
   - name: deploy
     if: type = cron
 
@@ -30,5 +32,7 @@ jobs:
       script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 0
     - stage: collect_1
       script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 1
+    - stage: collect_2
+      script: docker run -v $HOME/.xml/:/xml -v $PWD/WebGrab/cfgs:/data:ro --rm vk496/webgrabplus 2
     - stage: deploy
       script: bash -x .travis/deploy.sh

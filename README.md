@@ -41,5 +41,9 @@ o
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" width="128"/> |Trece|13 TV|[m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" width="128"/> |Real Madrid TV|Real Madrid TV|[m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" width="128"/> |Canal Sur Andalucía|Canal Sur Andalucía|[m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8)|Andalucía|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" width="128"/> |Aragón TV|Aragón TV Int|[m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8)|Aragón|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" width="128"/> |TPA7|TPA|[m3u8](https://rtpa-live-hls.flumotion.com/playlist.m3u8)|Asturias|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" width="128"/> |IB3|IB3 RTV Illes Balears|[m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8)|Islas Baleares|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" width="128"/> |TV Canaria|TelevisiónCanaria|[m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8)|Islas Canarias|
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
