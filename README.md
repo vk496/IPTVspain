@@ -45,5 +45,8 @@ o
 |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" width="128"/> |TPA7|TPA|[m3u8](https://rtpa-live-hls.flumotion.com/playlist.m3u8)|Asturias|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" width="128"/> |IB3|IB3 RTV Illes Balears|[m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8)|Islas Baleares|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" width="128"/> |TV Canaria|TelevisiónCanaria|[m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8)|Islas Canarias|
+|<img src="http://populartvcantabria.com/wp-content/uploads/2015/03/Bola.png" width="128"/> |Popular TV Cantabria|???|[m3u8](https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8)|Cantabria|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/294px-TV3.svg.png" width="128"/> |TV3|TV3 Cat|[m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8)|Cataluña|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" width="128"/> |3/24|3_24|[m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8)|Cataluña|
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!

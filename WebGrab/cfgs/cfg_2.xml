@@ -23,4 +23,6 @@
   <channel update="i" site="plus.es" site_id="TPA" xmltv_id="TPA">TPA</channel>
   <channel update="i" site="plus.es" site_id="IB3" xmltv_id="IB3 RTV Illes Balears">IB3 RTV Illes Balears</channel>
   <channel update="i" site="plus.es" site_id="CANAR" xmltv_id="TelevisiónCanaria">TelevisiónCanaria</channel>
+  <channel update="i" site="plus.es" site_id="TVC" xmltv_id="TV3 Cat">TV3 Cat</channel>
+  <channel update="i" site="plus.es" site_id="3_24" xmltv_id="3 24">3 24</channel>
 </settings>
