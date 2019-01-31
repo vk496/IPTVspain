@@ -20,7 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-  <channel update="i" site="sincroguia.tv" site_id="521" xmltv_id="TPA">TPA</channel>  
+  <channel update="i" site="plus.es" site_id="TPA" xmltv_id="TPA">TPA</channel>
   <channel update="i" site="plus.es" site_id="IB3" xmltv_id="IB3 RTV Illes Balears">IB3 RTV Illes Balears</channel>
-  <channel update="i" site="sincroguia.tv" site_id="41" xmltv_id="TelevisiónCanaria">TelevisiónCanaria</channel>
+  <channel update="i" site="plus.es" site_id="CANAR" xmltv_id="TelevisiónCanaria">TelevisiónCanaria</channel>
 </settings>
