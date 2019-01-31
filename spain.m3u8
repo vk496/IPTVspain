@@ -45,3 +45,9 @@ https://rtpa-live-hls.flumotion.com/playlist.m3u8
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="TelevisiónCanaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cantabria" tvg-id="???" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2015/03/Bola.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Popular TV Cantabria
+https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1 group-title="Cataluña" tvg-id="TV3 Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/294px-TV3.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV3
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="Cataluña" tvg-id="3_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
