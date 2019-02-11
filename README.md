@@ -9,15 +9,11 @@ Es una recopilación de algunos programas públicos de la TDT (y su programació
 Añade la URL del archivo **spain.m3u8** en tu reproductor y listo!
 
 ### [**http://bit.ly/IPTVspain**](http://bit.ly/IPTVspain)
-o
-###### [https://raw.githubusercontent.com/vk496/IPTVspain/master/spain.m3u8](https://raw.githubusercontent.com/vk496/IPTVspain/master/spain.m3u8)
 
 ## ¿Y la programación?
 Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (muy probable), el XML es el siguiente:
 
 #### [http://bit.ly/IPTVspain_guia](http://bit.ly/IPTVspain_guia)
-o
-#### [https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml](https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml)
 
 ## ¿Qué canales hay?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
