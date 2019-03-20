@@ -37,12 +37,18 @@ Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (m
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" width="128"/> |Trece|13 TV|[m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" width="128"/> |Real Madrid TV|Real Madrid TV|[m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" width="128"/> |Canal Sur Andalucía|Canal Sur Andalucía|[m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8)|Andalucía|
+|<img src="https://pbs.twimg.com/profile_images/974213452951687168/Eb2TT9mJ_400x400.jpg" width="128"/> |Onda Cádiz Televisión||[m3u8](http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8)|Andalucía|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" width="128"/> |Aragón TV|Aragón TV Int|[m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8)|Aragón|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" width="128"/> |TPA7|TPA|[m3u8](https://rtpa-live-hls.flumotion.com/playlist.m3u8)|Asturias|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" width="128"/> |IB3|IB3 RTV Illes Balears|[m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8)|Islas Baleares|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" width="128"/> |TV Canaria|TelevisiónCanaria|[m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8)|Islas Canarias|
+|<img src="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul.png" width="128"/> |Canal 4 Tenerife||[m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8)|Islas Canarias|
 |<img src="http://populartvcantabria.com/wp-content/uploads/2015/03/Bola.png" width="128"/> |Popular TV Cantabria|???|[m3u8](https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8)|Cantabria|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/294px-TV3.svg.png" width="128"/> |TV3|TV3 Cat|[m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8)|Cataluña|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" width="128"/> |3/24|3_24|[m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8)|Cataluña|
+|<img src="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon.png" width="128"/> |Televisión Vega Baja|TVVB|[m3u8](http://185.29.68.24/tvb.m3u8)|C. Valenciana|
+|<img src="https://media.tvalacarta.info/canales/256x256/tvmelilla.png" width="128"/> |Televisión Melilla||[m3u8](https://melillatv-hls.flumotion.com/melillatv/melillatv_all/playlist.m3u8)|Melilla|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/7TVRM.png" width="128"/> |7 TV Región Murcia|7TVMUR|[m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8)|Murcia|
+|<img src="http://www.hittv.es/img/cabeceras/HITtv2.jpg" width="128"/> |HIT TV|HIT TV|[m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8)|Musica|
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!

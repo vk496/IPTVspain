@@ -25,4 +25,5 @@
   <channel update="i" site="plus.es" site_id="CANAR" xmltv_id="TelevisiónCanaria">TelevisiónCanaria</channel>
   <channel update="i" site="plus.es" site_id="TVC" xmltv_id="TV3 Cat">TV3 Cat</channel>
   <channel update="i" site="plus.es" site_id="3_24" xmltv_id="3 24">3 24</channel>
+  <channel update="i" site="plus.es" site_id="7TVMUR" xmltv_id="7TVMUR">7TVMUR</channel>
 </settings>
