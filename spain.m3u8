@@ -43,6 +43,8 @@ http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 group-title="Asturias" tvg-id="TPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TPA7
 https://rtpa-live-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Extremadura" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islas Baleares" tvg-id="IB3 RTV Illes Balears" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="TelevisiónCanaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV Canaria
@@ -55,11 +57,35 @@ https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="3_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="Cataluña" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo-elpuntavui-4.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",El Punt Avui TV
+http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="C. Valenciana" tvg-id="TVVB" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Televisión Vega Baja
 http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TVG (Europa)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Madrid" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/640px-TeleMadrid.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 group-title="Madrid" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/640px-LaOtra.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 #EXTINF:-1 group-title="Melilla" tvg-id="" tvg-logo="https://media.tvalacarta.info/canales/256x256/tvmelilla.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Televisión Melilla
 https://melillatv-hls.flumotion.com/melillatv/melillatv_all/playlist.m3u8
 #EXTINF:-1 group-title="Murcia" tvg-id="7TVMUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/7TVRM.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",7 TV Región Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="Navarra" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_navarra_tv.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Navarra Televisión
+https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1 group-title="País Vasco" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/640px-ETBSat_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",ETB SAT
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="HIT TV" tvg-logo="http://www.hittv.es/img/cabeceras/HITtv2.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Antena 3 (fallback)
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Neox (fallback)
+https://livestartover.atresmedia.com/neox/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La Sexta (fallback)
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Nova (fallback)
+https://livestartover.atresmedia.com/nova/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Mega (fallback)
+https://livestartover.atresmedia.com/mega/master.m3u8
