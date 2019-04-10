@@ -12,6 +12,15 @@ while read line; do
 	m3u8=$(echo $line | cut -d\| -f5 | cut -d\( -f2 | cut -d\) -f1)
 	categ=$(echo $line | cut -d\| -f6)
 
+	if [[ $m3u8 == \#* ]]; then
+		script=$(echo $m3u8 | cut -d\# -f2-)
+		m3u8_new=$(./custom/$script)
+
+		if [[ $m3u8_new == h* ]]; then
+			m3u8=$m3u8_new
+		fi
+	fi
+
 	echo "#EXTINF:-1 group-title=\"$categ\" tvg-id=\"$epgID\" tvg-logo=\"$img\" url-epg=\"$EPG_url\",$name" >> spain.m3u8
 	echo "$m3u8" >> spain.m3u8
 done
