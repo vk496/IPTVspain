@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/env bash
 
 EPG_url="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml"
 
