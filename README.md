@@ -20,6 +20,7 @@ Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (m
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" width="128"/> |La 1|LA 1|[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" width="128"/> |La 2|LA 2|[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" width="128"/> |24 Horas|24 Horas|[m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8)|Informativos|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/320px-Euronews_2016_logo.svg.png" width="128"/> |Euronews||[m3u8](#euronews)|Informativos|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="128"/> |Antena 3|Antena 3|[m3u8](https://livestartover.atresmedia.com/antena3/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox|Neox|[m3u8](https://livestartover.atresmedia.com/geoneox/master.m3u8)|Nacional|
