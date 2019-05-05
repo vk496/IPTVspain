@@ -2,7 +2,8 @@
 
 EPG_url="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml"
 
-echo "#EXTM3U" > spain.m3u8
+echo "#EXTM3U @vk496 https://github.com/vk496/IPTVspain" > spain.m3u8
+echo "#EXTM3U url-tvg=\"${EPG_url}\"" >> spain.m3u8
 
 cat README.md | sed -n '/canales hay/,/Agradecimientos/{/canales hay/b;/Agradecimientos/b;p}' | tail -n +3 | \
 while read line; do
