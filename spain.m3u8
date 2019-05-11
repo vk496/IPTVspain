@@ -7,7 +7,7 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/320px-Euronews_2016_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Euronews
-http://euronews-es-p9-cdn.hexaglobe.net/131ee7254bb976e1248cf2b4420a829d/5cd4d908/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/playlist.m3u8
+http://euronews-es-p10-cdn.hexaglobe.net/8ae14980fc6591d4a0c20c0a1024f0f6/5cd62a99/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Neox
