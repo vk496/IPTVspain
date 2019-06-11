@@ -2,11 +2,10 @@ FROM frolvlad/alpine-mono:5.0-glibc
 WORKDIR /root
 RUN apk add --no-cache bash xmlstarlet
 
-COPY WebGrabPlus_V2.1_install.tar.gz /root/
+COPY .wg++ /root/.wg++/
 
 #Install
 RUN set -ex; \
-    tar zxf WebGrabPlus_V2.1_install.tar.gz; \
     cd .wg++; \
     ./install.sh;
 
