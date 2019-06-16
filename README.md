@@ -1,6 +1,5 @@
 IPTVspain
 =======
-Canales públicos TDT via IPTV
 
 ## ¿Qué es?
 Es una recopilación de algunos programas públicos de la TDT (y su programación) en un archivo **.m3u8** importable en distintos reproductores.
@@ -14,6 +13,9 @@ Añade la URL del archivo **spain.m3u8** en tu reproductor y listo!
 Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (muy probable), el XML es el siguiente:
 
 #### [http://bit.ly/IPTVspain_guia](http://bit.ly/IPTVspain_guia)
+
+## ¿Qué tiene este proyecto distinto al de los demás?
+A diferencia de otros proyectos, en este repositorio no encontrarás ninún recurso en un servidor externo. Todo el contenido, herramientas y logs están automatizados y disponibles públicamete.
 
 ## ¿Qué canales hay?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
