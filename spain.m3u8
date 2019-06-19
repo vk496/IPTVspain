@@ -43,13 +43,13 @@ http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/r
 #EXTINF:-1 group-title="Andalucía" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/974213452951687168/Eb2TT9mJ_400x400.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Onda Cádiz Televisión
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:-1 group-title="Aragón" tvg-id="Aragón TV Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Aragón TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="Asturias" tvg-id="TPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TPA7
-https://rtpa-live-hls.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Extremadura" tvg-id="EXTRE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+#EXTINF:-1 group-title="Extremadura" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islas Baleares" tvg-id="IB3 RTV Illes Balears" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
+https://pastebin.com/raw/bpfUNPir
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="TelevisiónCanaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal 4 Tenerife
