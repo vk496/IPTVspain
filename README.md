@@ -68,6 +68,8 @@ A diferencia de otros proyectos, en este repositorio no encontrarás ninún recu
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega (fallback)|Mega|[m3u8](https://livestartover.atresmedia.com/mega/master.m3u8)|Nacional|
 
 ## ¿Y la radio?
+|Logo|Nombre|EPG ID|M3U8|Categoría|
+|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|Radio|
 
 ## Agradecimientos
