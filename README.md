@@ -19,10 +19,10 @@ Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (m
 A diferencia de otros proyectos, en este repositorio no encontrarás ninún recurso en un servidor externo. Todo el contenido, herramientas y logs están automatizados y disponibles públicamete.
 
 ## ¿Cómo puedo ayudar o aportar?
-Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
+Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram: [@IPTVspain_group](https://t.me/IPTVspain_group)
 
 [![@IPTVspain_group](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/64px-Telegram_logo.svg.png)](https://t.me/IPTVspain_group)
-![@IPTVspain_group](https://t.me/IPTVspain_group)
+
 
 ## ¿Qué canales hay?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
