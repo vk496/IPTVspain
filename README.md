@@ -78,6 +78,19 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |Logo|Nombre|EPG ID|M3U8|Categoría|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/316px-Onda_Cero_logo.svg.png" width="128"/> |Onda Cero||[m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" width="128"/> |Radio Nacional||[m3u8](hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/320px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png" width="128"/> |Radio Clásica||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/225px-Radio_3_RNE_Spain.svg.png" width="128"/> |Radio 3||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/271px-Radio_5_RNE_Spain.svg.png" width="128"/> |Radio 5||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/320px-Radio_Exterior_RNE_Spain.svg.png" width="128"/> |Radio Exterior||[m3u8](http://radioexterior.rtveradio.cires21.com/radioexterior/mbr/playlist.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/320px-Cadena_Ser_logo.svg.png" width="128"/> |Cadena SER||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/320px-LOS40_Classic.svg.png" width="128"/> |LOS40 Classic||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="http://graph.facebook.com/los40/picture?width=320&height=320" width="128"/> |LOS40 Party||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40 Latin||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40 Working||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" width="128"/> |Cadena Dial||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3)|R-Nacional|
 
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
