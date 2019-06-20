@@ -5,7 +5,7 @@ EPG_url="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml"
 echo "#EXTM3U @vk496 https://github.com/vk496/IPTVspain" > spain.m3u8
 echo "#EXTM3U url-tvg=\"${EPG_url}\"" >> spain.m3u8
 
-cat README.md | sed -n '/canales hay/,/Agradecimientos/{/canales hay/b;/Agradecimientos/b;p}' | grep "^|" |tail -n +3 | \
+cat README.md | sed -n '/canales hay/,/Agradecimientos/{/canales hay/b;/Agradecimientos/b;p}' | grep "^|<" |grep -v "^|:--" | grep -vi "^|Logo" | \
 while read line; do
 	img=$(echo $line | cut -d\| -f2 | cut -d\" -f2)
 	name=$(echo $line | cut -d\| -f3)
