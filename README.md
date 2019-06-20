@@ -66,5 +66,9 @@ A diferencia de otros proyectos, en este repositorio no encontrarás ninún recu
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover.atresmedia.com/geolasexta/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="128"/> |Nova (fallback)|Nova|[m3u8](https://livestartover.atresmedia.com/nova/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega (fallback)|Mega|[m3u8](https://livestartover.atresmedia.com/mega/master.m3u8)|Nacional|
+
+## ¿Y la radio?
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|Radio|
+
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!
