@@ -1,8 +1,9 @@
+<img align="left" src="https://www.fotoefectos.com/images/201906/20/4338586642351328036_.jpg" width="150" title="logo">
+
 IPTVspain
 =======
 
-## ¿Qué es?
-Es una recopilación de algunos programas públicos de la TDT (y su programación) en un archivo **.m3u8** importable en distintos reproductores.
+IPTVspain es una recopilación de algunos canales públicos de la TDT y Radio (junto a su programación) en un archivo **.m3u8** importable en distintos reproductores.
 
 ## ¿Cómo funciona?
 Añade la URL del archivo **spain.m3u8** en tu reproductor y listo!
@@ -16,6 +17,12 @@ Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (m
 
 ## ¿Qué tiene este proyecto distinto al de los demás?
 A diferencia de otros proyectos, en este repositorio no encontrarás ninún recurso en un servidor externo. Todo el contenido, herramientas y logs están automatizados y disponibles públicamete.
+
+## ¿Cómo puedo ayudar o aportar?
+Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
+
+[![@IPTVspain_group](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/64px-Telegram_logo.svg.png)](https://t.me/IPTVspain_group)
+![@IPTVspain_group](https://t.me/IPTVspain_group)
 
 ## ¿Qué canales hay?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
