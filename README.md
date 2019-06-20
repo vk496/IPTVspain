@@ -70,7 +70,7 @@ A diferencia de otros proyectos, en este repositorio no encontrarás ninún recu
 ## ¿Y la radio?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|Radio|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|R-Nacional|
 
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!

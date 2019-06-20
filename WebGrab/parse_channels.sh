@@ -22,7 +22,7 @@ while read line; do
 		fi
 	fi
 
-	if [[ ${categ,,} == "radio" ]]; then
+	if echo ${categ} | grep -q "^R-"; then
 		radio=" radio=\"true\""
 	else
 		radio=""
