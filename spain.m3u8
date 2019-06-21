@@ -106,3 +106,17 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
 #EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/320px-Radio_Exterior_RNE_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio Exterior
 http://radioexterior.rtveradio.cires21.com/radioexterior/mbr/playlist.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/320px-Cadena_Ser_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40
+http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/320px-LOS40_Classic.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Classic
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="http://graph.facebook.com/los40/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Party
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Latin
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Working
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena Dial
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
