@@ -91,6 +91,7 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40 Latin||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40 Working||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" width="128"/> |Cadena Dial||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/320px-MelodiaFM_logo.svg.png" width="128"/> |Melodía FM||[m3u8](https://icecast-streaming.nice264.com/melodiafm?hash=.mp3)|R-Nacional|
 
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!

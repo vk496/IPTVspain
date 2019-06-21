@@ -120,3 +120,5 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.m
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
 #EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena Dial
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/320px-MelodiaFM_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Melodía FM
+https://icecast-streaming.nice264.com/melodiafm?hash=.mp3
