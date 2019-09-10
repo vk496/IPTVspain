@@ -29,4 +29,5 @@
   <channel update="i" site="plus.es" site_id="24H" xmltv_id="24 Horas">24h</channel>
   <channel update="i" site="plus.es" site_id="EXTRE" xmltv_id="EXTRE">EXTRE</channel>
   <channel update="i" site="plus.es" site_id="TELMAD" xmltv_id="TeleMadrid">TeleMadrid</channel>
+  <channel update="i" site="plus.es" site_id="TDEP" xmltv_id="Teledeporte">tdp</channel>
 </settings>
