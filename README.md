@@ -1,4 +1,4 @@
-<img align="left" src="https://www.fotoefectos.com/images/201906/20/4338586642351328036_.jpg" width="150" title="logo">
+<img align="left" src="custom/logo.jpg" width="150" title="logo">
 
 IPTVspain
 =======
