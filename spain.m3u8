@@ -59,7 +59,7 @@ https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 group-title="Cantabria" tvg-id="" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2015/03/Bola.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Popular TV Cantabria
 https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="TV3 Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/294px-TV3.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV3
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8?DVR
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo-elpuntavui-4.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",El Punt Avui TV
