@@ -4,8 +4,6 @@
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
-#EXTINF:-1 group-title="Informativos" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Antena 3
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Cuatro
@@ -43,7 +41,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/320px-Teledeporte.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Teledeporte
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 #EXTINF:-1 group-title="Andalucía" tvg-id="Canal Sur Andalucía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Sur Andalucía
-http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
+https://www.youtube.com/embed/y68zzEB5Yow
 #EXTINF:-1 group-title="Andalucía" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/974213452951687168/Eb2TT9mJ_400x400.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Onda Cádiz Televisión
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:-1 group-title="Aragón" tvg-id="Aragón TV Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Aragón TV
@@ -51,9 +49,9 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="Asturias" tvg-id="TPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TPA7
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 group-title="Extremadura" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islas Baleares" tvg-id="IB3 RTV Illes Balears" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",IB3
-https://pastebin.com/raw/bpfUNPir
+https://www.youtube.com/embed/NOrU23AnVMk
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="TelevisiónCanaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal 4 Tenerife
@@ -61,7 +59,7 @@ https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 group-title="Cantabria" tvg-id="" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2015/03/Bola.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Popular TV Cantabria
 https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="TV3 Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/294px-TV3.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Cataluña" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo-elpuntavui-4.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",El Punt Avui TV
