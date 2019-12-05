@@ -5,6 +5,11 @@ ignore_array=(
 	La_2
 	24_Horas
 	Neox_\(fallback\)
+	Antena_3_\(fallback\)
+	Nova_\(fallback\)
+	Mega_\(fallback\)
+	La_Sexta_\(fallback\)
+	Teledeporte
 )
 
 
