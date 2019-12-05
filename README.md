@@ -1,8 +1,9 @@
+<img align="left" src="custom/logo.jpg" width="150" title="logo">
+
 IPTVspain
 =======
 
-## ¿Qué es?
-Es una recopilación de algunos programas públicos de la TDT (y su programación) en un archivo **.m3u8** importable en distintos reproductores.
+IPTVspain es una recopilación de algunos canales públicos de la TDT y Radio (junto a su programación) en un archivo **.m3u8** importable en distintos reproductores.
 
 ## ¿Cómo funciona?
 Añade la URL del archivo **spain.m3u8** en tu reproductor y listo!
@@ -17,28 +18,35 @@ Viene embebida en el archivo **.m3u8**. Si necesitas indicarlo explicitamente (m
 ## ¿Qué tiene este proyecto distinto al de los demás?
 A diferencia de otros proyectos, en este repositorio no encontrarás ninún recurso en un servidor externo. Todo el contenido, herramientas y logs están automatizados y disponibles públicamete.
 
+## ¿Cómo puedo ayudar o aportar?
+Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram: [@IPTVspain_group](https://t.me/IPTVspain_group)
+
+[![@IPTVspain_group](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/64px-Telegram_logo.svg.png)](https://t.me/IPTVspain_group)
+
+
 ## ¿Qué canales hay?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" width="128"/> |La 1|LA 1|[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" width="128"/> |La 2|LA 2|[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="128"/> |Antena 3|Antena 3|[m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" width="128"/> |Cuatro|Cuatro|[m3u8](https://pastebin.com/raw/nUFDnkws)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" width="128"/> |Telecinco|Telecinco|[m3u8](https://pastebin.com/raw/455ygZ6Y)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta|La Sexta|[m3u8](https://livestartover-i.akamaized.net/lasexta/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" width="128"/> |24 Horas|24 Horas|[m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8)|Informativos|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="128"/> |Antena 3|Antena 3|[m3u8](https://livestartover.atresmedia.com/antena3/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox|Neox|[m3u8](https://livestartover.atresmedia.com/geoneox/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta|La Sexta|[m3u8](https://livestartover.atresmedia.com/lasexta/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="128"/> |Nova|Nova|[m3u8](https://livestartover.atresmedia.com/geonova/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega|Mega|[m3u8](https://livestartover.atresmedia.com/geomega/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox|Neox|[m3u8](https://livestartover-i.akamaized.net/geoneox/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="128"/> |Nova|Nova|[m3u8](https://livestartover-i.akamaized.net/geonova/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega|Mega|[m3u8](https://livestartover-i.akamaized.net/geomega/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/247px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" width="128"/> |FDF|Factoría de Ficción|[m3u8](https://pastebin.com/raw/WDb2J2pN)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" width="128"/> |Paramount Channel|Paramount Channel|[m3u8](http://paramount.live.flumotion.com/live/playlist.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" width="128"/> |Boing|Boing|[m3u8](https://pastebin.com/raw/afgk7wAC)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" width="128"/> |Cuatro|Cuatro|[m3u8](https://pastebin.com/raw/nUFDnkws)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/247px-AtreseriesLogo.svg.png" width="128"/> |Atreseries|Atreseries|[m3u8](https://livestartover.atresmedia.com/geoa3series/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" width="128"/> |Telecinco|Telecinco|[m3u8](https://pastebin.com/raw/455ygZ6Y)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/247px-AtreseriesLogo.svg.png" width="128"/> |Atreseries|Atreseries|[m3u8](https://livestartover-i.akamaized.net/geoa3series/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/167px-Divinity.svg.png" width="128"/> |Divinity|Divinity|[m3u8](https://pastebin.com/raw/DdABja2w)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" width="128"/> |Energy|Energy|[m3u8](https://pastebin.com/raw/AXvzQiid)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" width="128"/> |Be Mad|BE MAD|[m3u8](https://pastebin.com/raw/jf3NxqPs)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" width="128"/> |Trece|13 TV|[m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" width="128"/> |Real Madrid TV|Real Madrid TV|[m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" width="128"/> |Real Madrid TV|Real Madrid TV|[m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8)|Deportes|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/320px-Teledeporte.svg.png" width="128"/> |Teledeporte|Teledeporte|[m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8)|Deportes|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" width="128"/> |Canal Sur Andalucía|Canal Sur Andalucía|[m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8)|Andalucía|
 |<img src="https://pbs.twimg.com/profile_images/974213452951687168/Eb2TT9mJ_400x400.jpg" width="128"/> |Onda Cádiz Televisión||[m3u8](http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8)|Andalucía|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" width="128"/> |Aragón TV|Aragón TV Int|[m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8)|Aragón|
@@ -61,22 +69,32 @@ A diferencia de otros proyectos, en este repositorio no encontrarás ninún recu
 |<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_navarra_tv.jpg" width="128"/> |Navarra Televisión||[m3u8](https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8)|Navarra|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/640px-ETBSat_Spain.svg.png" width="128"/> |ETB SAT||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8)|País Vasco|
 |<img src="http://www.hittv.es/img/cabeceras/HITtv2.jpg" width="128"/> |HIT TV||[m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8)|Musica|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="128"/> |Antena 3 (fallback)|Antena 3|[m3u8](https://livestartover.atresmedia.com/geoantena3/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox (fallback)|Neox|[m3u8](https://livestartover.atresmedia.com/neox/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover.atresmedia.com/geolasexta/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="128"/> |Nova (fallback)|Nova|[m3u8](https://livestartover.atresmedia.com/nova/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega (fallback)|Mega|[m3u8](https://livestartover.atresmedia.com/mega/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="128"/> |Antena 3 (fallback)|Antena 3|[m3u8](https://livestartover-i.akamaized.net/geoantena3/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox (fallback)|Neox|[m3u8](https://livestartover-i.akamaized.net/neox/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover-i.akamaized.net/geolasexta/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="128"/> |Nova (fallback)|Nova|[m3u8](https://livestartover-i.akamaized.net/nova/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="128"/> |Mega (fallback)|Mega|[m3u8](https://livestartover-i.akamaized.net/mega/master.m3u8)|Nacional|
 
 ## ¿Y la radio?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/316px-Onda_Cero_logo.svg.png" width="128"/> |Onda Cero||[m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8)|R-Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" width="128"/> |Radio Nacional||[m3u8](hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" width="128"/> |Radio Nacional||[m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/320px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png" width="128"/> |Radio Clásica||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/225px-Radio_3_RNE_Spain.svg.png" width="128"/> |Radio 3||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/271px-Radio_5_RNE_Spain.svg.png" width="128"/> |Radio 5||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/320px-Radio_Exterior_RNE_Spain.svg.png" width="128"/> |Radio Exterior||[m3u8](http://radioexterior.rtveradio.cires21.com/radioexterior/mbr/playlist.m3u8)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/320px-Cadena_Ser_logo.svg.png" width="128"/> |Cadena SER||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/320px-LOS40_Classic.svg.png" width="128"/> |LOS40 Classic||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="http://graph.facebook.com/los40/picture?width=320&height=320" width="128"/> |LOS40 Party||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40 Latin||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" width="128"/> |LOS40 Working||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" width="128"/> |Cadena Dial||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/320px-MelodiaFM_logo.svg.png" width="128"/> |Melodía FM||[m3u8](https://icecast-streaming.nice264.com/melodiafm?hash=.mp3)|R-Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/320px-M%C3%A1xima_FM.svg.png" width="128"/> |Máxima FM||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3)|R-Nacional|
+
 
 ## Agradecimientos
 Agradecer el trabajo y esfuerzo de todos los colaboradores de  [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) y [ruvelro/TV-Online-TDT-Spain](https://github.com/ruvelro/TV-Online-TDT-Spain)!

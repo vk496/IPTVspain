@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <settings>
-   
+
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
+
   <filename>guide.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
@@ -11,11 +11,11 @@
   <retry time-out="5">10</retry>
   <timespan>7</timespan>
   <update>f</update>
- 
+
   <!--
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
-  
+
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
@@ -26,4 +26,8 @@
   <channel update="i" site="plus.es" site_id="TVC" xmltv_id="TV3 Cat">TV3 Cat</channel>
   <channel update="i" site="plus.es" site_id="3_24" xmltv_id="3 24">3 24</channel>
   <channel update="i" site="plus.es" site_id="7TVMUR" xmltv_id="7TVMUR">7TVMUR</channel>
+  <channel update="i" site="plus.es" site_id="24H" xmltv_id="24 Horas">24h</channel>
+  <channel update="i" site="plus.es" site_id="EXTRE" xmltv_id="EXTRE">EXTRE</channel>
+  <channel update="i" site="plus.es" site_id="TELMAD" xmltv_id="TeleMadrid">TeleMadrid</channel>
+  <channel update="i" site="plus.es" site_id="TDEP" xmltv_id="Teledeporte">tdp</channel>
 </settings>

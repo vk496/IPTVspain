@@ -7,27 +7,29 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Antena 3
-https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 group-title="Nacional" tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Neox
-https://livestartover.atresmedia.com/geoneox/master.m3u8
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Cuatro
+https://pastebin.com/raw/nUFDnkws
+#EXTINF:-1 group-title="Nacional" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Telecinco
+https://pastebin.com/raw/455ygZ6Y
 #EXTINF:-1 group-title="Nacional" tvg-id="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La Sexta
-https://livestartover.atresmedia.com/lasexta/master.m3u8
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 group-title="Informativos" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 group-title="Nacional" tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Neox
+https://livestartover-i.akamaized.net/geoneox/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Nova
-https://livestartover.atresmedia.com/geonova/master.m3u8
+https://livestartover-i.akamaized.net/geonova/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Mega
-https://livestartover.atresmedia.com/geomega/master.m3u8
+https://livestartover-i.akamaized.net/geomega/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/247px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",FDF
 https://pastebin.com/raw/WDb2J2pN
 #EXTINF:-1 group-title="Nacional" tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Boing
 https://pastebin.com/raw/afgk7wAC
-#EXTINF:-1 group-title="Nacional" tvg-id="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Cuatro
-https://pastebin.com/raw/nUFDnkws
 #EXTINF:-1 group-title="Nacional" tvg-id="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/247px-AtreseriesLogo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Atreseries
-https://livestartover.atresmedia.com/geoa3series/master.m3u8
-#EXTINF:-1 group-title="Nacional" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Telecinco
-https://pastebin.com/raw/455ygZ6Y
+https://livestartover-i.akamaized.net/geoa3series/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/167px-Divinity.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Divinity
 https://pastebin.com/raw/DdABja2w
 #EXTINF:-1 group-title="Nacional" tvg-id="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Energy
@@ -36,8 +38,10 @@ https://pastebin.com/raw/AXvzQiid
 https://pastebin.com/raw/jf3NxqPs
 #EXTINF:-1 group-title="Nacional" tvg-id="13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Trece
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 group-title="Nacional" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Real Madrid TV
+#EXTINF:-1 group-title="Deportes" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/320px-Teledeporte.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Teledeporte
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 #EXTINF:-1 group-title="Andalucía" tvg-id="Canal Sur Andalucía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Sur Andalucía
 http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
 #EXTINF:-1 group-title="Andalucía" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/974213452951687168/Eb2TT9mJ_400x400.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Onda Cádiz Televisión
@@ -83,14 +87,44 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="" tvg-logo="http://www.hittv.es/img/cabeceras/HITtv2.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Antena 3 (fallback)
-https://livestartover.atresmedia.com/geoantena3/master.m3u8
+https://livestartover-i.akamaized.net/geoantena3/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Neox (fallback)
-https://livestartover.atresmedia.com/neox/master.m3u8
+https://livestartover-i.akamaized.net/neox/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La Sexta (fallback)
-https://livestartover.atresmedia.com/geolasexta/master.m3u8
+https://livestartover-i.akamaized.net/geolasexta/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Nova (fallback)
-https://livestartover.atresmedia.com/nova/master.m3u8
+https://livestartover-i.akamaized.net/nova/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Mega (fallback)
-https://livestartover.atresmedia.com/mega/master.m3u8
+https://livestartover-i.akamaized.net/mega/master.m3u8
 #EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Europa FM
 https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/316px-Onda_Cero_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio Nacional
+https://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/320px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio Clásica
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/225px-Radio_3_RNE_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio 3
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/271px-Radio_5_RNE_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio 5
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/320px-Radio_Exterior_RNE_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio Exterior
+http://radioexterior.rtveradio.cires21.com/radioexterior/mbr/playlist.m3u8
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/320px-Cadena_Ser_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40
+http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/320px-LOS40_Classic.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Classic
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="http://graph.facebook.com/los40/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Party
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Latin
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/320px-Los_40.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",LOS40 Working
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena Dial
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/320px-MelodiaFM_logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Melodía FM
+https://icecast-streaming.nice264.com/melodiafm?hash=.mp3
+#EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/320px-M%C3%A1xima_FM.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Máxima FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3
