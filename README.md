@@ -220,6 +220,19 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/Radiofusionga/picture?width=320&height=320" width="128"/> |Radiofusión||[m3u8](http://srv0411.lcinternet.com:9005/stream)|R-Galicia|
 |<img src="http://graph.facebook.com/196309677056427/picture?width=320&height=320" width="128"/> |Radio Fene||[m3u8](http://srv0490.lcinternet.com:8002/stream)|R-Galicia|
 |<img src="http://graph.facebook.com/radiovoz/picture?width=320&height=320" width="128"/> |Radio Voz||[m3u8](http://live.radiovoz.es/mp3/stream_santiago.mp3)|R-Galicia|
+|<img src="http://graph.facebook.com/IB3org/picture?width=320&height=320" width="128"/> |IB3 Ràdio||[m3u8](http://streaming01.ib3radio.com:8000/ib3radio.mp3)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320" width="128"/> |Fibwi Radio||[m3u8](http://stream.fibwi.com:9000/stream)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Mallorca||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/rbalear.interbaleares/picture?width=320&height=320" width="128"/> |Radio Balear||[m3u8](http://server6.20comunicacion.com:8076/;)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320" width="128"/> |Última Hora Radio||[m3u8](http://stream.fibwi.com:9020/stream)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/ibiza.radio/picture?width=320&height=320" width="128"/> |Ibiza Global Radio||[m3u8](http://ibizaglobalradio.streaming-pro.com:8024/stream)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/ibizasonicaradio/picture?width=320&height=320" width="128"/> |ibizaSonica||[m3u8](http://s1.sonicabroadcast.com:7005/;stream/1)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/canal4televisio/picture?width=320&height=320" width="128"/> |Radio Murta||[m3u8](http://91.121.156.27:8013/stream)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/canal4televisio/picture?width=320&height=320" width="128"/> |Canal 4 Ràdio||[m3u8](http://91.121.156.27:8011/stream)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/DasInselradio/picture?width=320&height=320" width="128"/> |Das Inselradio||[m3u8](https://stream.inselradio.com/high.inselradio.opus)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/DasInselradio/picture?width=320&height=320" width="128"/> |Mallorca Sunshine Radio||[m3u8](https://stream.inselradio.com/high.sunshine.opus)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320" width="128"/> |Fibwi Radio||[m3u8](http://stream.fibwi.com:9000/stream)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/RadioOneMallorca/picture?width=320&height=320" width="128"/> |Radio One Mallorca||[m3u8](http://80.32.132.126:8000/;)|R-Islas Baleares|
 
 
 
