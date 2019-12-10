@@ -19,7 +19,7 @@ while read line; do
 	name=$(echo $line | cut -d\| -f3 | sed 's/ /_/g')
 	m3u8=$(echo $line | cut -d\| -f5 | cut -d\( -f2 | cut -d\) -f1)
 
-	if [[ echo "$m3u8" | grep -qi "youtube.com" ]]; then
+	if [[ $m3u8 == *"youtube.com"* ]]; then
 		#Skip youtube check
 		continue
 	fi

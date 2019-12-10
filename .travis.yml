@@ -51,4 +51,4 @@ jobs:
     - stage: deploy
       script: bash -x .travis/deploy.sh
     - stage: validate
-      script: bash .testStream/validate.sh
+      script: bash ./testStream/validate.sh
