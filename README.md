@@ -64,11 +64,10 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" width="128"/> |Momentos G||[m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8)|Galicia|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/640px-TeleMadrid.svg.png" width="128"/> |Telemadrid||[m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8)|Madrid|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/640px-LaOtra.svg.png" width="128"/> |La Otra||[m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8)|Madrid|
-|<img src="https://media.tvalacarta.info/canales/256x256/tvmelilla.png" width="128"/> |Televisión Melilla||[m3u8](https://melillatv-hls.flumotion.com/melillatv/melillatv_all/playlist.m3u8)|Melilla|
+|<img src="https://media.tvalacarta.info/canales/256x256/tvmelilla.png" width="128"/> |Televisión Melilla||[m3u8](https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8)|Melilla|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/7TVRM.png" width="128"/> |7 TV Región Murcia|7TVMUR|[m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8)|Murcia|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_navarra_tv.jpg" width="128"/> |Navarra Televisión||[m3u8](https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8)|Navarra|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/640px-ETBSat_Spain.svg.png" width="128"/> |ETB SAT||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8)|País Vasco|
-|<img src="http://www.hittv.es/img/cabeceras/HITtv2.jpg" width="128"/> |HIT TV||[m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8)|Musica|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="128"/> |Antena 3 (fallback)|Antena 3|[m3u8](https://livestartover-i.akamaized.net/geoantena3/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="128"/> |Neox (fallback)|Neox|[m3u8](https://livestartover-i.akamaized.net/neox/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="128"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover-i.akamaized.net/geolasexta/master.m3u8)|Nacional|
@@ -78,7 +77,7 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 ## ¿Y la radio?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|R-Nacional|
+<!-- |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/320px-EuropaFM_logo.svg.png" width="128"/> |Europa FM||[m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8)|R-Nacional| -->
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/316px-Onda_Cero_logo.svg.png" width="128"/> |Onda Cero||[m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" width="128"/> |Radio Nacional||[m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/320px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png" width="128"/> |Radio Clásica||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8)|R-Nacional|
