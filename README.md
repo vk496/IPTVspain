@@ -137,6 +137,16 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Radio Ribagorza||[m3u8](http://85.25.217.22:8210/stream)|R-Aragón|
 |<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Radio Sariñena||[m3u8](https://streamingradio.radiohuesca.com:8101/radiosarinena)|R-Aragón|
 |<img src="http://www.zaragozafm.es/player/tmp/images/default.png" width="128"/> |ZFM||[m3u8](http://streaming.zarastudio.es/zfm.mp3)|R-Aragón|
+|<img src="http://graph.facebook.com/RTPAoficial/picture?width=320&height=320" width="128"/> |RPA||[m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8)|R-Asturias|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Asturias||[m3u8](http://188.93.73.98:8118/;stream.mp3)|R-Asturias|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Oriente||[m3u8](http://seroriente.com:8000/seroriente.mp3)|R-Asturias|
+|<img src="http://graph.facebook.com/467719623356931/picture?width=320&height=320" width="128"/> |Carrussel FM||[m3u8](https://server10.emitironline.com:2199/tunein/carruselfm.pls)|R-Asturias|
+|<img src="http://graph.facebook.com/radioteletaxi/picture?width=320&height=320" width="128"/> |cSTRadio||[m3u8](http://srv3021.lcinternet.com:8012/live)|R-Asturias|
+|<img src="http://graph.facebook.com/radiofantasia/picture?width=320&height=320" width="128"/> |Radio Fantasía||[m3u8](http://81.94.198.122:9280/;)|R-Asturias|
+|<img src="http://graph.facebook.com/RadioSanMartin107.1FM/picture?width=320&height=320" width="128"/> |Radio San Martín Sotrondio||[m3u8](http://91.126.223.28:9890/;)|R-Asturias|
+|<img src="http://graph.facebook.com/radioujo/picture?width=320&height=320" width="128"/> |Radio Ujo||[m3u8](http://91.126.223.105:8000/liveHD)|R-Asturias|
+|<img src="http://graph.facebook.com/boxfmec/picture?width=320&height=320" width="128"/> |The Box FM||[m3u8](http://listen128.radionomy.com/thebox)|R-Asturias|
+
 
 
 
