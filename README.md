@@ -168,6 +168,48 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/esradio/picture?width=320&height=320" width="128"/> |esRadio - Castilla y León||[m3u8](http://livestreaming2.esradio.fm:8000/cylrdo16)|R-Castilla y León|
 |<img src="http://graph.facebook.com/mortalfm/picture?width=320&height=320" width="128"/> |Mortal FM||[m3u8](http://server6.20comunicacion.com:8044/)|R-Castilla y León|
 |<img src="http://graph.facebook.com/158974217473244/picture?width=320&height=320" width="128"/> |Vive! Radio||[m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8)|R-Castilla y León|
+|<img src="http://graph.facebook.com/catradio/picture?width=320&height=320" width="128"/> |Catalunya Ràdio||[m3u8](https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8)|R-Cataluña|
+|<img src="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_400x400.png" width="128"/> |Catalunya Informació||[m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8)|R-Cataluña|
+|<img src="http://graph.facebook.com/catmusica/picture?width=320&height=320" width="128"/> |Cat Música||[m3u8](https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8)|R-Cataluña|
+|<img src="http://graph.facebook.com/icatpuntcat/picture?width=320&height=320" width="128"/> |iCat||[m3u8](https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8)|R-Cataluña|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER Catalunya||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/los40/picture?width=320&height=320" width="128"/> |LOS40 Catalunya||[m3u8](https://20073.live.streamtheworld.com/LOS40_CAT.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/rac1oficial/picture?width=320&height=320" width="128"/> |RAC1||[m3u8](http://rac1.radiocat.net/;*.nsv)|R-Cataluña|
+|<img src="http://graph.facebook.com/Radio4RNE/picture?width=320&height=320" width="128"/> |Ràdio 4||[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8)|R-Cataluña|
+|<img src="http://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320" width="128"/> |Bas Ràdio||[m3u8](http://s1streamingradio.desafiohosting.com:8130/listen.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Ràdio Barcelona||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Ràdio Manresa||[m3u8](http://streaming.enantena.com:8000/taronjadigital-bages56.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/COPE/picture?width=320&height=320" width="128"/> |COPE Barcelona||[m3u8](https://flucast-b05-06.flumotion.com/copesedes/barcelona.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320" width="128"/> |Equinox Radio||[m3u8](http://listen.radionomy.com/absolutevintage)|R-Cataluña|
+|<img src="http://graph.facebook.com/lamarinacat/picture?width=320&height=320" width="128"/> |La Marina FM||[m3u8](http://endirecte.amcl.cat:8000/lamarinafm)|R-Cataluña|
+|<img src="http://graph.facebook.com/RadioBronka/picture?width=320&height=320" width="128"/> |Radio Bronka||[m3u8](http://stream.nonfqdn.net:8000/rbronka.ogg)|R-Cataluña|
+|<img src="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg" width="128"/> |Ràdio Ciutat de Badalona||[m3u8](http://streaming.enantena.com:8000/radiob128.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/Radioestelbcn/picture?width=320&height=320" width="128"/> |Ràdio Estel||[m3u8](http://srv3021.lcinternet.com:8019/stream)|R-Cataluña|
+|<img src="http://graph.facebook.com/RadioGraciaBarcelona/picture?width=320&height=320" width="128"/> |Ràdio Gràcia||[m3u8](http://streaming.enantena.com:8000/radiograciaHD.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/RadioMARCA/picture?width=320&height=320" width="128"/> |Ràdio Marca Barcelona||[m3u8](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream)|R-Cataluña|
+|<img src="http://graph.facebook.com/radio.vilamajor/picture?width=320&height=320" width="128"/> |Ràdio Vilamajor||[m3u8](http://80.37.181.205:8000/;audio.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/coolturafm/picture?width=320&height=320" width="128"/> |Radio Cooltura||[m3u8](http://streamserver1.somosdigital.net:8415/;stream.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/vinilofm/picture?width=320&height=320" width="128"/> |Vinilo FM||[m3u8](http://server9.emitironline.com:10923/;)|R-Cataluña|
+|<img src="http://graph.facebook.com/radiomollet963/picture?width=320&height=320" width="128"/> |Ràdio Mollet||[m3u8](http://streaming.enantena.com:8000/radiomollet56.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/rap107/picture?width=320&height=320" width="128"/> |RAP107||[m3u8](http://streaming.enantena.com:8000/rap56.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/radiomontornes/picture?width=320&height=320" width="128"/> |Ràdio Montornès||[m3u8](http://188.165.187.84:8008/stream)|R-Cataluña|
+|<img src="http://graph.facebook.com/rsilenci/picture?width=320&height=320" width="128"/> |Ràdio Silenci||[m3u8](http://streaming.enacast.com:8000/radiosilenci56.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/RadioCaldes107.8fm/picture?width=320&height=320" width="128"/> |Ràdio Caldes||[m3u8](http://streaming.enantena.com:8000/radiocaldes56.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/174942455863314/picture?width=320&height=320" width="128"/> |Ràdio Granollers||[m3u8](http://eu7.fastcast4u.com/proxy/radiogranollers/?mp=/stream)|R-Cataluña|
+|<img src="http://graph.facebook.com/capitalemporda/picture?width=320&height=320" width="128"/> |Ràdio Capital||[m3u8](http://streaming.martiproduccions.com:8000/capitalhd)|R-Cataluña|
+|<img src="http://graph.facebook.com/proximafm/picture?width=320&height=320" width="128"/> |PròximaFM||[m3u8](http://91.187.93.115:8000/;stream/1)|R-Cataluña|
+|<img src="http://graph.facebook.com/altafulla.radio/picture?width=320&height=320" width="128"/> |Altafulla Ràdio||[m3u8](https://enacast.com/altafullaradio/streams/HD)|R-Cataluña|
+|<img src="http://graph.facebook.com/tarragonaradio/picture?width=320&height=320" width="128"/> |Tarragona Ràdio||[m3u8](http://streaming.enantena.com:8000/tarragona128.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/Radio101.0/picture?width=320&height=320" width="128"/> |Ràdio Sant Pere i Sant Pau||[m3u8](http://212.83.151.18:36686/;stream/1?1552499879263.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/ImaginaRadio103/picture?width=320&height=320" width="128"/> |Imagina Ràdio||[m3u8](http://server8.emitironline.com:8038/radio)|R-Cataluña|
+|<img src="http://graph.facebook.com/digitalhits/picture?width=320&height=320" width="128"/> |digitalHits FM||[m3u8](http://digitalhits.frilab.com:8000/digitalhits;)|R-Cataluña|
+|<img src="http://graph.facebook.com/CanalBlau/picture?width=320&height=320" width="128"/> |Canal Blau Ràdio||[m3u8](http://streaming.enantena.com:8000/canalblau128.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/radiocubelles/picture?width=320&height=320" width="128"/> |Ràdio Cubelles||[m3u8](http://streaming.enantena.com:8000/cubelles128.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/rtvelvendrell/picture?width=320&height=320" width="128"/> |Ràdio El Vendrell||[m3u8](http://streaming.enantena.com:8000/rtvelvendrell128.mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/radiomaricel/picture?width=320&height=320" width="128"/> |Ràdio Maricel||[m3u8](http://94.23.87.98:8065/;&type=mp3)|R-Cataluña|
+|<img src="http://graph.facebook.com/334511563914/picture?width=320&height=320" width="128"/> |Ràdio Ripoll||[m3u8](http://5.135.183.124:8151/stream)|R-Cataluña|
+|<img src="http://graph.facebook.com/Radiolot/picture?width=320&height=320" width="128"/> |Ràdio Olot||[m3u8](http://chrome.frilab.com:8000/radiolot)|R-Cataluña|
+|<img src="http://graph.facebook.com/RadioSabadell/picture?width=320&height=320" width="128"/> |Ràdio Sabadell||[m3u8](http://online.radiosabadell.fm:8013/stream)|R-Cataluña|
 
 
 
