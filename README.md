@@ -244,6 +244,10 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/RadioRomanul/picture?width=320&height=320" width="128"/> |Radio Romanul||[m3u8](http://streaming.radioromanul.es:55556/radioromanul)|R-Madrid|
 |<img src="http://graph.facebook.com/179099278878655/picture?width=320&height=320" width="128"/> |Radio Utopía||[m3u8](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3)|R-Madrid|
 |<img src="http://graph.facebook.com/radiovallekas/picture?width=320&height=320" width="128"/> |Radio Vallekas||[m3u8](http://cervera.eldialdigital.com:8032/;)|R-Madrid|
+|<img src="http://graph.facebook.com/ondacero/picture?width=320&height=320" width="128"/> |Onda Cero Murcia||[m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8)|R-Murcia|
+|<img src="http://graph.facebook.com/ondacero/picture?width=320&height=320" width="128"/> |Onda Cero Noroeste||[m3u8](http://stream.ondaceronoroeste.es/ondacero-64.mp3)|R-Murcia|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Murcia||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3)|R-Murcia|
+|<img src="http://graph.facebook.com/349014238632372/picture?width=320&height=320" width="128"/> |Radio Calasparra||[m3u8](http://213.96.195.21:8000/;)|R-Murcia|
 
 
 
