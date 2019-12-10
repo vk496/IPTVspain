@@ -248,6 +248,12 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/ondacero/picture?width=320&height=320" width="128"/> |Onda Cero Noroeste||[m3u8](http://stream.ondaceronoroeste.es/ondacero-64.mp3)|R-Murcia|
 |<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Murcia||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3)|R-Murcia|
 |<img src="http://graph.facebook.com/349014238632372/picture?width=320&height=320" width="128"/> |Radio Calasparra||[m3u8](http://213.96.195.21:8000/;)|R-Murcia|
+|<img src="http://graph.facebook.com/bitfm.es/picture?width=320&height=320" width="128"/> |Bit FM Pamplona||[m3u8](http://server1.emitironline.com:8024/)|R-Navarra|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Pamplona||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3)|R-Navarra|
+|<img src="http://graph.facebook.com/293039954137807/picture?width=320&height=320" width="128"/> |Eguzki Irratia||[m3u8](http://51.68.46.71:9000/eguzki.mp3)|R-Navarra|
+|<img src="http://graph.facebook.com/euskalerriairratia/picture?width=320&height=320" width="128"/> |Euskalerria Irratia||[m3u8](http://server4.beatproducciones.com:8014/;)|R-Navarra|
+|<img src="http://graph.facebook.com/radiouniversidaddenavarra/picture?width=320&height=320" width="128"/> |Radio Universidad de Navarra||[m3u8](http://s37.myradiostream.com/8638/listen.mp3)|R-Navarra|
+|<img src="http://graph.facebook.com/trakfmpamplona/picture?width=320&height=320" width="128"/> |Trak FM Pamplona||[m3u8](http://91.121.77.67:8070/;stream.mp3)|R-Navarra|
 
 
 
