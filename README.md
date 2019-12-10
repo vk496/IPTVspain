@@ -210,6 +210,7 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/334511563914/picture?width=320&height=320" width="128"/> |Ràdio Ripoll||[m3u8](http://5.135.183.124:8151/stream)|R-Cataluña|
 |<img src="http://graph.facebook.com/Radiolot/picture?width=320&height=320" width="128"/> |Ràdio Olot||[m3u8](http://chrome.frilab.com:8000/radiolot)|R-Cataluña|
 |<img src="http://graph.facebook.com/RadioSabadell/picture?width=320&height=320" width="128"/> |Ràdio Sabadell||[m3u8](http://online.radiosabadell.fm:8013/stream)|R-Cataluña|
+|<img src="http://graph.facebook.com/489965251169138/picture?width=320&height=320" width="128"/> |Radio Miajadas||[m3u8](http://srv0410.lcinternet.com:8013/stream)|R-Extremadura|
 
 
 
