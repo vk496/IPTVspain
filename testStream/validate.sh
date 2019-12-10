@@ -19,11 +19,6 @@ while read line; do
 	name=$(echo $line | cut -d\| -f3 | sed 's/ /_/g')
 	m3u8=$(echo $line | cut -d\| -f5 | cut -d\( -f2 | cut -d\) -f1)
 
-	if [[ $m3u8 == *"youtube.com"* ]]; then
-		#Skip youtube check
-		continue
-	fi
-
 	status="\e[92mVALID\e[0m"
 	ffprobe -loglevel quiet -i "$m3u8"
 	if [[ $? -ne 0 ]]; then
