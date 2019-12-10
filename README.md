@@ -91,6 +91,36 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/320px-Cadena_Dial.svg.png" width="128"/> |Cadena Dial||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/320px-MelodiaFM_logo.svg.png" width="128"/> |Melodía FM||[m3u8](https://icecast-streaming.nice264.com/melodiafm?hash=.mp3)|R-Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/320px-M%C3%A1xima_FM.svg.png" width="128"/> |Máxima FM||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3)|R-Nacional|
+|<img src="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" width="128"/> |Canal Sur Radio||[m3u8](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/ondacero/picture?width=320&height=320" width="128"/> |Onda Cero Sevilla||[m3u8](https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8)|R-Andalucía|
+|<img src="http://graph.facebook.com/COPE/picture?width=320&height=320" width="128"/> |Cadena COPE Sierra Norte||[m3u8](http://5.135.183.124:8100/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/CadenaDigitalMalaga/picture?width=320&height=320" width="128"/> |Cadena Digital||[m3u8](http://185.23.192.118:8006/;stream.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/LatinoFMmalaga/picture?width=320&height=320" width="128"/> |Cadena Latino||[m3u8](http://185.23.192.118:8000/;stream.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Cádiz||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Córdoba||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Sevilla||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/890332081024749/picture?width=320&height=320" width="128"/> |Candil Radio||[m3u8](http://s6.viastreaming.net:7100/;)|R-Andalucía|
+|<img src="http://graph.facebook.com/radiodance.net/picture?width=320&height=320" width="128"/> |Radio Dance||[m3u8](https://listen.radionomy.com/1-radio-dance)|R-Andalucía|
+|<img src="http://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320" width="128"/> |Elite Radio||[m3u8](http://srv0625.lcinternet.com:8005/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/fiebrelatinaradio/picture?width=320&height=320" width="128"/> |Fiebre Latina FM||[m3u8](http://5.135.183.124:8255/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/loveglobalradio/picture?width=320&height=320" width="128"/> |Global Radio||[m3u8](http://stream.seav.co.uk:8000/stream.mp4)|R-Andalucía|
+|<img src="http://graph.facebook.com/integracionradio/picture?width=320&height=320" width="128"/> |Integración Radio||[m3u8](http://5.135.183.124:8023/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/OndaMenciaRadio/picture?width=320&height=320" width="128"/> |Onda Mencía Radio||[m3u8](http://srv0411.lcinternet.com:9000/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/lafresca.es/picture?width=320&height=320" width="128"/> |La Fresca FM||[m3u8](http://stream.produccionesdale.com:8899/altacalidad)|R-Andalucía|
+|<img src="http://graph.facebook.com/lamegamalaga/picture?width=320&height=320" width="128"/> |La Mega FM||[m3u8](http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/189831851070928/picture?width=320&height=320" width="128"/> |Radio Oro Marbella||[m3u8](http://185.23.192.118:8004/;stream.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/189831851070928/picture?width=320&height=320" width="128"/> |Radio Oro Málaga||[m3u8](http://185.23.192.118:8002/;stream.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/RadioPlaneta92.8/picture?width=320&height=320" width="128"/> |Radio Planeta||[m3u8](http://5.79.66.113:8004/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/radioponientedeportes/picture?width=320&height=320" width="128"/> |Radio Poniente||[m3u8](http://94.23.85.189:7855/;listen.pls)|R-Andalucía|
+|<img src="http://graph.facebook.com/RadioMARCA/picture?width=320&height=320" width="128"/> |Radio Marca Málaga||[m3u8](https://malagafm.streaming-pro.com:8131/malagafmmobile)|R-Andalucía|
+|<img src="http://graph.facebook.com/radiomartos/picture?width=320&height=320" width="128"/> |Radio Martos||[m3u8](http://streaming6.elitecomunicacion.es:8234/;)|R-Andalucía|
+|<img src="http://graph.facebook.com/fmradioluz/picture?width=320&height=320" width="128"/> |Radio Luz||[m3u8](http://ns100.emisionlocal.com:8022/;stream.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/SpectrumFMSpain/picture?width=320&height=320" width="128"/> |Spectrum FM||[m3u8](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1)|R-Andalucía|
+|<img src="http://graph.facebook.com/beach.grooves/picture?width=320&height=320" width="128"/> |Beach Grooves||[m3u8](http://stream.beachgrooves.com:8000/stream)|R-Andalucía|
+|<img src="http://graph.facebook.com/ondacadiz/picture?width=320&height=320" width="128"/> |Onda Cadiz Radio||[m3u8](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3)|R-Andalucía|
+|<img src="https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg" width="128"/> |Canal Málaga Radio||[m3u8](http://195.55.74.203/canalmalaga/live.mp3)|R-Andalucía|
+|<img src="http://graph.facebook.com/RTVMarbella/picture?width=320&height=320" width="128"/> |Radio Marbella||[m3u8](http://radio1.todostreaming.es:8126/;str)|R-Andalucía|
+
 
 
 ## Agradecimientos
