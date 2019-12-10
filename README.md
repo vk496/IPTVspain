@@ -146,8 +146,16 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/RadioSanMartin107.1FM/picture?width=320&height=320" width="128"/> |Radio San Martín Sotrondio||[m3u8](http://91.126.223.28:9890/;)|R-Asturias|
 |<img src="http://graph.facebook.com/radioujo/picture?width=320&height=320" width="128"/> |Radio Ujo||[m3u8](http://91.126.223.105:8000/liveHD)|R-Asturias|
 |<img src="http://graph.facebook.com/boxfmec/picture?width=320&height=320" width="128"/> |The Box FM||[m3u8](http://listen128.radionomy.com/thebox)|R-Asturias|
-
-
+|<img src="http://graph.facebook.com/kissfm.es/picture?width=320&height=320" width="128"/> |Kiss FM Canarias||[m3u8](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320" width="128"/> |Canal 4 Tenerife||[m3u8](http://panel.soydigital.fm:8008/stream)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Club Tenerife||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/RadioECCA/picture?width=320&height=320" width="128"/> |Radio ECCA||[m3u8](http://audio1.ipercast.net/endirecto22.es/mp3)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/radioguiniguada/picture?width=320&height=320" width="128"/> |Radio Guiniguada||[m3u8](http://185.129.248.251:9874/;)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/100005645714744/picture?width=320&height=320" width="128"/> |Q FM||[m3u8](http://51.255.235.165:5092/;)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/182679585480117/picture?width=320&height=320" width="128"/> |Teide Radio||[m3u8](http://217.114.211.190:8102/stream/1/)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/185094361671027/picture?width=320&height=320" width="128"/> |O2 Radio||[m3u8](http://62.210.141.18:8000/o2radio)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/741011612731578/picture?width=320&height=320" width="128"/> |Radio Gigante||[m3u8](http://85.214.130.95:8000/stream/1/)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/189726651071598/picture?width=320&height=320" width="128"/> |Canal 11 Radio||[m3u8](http://panel.soydigital.fm:8008/stream)|R-Islas Canarias|
 
 
 
