@@ -254,6 +254,16 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/euskalerriairratia/picture?width=320&height=320" width="128"/> |Euskalerria Irratia||[m3u8](http://server4.beatproducciones.com:8014/;)|R-Navarra|
 |<img src="http://graph.facebook.com/radiouniversidaddenavarra/picture?width=320&height=320" width="128"/> |Radio Universidad de Navarra||[m3u8](http://s37.myradiostream.com/8638/listen.mp3)|R-Navarra|
 |<img src="http://graph.facebook.com/trakfmpamplona/picture?width=320&height=320" width="128"/> |Trak FM Pamplona||[m3u8](http://91.121.77.67:8070/;stream.mp3)|R-Navarra|
+|<img src="http://graph.facebook.com/eitbmusika/picture?width=320&height=320" width="128"/> |EITB Musika||[m3u8](https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/index_128_a-b.m3u8)|R-País Vasco|
+|<img src="http://graph.facebook.com/Euskadi.Irratia/picture?width=320&height=320" width="128"/> |Euskadi Irratia||[m3u8](https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/index_128_a-b.m3u8)|R-País Vasco|
+|<img src="http://graph.facebook.com/gaztea/picture?width=320&height=320" width="128"/> |Gaztea||[m3u8](https://etbagazteanogeo-lh.akamaihd.net/i/GAZTEA_1@349778/index_128_a-p.m3u8)|R-País Vasco|
+|<img src="http://graph.facebook.com/radiovitoria.eitb/picture?width=320&height=320" width="128"/> |Radio Euskadi||[m3u8](https://etbareuskadnogeo-lh.akamaihd.net/i/REUSKADI_1@594818/index_128_a-p.m3u8)|R-País Vasco|
+|<img src="http://graph.facebook.com/radioeuskadi.RE/picture?width=320&height=320" width="128"/> |Radio Vitoria||[m3u8](https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/index_128_a-b.m3u8)|R-País Vasco|
+|<img src="http://graph.facebook.com/herriirratia/picture?width=320&height=320" width="128"/> |Radio Popular - Herri Irratia||[m3u8](http://79.137.33.224:8000/radiopopular1)|R-País Vasco|
+|<img src="http://graph.facebook.com/RadioNervion/picture?width=320&height=320" width="128"/> |Radio Nervión||[m3u8](http://radionervion.streaming-pro.com:6015/radionervion)|R-País Vasco|
+|<img src="http://graph.facebook.com/ondavasca/picture?width=320&height=320" width="128"/> |Onda Vasca||[m3u8](https://www.ondavasca.com:8001/bizkaia)|R-País Vasco|
+|<img src="http://graph.facebook.com/ondavasca/picture?width=320&height=320" width="128"/> |Onda Vasca Gipuzcoa||[m3u8](https://www.ondavasca.com:8001/gipuzkoa)|R-País Vasco|
+|<img src="http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320" width="128"/> |Radio 7||[m3u8](http://radio7.streaming-pro.com:7501/;stream.mp3)|R-País Vasco|
 
 
 
