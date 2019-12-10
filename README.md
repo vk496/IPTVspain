@@ -159,6 +159,16 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Albacete||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3)|R-Castilla La-Mancha|
 |<img src="http://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320" width="128"/> |Radio Arrebato||[m3u8](http://srv0510.emisorasonline.com:8025/stream)|R-Castilla La-Mancha|
 |<img src="http://graph.facebook.com/RadioChinchilla/picture?width=320&height=320" width="128"/> |Radio Chinchilla||[m3u8](http://streaming.radioalba.es:8114/stream)|R-Castilla La-Mancha|
+|<img src="http://graph.facebook.com/esradio/picture?width=320&height=320" width="128"/> |esRadio - Castilla y León||[m3u8](http://livecyl.esradio.fm/cyl)|R-Castilla y León|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Castilla||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3)|R-Castilla y León|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Valladolid||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3)|R-Castilla y León|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Zamora||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3)|R-Castilla y León|
+|<img src="http://graph.facebook.com/RadioMARCA/picture?width=320&height=320" width="128"/> |Radio Marca Valladolid||[m3u8](http://radiomarcavalladolid.streaming-pro.com:8067)|R-Castilla y León|
+|<img src="http://graph.facebook.com/COPE/picture?width=320&height=320" width="128"/> |COPE Valladolid||[m3u8](https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3)|R-Castilla y León|
+|<img src="http://graph.facebook.com/esradio/picture?width=320&height=320" width="128"/> |esRadio - Castilla y León||[m3u8](http://livestreaming2.esradio.fm:8000/cylrdo16)|R-Castilla y León|
+|<img src="http://graph.facebook.com/mortalfm/picture?width=320&height=320" width="128"/> |Mortal FM||[m3u8](http://server6.20comunicacion.com:8044/)|R-Castilla y León|
+|<img src="http://graph.facebook.com/158974217473244/picture?width=320&height=320" width="128"/> |Vive! Radio||[m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8)|R-Castilla y León|
+
 
 
 
