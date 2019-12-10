@@ -120,6 +120,24 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/ondacadiz/picture?width=320&height=320" width="128"/> |Onda Cadiz Radio||[m3u8](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3)|R-Andalucía|
 |<img src="https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg" width="128"/> |Canal Málaga Radio||[m3u8](http://195.55.74.203/canalmalaga/live.mp3)|R-Andalucía|
 |<img src="http://graph.facebook.com/RTVMarbella/picture?width=320&height=320" width="128"/> |Radio Marbella||[m3u8](http://radio1.todostreaming.es:8126/;str)|R-Andalucía|
+|<img src="http://graph.facebook.com/aragonradio/picture?width=320&height=320" width="128"/> |Aragón Radio (Zaragoza)||[m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8)|R-Aragón|
+|<img src="http://graph.facebook.com/aragonradio/picture?width=320&height=320" width="128"/> |Aragón Radio (Huesca)||[m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8)|R-Aragón|
+|<img src="http://graph.facebook.com/aragonradio/picture?width=320&height=320" width="128"/> |Aragón Radio (Teruel)||[m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8)|R-Aragón|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Radio Zaragoza||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3)|R-Aragón|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Huesca||[m3u8](http://streaming.radiohuesca.com:8010/radiohuescaam)|R-Aragón|
+|<img src="http://graph.facebook.com/COPE/picture?width=320&height=320" width="128"/> |COPE Pirineos||[m3u8](http://85.25.217.22:8110/stream)|R-Aragón|
+|<img src="http://graph.facebook.com/hitpirineos/picture?width=320&height=320" width="128"/> |Hit Pirineos||[m3u8](http://85.25.217.22:8310/stream)|R-Aragón|
+|<img src="http://graph.facebook.com/los40/picture?width=320&height=320" width="128"/> |LOS40 Huesca||[m3u8](https://streamingradio.radiohuesca.com:8061/radio40principales)|R-Aragón|
+|<img src="http://graph.facebook.com/TeaFM1027/picture?width=320&height=320" width="128"/> |Tea FM||[m3u8](http://cervera.eldialdigital.com:8052/;stream.mp3)|R-Aragón|
+|<img src="http://graph.facebook.com/RadioChinchilla/picture?width=320&height=320" width="128"/> |Radio Chinchilla||[m3u8](http://streaming.radioalba.es:8114/stream)|R-Aragón|
+|<img src="http://graph.facebook.com/ainsasobrarbeayuntamiento/picture?width=320&height=320" width="128"/> |Radio Aínsa||[m3u8](https://streamingradio.radiohuesca.com:8071/radiobarbastro)|R-Aragón|
+|<img src="http://graph.facebook.com/RTPAoficial/picture?width=320&height=320" width="128"/> |Radio Barbastro||[m3u8](https://streamingradio.radiohuesca.com:8071/radiobarbastro)|R-Aragón|
+|<img src="http://graph.facebook.com/RTPAoficial/picture?width=320&height=320" width="128"/> |Radio Graus||[m3u8](https://streamingradio.radiohuesca.com:8051/radiograus)|R-Aragón|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Radio Monzón||[m3u8](https://streamingradio.radiohuesca.com:8091/radiomonzon)|R-Aragón|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Radio Ribagorza||[m3u8](http://85.25.217.22:8210/stream)|R-Aragón|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Radio Sariñena||[m3u8](https://streamingradio.radiohuesca.com:8101/radiosarinena)|R-Aragón|
+|<img src="http://www.zaragozafm.es/player/tmp/images/default.png" width="128"/> |ZFM||[m3u8](http://streaming.zarastudio.es/zfm.mp3)|R-Aragón|
+
 
 
 
