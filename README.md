@@ -211,6 +211,15 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/Radiolot/picture?width=320&height=320" width="128"/> |Ràdio Olot||[m3u8](http://chrome.frilab.com:8000/radiolot)|R-Cataluña|
 |<img src="http://graph.facebook.com/RadioSabadell/picture?width=320&height=320" width="128"/> |Ràdio Sabadell||[m3u8](http://online.radiosabadell.fm:8013/stream)|R-Cataluña|
 |<img src="http://graph.facebook.com/489965251169138/picture?width=320&height=320" width="128"/> |Radio Miajadas||[m3u8](http://srv0410.lcinternet.com:8013/stream)|R-Extremadura|
+|<img src="http://graph.facebook.com/aradiogalega/picture?width=320&height=320" width="128"/> |Radio Picariña||[m3u8](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3)|R-Galicia|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Vigo||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3)|R-Galicia|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Principal Monforte||[m3u8](http://srv0510.lcinternet.com:8007/stream)|R-Galicia|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Principal Vilalba||[m3u8](http://srv0510.lcinternet.com:8006/stream)|R-Galicia|
+|<img src="http://graph.facebook.com/cuacfm/picture?width=320&height=320" width="128"/> |Cuac FM||[m3u8](https://streaming.cuacfm.org/cuacfm.ogg)|R-Galicia|
+|<img src="http://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320" width="128"/> |Radio Municipal de Tui||[m3u8](http://srv01.redsanmarcos.com:8022/stream)|R-Galicia|
+|<img src="http://graph.facebook.com/Radiofusionga/picture?width=320&height=320" width="128"/> |Radiofusión||[m3u8](http://srv0411.lcinternet.com:9005/stream)|R-Galicia|
+|<img src="http://graph.facebook.com/196309677056427/picture?width=320&height=320" width="128"/> |Radio Fene||[m3u8](http://srv0490.lcinternet.com:8002/stream)|R-Galicia|
+|<img src="http://graph.facebook.com/radiovoz/picture?width=320&height=320" width="128"/> |Radio Voz||[m3u8](http://live.radiovoz.es/mp3/stream_santiago.mp3)|R-Galicia|
 
 
 
