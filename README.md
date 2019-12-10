@@ -156,6 +156,9 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/185094361671027/picture?width=320&height=320" width="128"/> |O2 Radio||[m3u8](http://62.210.141.18:8000/o2radio)|R-Islas Canarias|
 |<img src="http://graph.facebook.com/741011612731578/picture?width=320&height=320" width="128"/> |Radio Gigante||[m3u8](http://85.214.130.95:8000/stream/1/)|R-Islas Canarias|
 |<img src="http://graph.facebook.com/189726651071598/picture?width=320&height=320" width="128"/> |Canal 11 Radio||[m3u8](http://panel.soydigital.fm:8008/stream)|R-Islas Canarias|
+|<img src="http://graph.facebook.com/cadenaser/picture?width=320&height=320" width="128"/> |Cadena SER - Radio Albacete||[m3u8](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3)|R-Castilla La-Mancha|
+|<img src="http://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320" width="128"/> |Radio Arrebato||[m3u8](http://srv0510.emisorasonline.com:8025/stream)|R-Castilla La-Mancha|
+|<img src="http://graph.facebook.com/RadioChinchilla/picture?width=320&height=320" width="128"/> |Radio Chinchilla||[m3u8](http://streaming.radioalba.es:8114/stream)|R-Castilla La-Mancha|
 
 
 
