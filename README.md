@@ -233,6 +233,17 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/DasInselradio/picture?width=320&height=320" width="128"/> |Mallorca Sunshine Radio||[m3u8](https://stream.inselradio.com/high.sunshine.opus)|R-Islas Baleares|
 |<img src="http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320" width="128"/> |Fibwi Radio||[m3u8](http://stream.fibwi.com:9000/stream)|R-Islas Baleares|
 |<img src="http://graph.facebook.com/RadioOneMallorca/picture?width=320&height=320" width="128"/> |Radio One Mallorca||[m3u8](http://80.32.132.126:8000/;)|R-Islas Baleares|
+|<img src="http://graph.facebook.com/ondamadridradio/picture?width=320&height=320" width="128"/> |OndaMadrid||[m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8)|R-Madrid|
+|<img src="http://graph.facebook.com/OmcRadio/picture?width=320&height=320" width="128"/> |OMC Radio||[m3u8](http://cervera.eldialdigital.com:8104/;)|R-Madrid|
+|<img src="http://graph.facebook.com/RadioAlmenara/picture?width=320&height=320" width="128"/> |Radio Almenara||[m3u8](http://185.50.197.212:9986/;)|R-Madrid|
+|<img src="http://graph.facebook.com/297157036138/picture?width=320&height=320" width="128"/> |Radio Cigüeña||[m3u8](http://streamserver2.somosdigital.net:2199/system/images/tunein-pls.png)|R-Madrid|
+|<img src="http://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320" width="128"/> |Radio Enlace||[m3u8](http://cervera.eldialdigital.com:8100/;)|R-Madrid|
+|<img src="http://graph.facebook.com/RadioFuga/picture?width=320&height=320" width="128"/> |Radio Fuga||[m3u8](http://radiogestion.com:7090/radiofuga)|R-Madrid|
+|<img src="https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg" width="128"/> |Radio Las Águilas||[m3u8](http://server2.crearradio.com:8306/;stream)|R-Madrid|
+|<img src="http://graph.facebook.com/radiomorata/picture?width=320&height=320" width="128"/> |Radio Morata||[m3u8](http://cervera.eldialdigital.com:8132/codec=mp3)|R-Madrid|
+|<img src="http://graph.facebook.com/RadioRomanul/picture?width=320&height=320" width="128"/> |Radio Romanul||[m3u8](http://streaming.radioromanul.es:55556/radioromanul)|R-Madrid|
+|<img src="http://graph.facebook.com/179099278878655/picture?width=320&height=320" width="128"/> |Radio Utopía||[m3u8](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3)|R-Madrid|
+|<img src="http://graph.facebook.com/radiovallekas/picture?width=320&height=320" width="128"/> |Radio Vallekas||[m3u8](http://cervera.eldialdigital.com:8032/;)|R-Madrid|
 
 
 
