@@ -2,6 +2,7 @@
 
 # Algunos canales son inaccesibles desde el extranjero (24h por ejemplo) o durante emisiones restringidas (La 2, Antena3, ...). Que fallen puede ser normal
 ignore_array=(
+	La_1
 	La_2
 	24_Horas
 	Neox_\(fallback\)
@@ -10,8 +11,14 @@ ignore_array=(
 	Mega_\(fallback\)
 	La_Sexta_\(fallback\)
 	Teledeporte
+	Neox
+	Nova
+	Mega
+	Atreseries
 )
 
+
+num_retries=3
 
 exit_code=0
 
@@ -20,8 +27,17 @@ while read line; do
 	m3u8=$(echo $line | cut -d\| -f5 | cut -d\( -f2 | cut -d\) -f1)
 
 	status="\e[92mVALID\e[0m"
-	ffprobe -loglevel quiet -i "$m3u8"
-	if [[ $? -ne 0 ]]; then
+
+	ec=1
+	for run in $(seq 1 $num_retries); do
+		ffprobe -user_agent "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" -timeout 10000000 -loglevel quiet -i "$m3u8"
+		if [[ $? -eq 0 ]]; then
+			ec=0
+			break
+		fi
+	done
+
+	if [[ $ec -ne 0 ]]; then
 		status="\e[93mPASSD\e[0m"
 		
 		if [[ ! " ${ignore_array[@]} " =~ " ${name} " ]]; then
