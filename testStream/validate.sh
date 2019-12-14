@@ -16,6 +16,8 @@ ignore_array=(
 	Mega
 	Atreseries
 	TV_Canaria
+	Telemadrid
+	LaOtra
 )
 
 
