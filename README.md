@@ -58,6 +58,25 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png" width="128"/> |3/24||[m3u8](https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8)|Cataluña|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo-elpuntavui-4.png" width="128"/> |El Punt Avui TV||[m3u8](https://liveingesta119.cdnmedia.tv/puntavuitvlive/smil:live.smil/playlist.m3u8)|Cataluña|
 |<img src="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon.png" width="128"/> |Televisión Vega Baja||[m3u8](http://185.29.68.24/tvb.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/apuntmedia/picture?width=320&height=320" width="128"/> |À Punt HD||[m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320" width="128"/> |La 8 Mediterráneo HD||[m3u8](https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8)|C. Valenciana|
+|<img src="https://pbs.twimg.com/profile_images/839481452920193024/R04ozlyG_400x400.jpg" width="128"/> |7 TeleValencia||[m3u8](https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/levantetv/picture?width=320&height=320" width="128"/> |Levante TV||[m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/master.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320" width="128"/> |Intercomarcal TV||[m3u8](http://78.41.83.88:8880/hls/tvixa.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/Tele7Safor/picture?width=320&height=320" width="128"/> |telesafor||[m3u8](http://video.telesafor.com/hls/video.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/canal56televisio/picture?width=320&height=320" width="128"/> |Canal 56||[m3u8](https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/tvArtequatre/picture?width=320&height=320" width="128"/> |tv-A||[m3u8](http://5.39.65.105/hls/tvaxa.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/alacantitv/picture?width=320&height=320" width="128"/> |Alicantí TV||[m3u8](http://5.39.65.105/hls/alacantixa.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/ribera.televisio/picture?width=320&height=320" width="128"/> |RiberaTV||[m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/TV4LaVall/picture?width=320&height=320" width="128"/> |TV4 La Vall||[m3u8](https://common01.todostreaming.es/live/tarson-livestream.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/teve4televisio/picture?width=320&height=320" width="128"/> |TeVe4||[m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/103588046375790/picture?width=320&height=320" width="128"/> |Información TV||[m3u8](http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/Pequeradio/picture?width=320&height=320" width="128"/> |PequeRadio TV||[m3u8](http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/TeleSagunto/picture?width=320&height=320" width="128"/> |Tele Sagunto||[m3u8](https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8)|C. Valenciana|
+|<img src="https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg" width="128"/> |Gestiona TV||[m3u8](http://37.187.7.106/gestionatv/live.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/Elche7Tv/picture?width=320&height=320" width="128"/> |Elche 7 TV||[m3u8](http://154.60.248.32/hls/canal1.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/vidartv/picture?width=320&height=320" width="128"/> |RTV Vida HD||[m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8)|C. Valenciana|
+|<img src="http://graph.facebook.com/latinostvvlc/picture?width=320&height=320" width="128"/> |Latinos TV||[m3u8](https://5c21f7ec1999d.streamlock.net/8212/8212/playlist.m3u8)|C. Valenciana|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" width="128"/> |TVG (Europa)||[m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8)|Galicia|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" width="128"/> |Momentos G||[m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8)|Galicia|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/640px-TeleMadrid.svg.png" width="128"/> |Telemadrid||[m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8)|Madrid|
