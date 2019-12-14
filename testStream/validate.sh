@@ -15,8 +15,17 @@ ignore_array=(
 	Nova
 	Mega
 	Atreseries
+	TV_Canaria
 )
 
+
+ffmpeg_ua() {
+	ffprobe -user_agent "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" -timeout 10000000 -loglevel quiet -i "$1"
+}
+
+ffmpeg_wua() {
+	ffprobe -timeout 10000000 -loglevel quiet -i "$1"
+}
 
 num_retries=3
 
@@ -29,8 +38,14 @@ while read line; do
 	status="\e[92mVALID\e[0m"
 
 	ec=1
-	for run in $(seq 1 $num_retries); do
-		ffprobe -user_agent "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" -timeout 10000000 -loglevel quiet -i "$m3u8"
+	for it in $(seq 1 $num_retries); do
+		# Some streams fail with/without UA
+		if [[ $it -eq 1 ]]; then
+			ffmpeg_ua "$m3u8"
+		else
+			ffmpeg_wua "$m3u8"
+		fi
+		
 		if [[ $? -eq 0 ]]; then
 			ec=0
 			break
