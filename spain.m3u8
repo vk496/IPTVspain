@@ -52,8 +52,6 @@ https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islas Canarias" tvg-id="TelevisiónCanaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
-#EXTINF:-1 group-title="Islas Canarias" tvg-id="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 group-title="Cantabria" tvg-id="" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2015/03/Bola.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Popular TV Cantabria
 https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 group-title="Cataluña" tvg-id="TV3 Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/294px-TV3.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV3
@@ -121,7 +119,7 @@ https://icecast-streaming.nice264.com/melodiafm?hash=.mp3
 #EXTINF:-1 group-title="R-Nacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/320px-M%C3%A1xima_FM.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Máxima FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3
 #EXTINF:-1 group-title="R-Andalucía" tvg-id="" tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Canal Sur Radio
-http://195.10.10.206/rtva/canalsurradio_sevilla.mp3
+http://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/playlist.m3u8
 #EXTINF:-1 group-title="R-Andalucía" tvg-id="" tvg-logo="http://graph.facebook.com/ondacero/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Onda Cero Sevilla
 https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8
 #EXTINF:-1 group-title="R-Andalucía" tvg-id="" tvg-logo="http://graph.facebook.com/COPE/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena COPE Sierra Norte
@@ -242,8 +240,6 @@ http://audio1.ipercast.net/endirecto22.es/mp3
 http://185.129.248.251:9874/;
 #EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/100005645714744/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Q FM
 http://51.255.235.165:5092/;
-#EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/182679585480117/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Teide Radio
-http://217.114.211.190:8102/stream/1/
 #EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/185094361671027/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",O2 Radio
 http://62.210.141.18:8000/o2radio
 #EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/741011612731578/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio Gigante
@@ -297,7 +293,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.m
 #EXTINF:-1 group-title="R-Cataluña" tvg-id="" tvg-logo="http://graph.facebook.com/cadenaser/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena SER - Ràdio Manresa
 http://streaming.enantena.com:8000/taronjadigital-bages56.mp3
 #EXTINF:-1 group-title="R-Cataluña" tvg-id="" tvg-logo="http://graph.facebook.com/COPE/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",COPE Barcelona
-https://flucast-b05-06.flumotion.com/copesedes/barcelona.mp3
+https://wecast-b03-04.flumotion.com/copesedes/barcelona.mp3
 #EXTINF:-1 group-title="R-Cataluña" tvg-id="" tvg-logo="http://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Equinox Radio
 http://listen.radionomy.com/absolutevintage
 #EXTINF:-1 group-title="R-Cataluña" tvg-id="" tvg-logo="http://graph.facebook.com/lamarinacat/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",La Marina FM
