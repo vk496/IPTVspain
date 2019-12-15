@@ -62,13 +62,51 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 https://liveingesta119.cdnmedia.tv/puntavuitvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Televisión Vega Baja
 http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/apuntmedia/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",À Punt HD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 8 Mediterráneo HD
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/839481452920193024/R04ozlyG_400x400.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",7 TeleValencia
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/levantetv/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Levante TV
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/master.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Intercomarcal TV
+http://78.41.83.88:8880/hls/tvixa.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/Tele7Safor/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",telesafor
+http://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/canal56televisio/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal 56
+https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/tvArtequatre/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",tv-A
+http://5.39.65.105/hls/tvaxa.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/alacantitv/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Alicantí TV
+http://5.39.65.105/hls/alacantixa.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/ribera.televisio/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",RiberaTV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/TV4LaVall/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TV4 La Vall
+https://common01.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/teve4televisio/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TeVe4
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/103588046375790/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Información TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/Pequeradio/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",PequeRadio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/TeleSagunto/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Tele Sagunto
+https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Gestiona TV
+http://37.187.7.106/gestionatv/live.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/Elche7Tv/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Elche 7 TV
+http://154.60.248.32/hls/canal1.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/vidartv/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",RTV Vida HD
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 group-title="C. Valenciana" tvg-id="" tvg-logo="http://graph.facebook.com/latinostvvlc/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Latinos TV
+https://5c21f7ec1999d.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",TVG (Europa)
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/480px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Momentos G
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Madrid" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/640px-TeleMadrid.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 group-title="Madrid" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/640px-LaOtra.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La Otra
+#EXTINF:-1 group-title="Madrid" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/640px-LaOtra.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",LaOtra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 #EXTINF:-1 group-title="Melilla" tvg-id="" tvg-logo="https://media.tvalacarta.info/canales/256x256/tvmelilla.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Televisión Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
@@ -244,6 +282,8 @@ http://51.255.235.165:5092/;
 http://62.210.141.18:8000/o2radio
 #EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/741011612731578/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Radio Gigante
 http://85.214.130.95:8000/stream/1/
+#EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Canarias Radio
+http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8
 #EXTINF:-1 group-title="R-Islas Canarias" tvg-id="" tvg-logo="http://graph.facebook.com/189726651071598/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Canal 11 Radio
 http://panel.soydigital.fm:8008/stream
 #EXTINF:-1 group-title="R-Castilla La-Mancha" tvg-id="" tvg-logo="http://graph.facebook.com/cadenaser/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml" radio="true",Cadena SER - Radio Albacete
