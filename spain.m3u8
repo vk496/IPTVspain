@@ -112,6 +112,10 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Murcia" tvg-id="7TVMUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/7TVRM.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",7 TV Región Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="País Vasco" tvg-id="" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",ETB 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1 group-title="País Vasco" tvg-id="" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",ETB 2
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:-1 group-title="País Vasco" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/640px-ETBSat_Spain.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",ETB SAT
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Antena 3 (fallback)
