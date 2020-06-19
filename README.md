@@ -30,18 +30,13 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" width="64"/> |La 1|LA 1|[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" width="64"/> |La 2|LA 2|[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="64"/> |Antena 3|Antena 3|[m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="64"/> |Antena 3 (fallback)|Antena 3|[m3u8](https://livestartover-i.akamaized.net/geoantena3/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" width="64"/> |Cuatro|Cuatro|[m3u8](https://pastebin.com/raw/nUFDnkws)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" width="64"/> |Telecinco|Telecinco|[m3u8](https://pastebin.com/raw/455ygZ6Y)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="64"/> |La Sexta|La Sexta|[m3u8](https://livestartover.atresmedia.com/lasexta/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="64"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover.atresmedia.com/geolasexta/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" width="64"/> |24 Horas|24 Horas|[m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8)|Informativos|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="64"/> |Neox|Neox|[m3u8](https://livestartover-i.akamaized.net/geoneox/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="64"/> |Neox (fallback)|Neox|[m3u8](https://livestartover-i.akamaized.net/neox/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="64"/> |Nova|Nova|[m3u8](https://livestartover-i.akamaized.net/geonova/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="64"/> |Nova (fallback)|Nova|[m3u8](https://livestartover-i.akamaized.net/nova/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="64"/> |Mega|Mega|[m3u8](https://livestartover-i.akamaized.net/geomega/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="64"/> |Mega (fallback)|Mega|[m3u8](https://livestartover-i.akamaized.net/mega/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/247px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" width="64"/> |FDF|Factoría de Ficción|[m3u8](https://pastebin.com/raw/WDb2J2pN)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" width="64"/> |Paramount Channel|Paramount Channel|[m3u8](http://paramount.live.flumotion.com/live/playlist.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" width="64"/> |Boing|Boing|[m3u8](https://pastebin.com/raw/afgk7wAC)|Nacional|
@@ -91,6 +86,11 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/eitb/picture?width=320&height=320" width="64"/> |ETB 1||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8)|País Vasco|
 |<img src="http://graph.facebook.com/eitb/picture?width=320&height=320" width="64"/> |ETB 2||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8)|País Vasco|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/640px-ETBSat_Spain.svg.png" width="64"/> |ETB SAT||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8)|País Vasco|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="64"/> |Antena 3 (fallback)|Antena 3|[m3u8](https://livestartover-i.akamaized.net/geoantena3/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="64"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover.atresmedia.com/geolasexta/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="64"/> |Neox (fallback)|Neox|[m3u8](https://livestartover-i.akamaized.net/neox/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" width="64"/> |Nova (fallback)|Nova|[m3u8](https://livestartover-i.akamaized.net/nova/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" width="64"/> |Mega (fallback)|Mega|[m3u8](https://livestartover-i.akamaized.net/mega/master.m3u8)|Nacional|
 
 ## ¿Y la radio?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
