@@ -15,9 +15,9 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Neox
-https://livestartover-i.akamaized.net/geoneox/master.m3u8
+https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Nova
-https://livestartover-i.akamaized.net/geonova/master.m3u8
+https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Mega
 https://livestartover-i.akamaized.net/geomega/master.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/247px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",FDF
