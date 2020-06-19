@@ -27,8 +27,8 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 ## ¿Qué canales hay?
 |Logo|Nombre|EPG ID|M3U8|Categoría|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" width="64"/> |La 1|LA 1|[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8)|Nacional|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" width="64"/> |La 2|LA 2|[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" width="64"/> |La 1|LA 1|[m3u8](https://rtvelivestream.akamaized.net/la1_dvr.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" width="64"/> |La 2|LA 2|[m3u8](https://rtvelivestream.akamaized.net/la2_dvr.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="64"/> |Antena 3|Antena 3|[m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" width="64"/> |Cuatro|Cuatro|[m3u8](https://pastebin.com/raw/nUFDnkws)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" width="64"/> |Telecinco|Telecinco|[m3u8](https://pastebin.com/raw/455ygZ6Y)|Nacional|
@@ -86,6 +86,8 @@ Los Pull Requests son siempre bienvenidos. También tienes un grupo de Telegram:
 |<img src="http://graph.facebook.com/eitb/picture?width=320&height=320" width="64"/> |ETB 1||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8)|País Vasco|
 |<img src="http://graph.facebook.com/eitb/picture?width=320&height=320" width="64"/> |ETB 2||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8)|País Vasco|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/640px-ETBSat_Spain.svg.png" width="64"/> |ETB SAT||[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8)|País Vasco|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" width="64"/> |La 1 (fallback)|LA 1|[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8)|Nacional|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/320px-Logo_TVE-2.svg.png" width="64"/> |La 2 (fallback)|LA 2|[m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" width="64"/> |Antena 3 (fallback)|Antena 3|[m3u8](https://livestartover-i.akamaized.net/geoantena3/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" width="64"/> |La Sexta (fallback)|La Sexta|[m3u8](https://livestartover.atresmedia.com/geolasexta/master.m3u8)|Nacional|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" width="64"/> |Neox (fallback)|Neox|[m3u8](https://livestartover-i.akamaized.net/neox/master.m3u8)|Nacional|
