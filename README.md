@@ -1,3 +1,6 @@
+# Debido a la falta de interés del proyecto, veo conveniente cerrarlo.
+# Recomiendo migrar a https://github.com/LaQuay/TDTChannels
+
 <img align="left" src="custom/logo.jpg" width="150" title="logo">
 
 IPTVspain
